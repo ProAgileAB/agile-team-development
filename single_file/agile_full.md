@@ -374,3 +374,585 @@ During this prep session, focus on how the goal/visio can be made attractive to 
 
 *  Save the physical results for use in later retrospectives and other sessions
 
+
+# Organizational Goals for Teams
+
+Note, this Guide have some shared parts with the Product Goals for Teams Guide. Similar passages have been marked with grey so that people familiar with that guide can see what differs
+
+## Time required
+
+Typically 30 min - 1 hours, depending on how unfamiliar/unclear the vision and goals are to the team
+
+## Materials Required
+
+>  Orange & green positits
+
+>  Markers
+
+## Purpose
+
+>  This is a teamstart/team development exercise. The purpose of it is for the team to get to know their purpose more in detail, for them to process it, discuss it, understand it and internalize it.
+
+>  Having a clear, compelling purpose is the most important factor when it comes to how a team performs. With no shared goal there will no team.
+
+>  It the context where we work we usually use self organizing teams
+
+>  For a team we usually cover goals from several perspectives:
+
+ >    -   **Line Organization &lt;- covered in this guide**
+
+ >    -   Product
+
+ >    -   Team
+
+ >    -   Individual
+
+## Preparations
+
+Book some prep-sessions with a line manager responsible for the teams. They need to present the organizational/way of working vision/goals at the session. Expect at least 1+2 hours prep with some days in between to create attractive visions/a compelling direction from organization point of view.
+
+The purpose of the line manager participating in this session is:
+
+>  Explain reasons for agle improvement efforts/agile transformation in a way that energizes the team 
+
+>  Explain what the team is expected to do as an agile team, except to develop product. 
+
+>  This is usually:
+
+>>   Own their own ways of working and continuously improve it, i.e. they need to be experts on agile ways of working in addition to experts in programming/UX/test etc
+
+>>   Work more closely and as a team instead of as individuals. Broaden skills, focus on team goals and help out in areas where you don't have super skills, but makes sense to meet the team goal.
+
+>>   Refine and improve skills in communication, decision making, problem solving and conflict management to be able to reach a truly well functioning self organizing team level
+
+>>   Learn new skills in your area related to how to perform it with agile tools and techniques (i.e. Test driven development, refactoring, Lean UX, Agile testing etc)
+
+>>   Take end to end responsibility including requiremetsm test and deploy.
+
+>>   Synchronize directly with other teams rather than relying on other to do this
+
+>>   ...
+
+
+The vision regarding on why are trying to get more agile and how we want the teams to develop needs to be high intensity, emotional, personal
+
+Some ideas on how to reach that in the prep session is below.
+
+>   Avoid powerpoints. Human to human communication is most often best done without it.
+
+>   A personal story is one of the most effective ways of communicating a vision. This comes from 100 000 years of human history telling around campfires before we invented more elaborate writing, so it is a uniquely tested and effective way to convey information and motivate/energize others
+
+>   Wording and expressions should be personal and use emotion. Words like proud, excited, sad etc are good to use. We do not want dry "professional" language.
+
+>   Good stories around way of working may origin from examples. Ask the Line manager what are some examples where we work as best in this organization. Look for examples where we already work close as a cross functional team with a clear purpose, high authority to make decisions, close to the customer, short feedback cycles to deliver maximum value e.g.
+
+>   Sometimes various “task forces” appears as an example. This is quite similar to what we want to achieve with agile teams, clear goals, all the right people, high authority to make decisions, no bureaucracy. But also point out that we want to do it with sustainable pace and high quality,
+
+>   Maybe the vision can be summarized in a few keywords (max 3-5) and/or a small picture. Encourage live-drawing the visio/picture.
+
+>   Thinking about the “receiver” is always good, what is in it for the team, for the individuals. Emphasize these aspects.
+
+
+## How
+
+  *As an agile team you are also a very important part of our agile transformation. The type of agile teams we are trying to grow and develop now probably also are quite different that teams you have been in the past. Maybe even even if they have been called "Scrum teams". So we have today out line manager to explain and discuss what it is that the organization wants to achieve in terms of way of working and how that affects your team*
+
+  *While talking you all will write some comments on orange and green positits. Green postits for clear goals directions that you hear. Orange for items you feel could be more clear or that you would like to discuss*
+
+>   Let the PO do the presentation. After, collect all clear/unclear postits on some flipcharts. Facilitate a summary of the green ones and a discussion/clarification of orange ones together with the line manager
+
+>   Save the physical results for use in later retrospectives and other sessions
+
+
+# Team Vision
+
+## Time required
+
+Typically 1 hour
+
+## Materials Required
+
+>   Assorted positits
+>   Markers
+>   Coloured markers
+>   Flipchart papers
+>   Whiteboard, or even better a longer piece of paper/portable whiteboard plastic to put on the wall for the vision story
+>   Possibly some music playing device loaded with really soft instrumental music
+
+## Purpose
+
+>   This is a teamstart/team development exercise. The purpose of it is for the team to start defining themselves as a team by creating a shared team vision on what team they want this to be
+
+>   For a team we usually cover goals from several perspectives:
+
+>>  Organization
+
+>>  Product
+
+>>  **Team &lt;- Covered in this guide**
+
+>>  Individual
+
+## How
+
+### Intro
+
+*Now we have dealt with some of the goals from the organisation and product management.*
+
+*The next few session will be about you and your team and what you want it to be. So, if we want this to be really  great team experience, maybe one of the best in your career so far, then probably we should should spend some time to get everyone's input on what that really great team experience would look like!*
+
+*If you agree on what you are aiming at it increases the chance that you get there, does it make sense?*
+
+
+
+### Warmup -&gt; pairwise
+
+*Ok, as a warmup, I want you all first quietly think about a really great experience that you have had in a team. It could be at work or in a sports team etc, any team. Make a few notes on what happened and also start thinking about what made it so great. Next step will be to talk in pairs, but lets get started individually first for a few minutes. What was the best team you have been on, what made it so great?”*
+
+*Start a timer to avoid interrupting them before they even get started. Give them 4-5 minutes. If you want to avoid the silence, consider playing some really soft instrumental music.*
+
+The reason why we want them to create their new team vision based on experience rather than on empty slogans is to anchor it more deeply by having it, again, be based on personal stories
+
+Some people think better when they get some individual time first, having people write quietly is designed to make it easier for them. After 4-5 minutes, if everyone seems to have gotten started, interrupt them and then ask them to form pairs and share what they came to think of.
+
+I have also done this jumping directly inte pairwise discussion and I think that worked nicely too, although in theory the quiet writing start is probably better.
+
+### Subgroups -&gt; keywords
+
+*After a few minutes of pairwise sharing, start collecting results, if the team is bigger than 6 persons, keep working with subgroups of 3-4 persons. Ask each subgroup to write down some keywords from their stories - if this was the best team you ever worked on - how would you describe it*
+
+### Subgroups -&gt; visualizations
+
+*Sometimes in the past we have asked teams to create a mission statement, like "we are brave and innovative and always work together with customer" - which may be a nice summary of what you have discussed, but perhaps a bit dry and not so inspiring, so today we will create two other representations of your team vision. To start with I would like each subgroup to illustrate with a small drawing using the coloured markers on a flipchart what you think the vision for your team should be. So, take 15 minutes to visualize what you came up with and then you will get to present it to the other subgroup.*
+
+Hand out coloured markers and flipchart papers and start a timer
+
+Make them present it to each other, facilitate som discussions about similarities and differences in the subgroups visualizations. Are there any areas that need decision making or can all team members consent to the team vision as visualised. Facilitate discussions and any decision making.
+
+### Whole team -&gt; Vision story
+
+*Ok, the idea with this is to help you discuss and agree on what a really great team would be for you, something that you can tell stories to your grandchildren about when you are sitting in your rocking-chair on your porch.*
+
+*Which brings us to the final exercise for this topic. Now lets see if we can bring this great visionary drawings into our everyday work here. We will do it by creating something we call a "vision story". The purpose of a vision story is to make this even more hands on and easy to remember. The brain is actually uniquely good at remembering stories since this is how all human knowledge was probably passed on around campfires until we learned more advanced writing.*
+
+*So the next step is to create a story that you can use later when when talk to each other and plan your work and when you notice that you deviate from your visions. Then you can always refer to your story. "Team...we are not doing it like we said!"*
+
+*So, we will do this in two parts*
+
+*   *Pick something that you could work on as a team that would make it possible to include all or most parts from your visionary drawings. It could be a product goal or something you know is coming up in the backlog*
+    
+*   *Create a story timeline here showing how you complete the work as a team, behaving exactly according to your amazing team vision! You can use text and small pictures, anyway you like!*
+
+*In 15 minutes I would like to see and hear your story!*
+
+Listen to their story, ask them if it covers the vision drawings? If not, can it be tweaked to include all? Then ask then are you going to to do this, in this way for real? Facilitate decision making.
+
+When all is done, celebrate by a round of high fives or something! When you have done this task in this way you will never forget you ambitious team vision!
+
+
+# Individual Goals
+
+## Time required
+
+Typically 1,5 hours
+
+## Materials Required
+
+*   Assorted positits
+*   Markers
+*   Flipchart papers
+
+## Purpose
+
+*   This is a teamstart/team development exercise. Decentralization, self organization and agile development relies heavily on highly motivated individuals. This exercise is designed to help the team work in a way that is supporting individuals' motivators.
+
+*   It also helps the team to distribute work better since each person's preferences gets known to the team
+
+*   For a team we usually cover goals from several perspectives:
+
+    *   Organization
+
+    *   Product
+
+    *   Team
+
+    *   **Individual &lt;- Covered in this guide**
+
+
+## How
+
+### Part 1: Intro
+
+*- Why are you here, in this team?*
+
+*Have you thought about this question? -) Maybe some of you are here because your boss told you to ;-) ...but it is actually much better if we can work together to create some really good conditions so that everyone is here just because they really want to!*
+
+*So, in this session we will will work a bit on your individual goals both so that you can find some and so that the team can help you fulfil them!'*
+
+*- Show the question written on top of a sample flip chart, like the one on the first page.*
+
+### Part 2: Pairwise coaching
+
+*So, we will do this exercise in three steps, for the first two will will work in pairs, so*
+
+*   *First could you all pair up with someone… Wait until they have...*
+*   *Now get one flipchart each and fill it out like my example*
+
+*Wait...*
+
+*   *The next 15 minutes, one person per pair will fill in the top of his/her poster. It can actually be hard to find some good answers to this question by yourself, so that's why we will be working in pairs. One person will fill out the top of the poster and the other will be the "coach"!*
+    
+*   *The responsibility of the coach is not to make suggestions, but to ask questions to help the other person explore their own thoughts and organize them.*
+
+Last page contains some suggestions on questions a coach can ask. Print them out so that all coaches can have one. Let them have some time to study it before you start.
+
+Then let them go for 15 minutes and then ask them to switch
+
+### Part 3: Team support of individual motivators
+
+*Next*
+
+>    > Let each person describe their poster, to the team
+
+>   > As they speak, let the team take notes on how that can support the person in reaching what they need/want
+
+>   > Collect team suggestions at the bottom of each flipchart flipchart
+
+>   > Facilitate the discussion so that actions are clear and next step for each support action is set
+
+>   > Facilitate decision making, state the suggestions and let the team consent using "fist of five" voting for example
+
+
+
+## Coaching question examples
+
+>   What was a time when you really enjoyed work?
+
+>   What about that did you enjoy?
+
+>   What else...?
+
+>   What are some of the things you enjoy at work?
+
+>   How did that feel when you...&lt;achieved something&gt;?
+
+>   What was another time when you had that feeling?
+
+>   Can you remember a time when you felt really satisfied/excited/happy?
+
+>   Say something more about that...?
+
+>   What makes you feel alive?
+
+>   What motivates you?
+
+>   What are your interests?
+
+>   What about the work we are doing makes you excited?
+
+>   What would you like to learn?
+
+>   What else would make you really happy about having been in this team?
+
+>   What else would you like to experience on this team?
+
+>   I hear that you really enjoy &lt;...&gt;...
+
+>   &lt;....&gt; Seems important to you...
+
+# Balancing Team- and Individual work
+
+## Purpose
+
+*   Create a shared view in team when it comes to advantages, disadvantages and personal preferences when it comes to working closely as a team and when working individually
+
+*   Create some tools that will enable the team to get the benefits of and avoid the drawbacks of both ways of working 
+
+*   Enable and inspire each team member to take responsibility for wellbeing of all other team members
+
+## Time required
+
+35-50 minutes
+
+## Materials Required
+
+*   8 flip chart papers, board markers
+*   Tape
+*   Post-Its and some other small notes/papers
+
+## Preparations
+
+*   Make sure a basic level of psychological safety exist in team before doing this
+*   Tape a big cross on the floor
+*   Put small notes/Post-Its at the ends of the tape: team/individual, (positive)/-(negative)
+*   Prepare your agenda so that the spirit in the room is good when we start. You may want to do an energizer? This fits nicely as a follow-up to "Journey Lines" or "Me Map"
+
+## How
+
+Explain that:
+
+*   The goal of the exercise is to explore and to get to know our various experiences and thoughts around working individually and working as a team.
+*   There is no right and wrong, just different experiences and thoughts
+*   The goal is not to get everyone to think that 100% close team collaboration is the one and only true solution
+
+**Intro/Warm up**
+
+Explain the two axles: positive, negative, working as a team, working individually
+
+Invite the participants to wander around on the grid and try to recall some of their own experiences from the various quadrants. Give them 2 minutes in silence to do this. The purpose is to start recalling memories and to focus. When you give them these instructions - walk around in the grid (show by example is more effective than explaining)
+
+**Exploration Pros and Cons**
+
+In this section we will explore pro's and con's of first individual work and then teamwork. We will start with positive - individual. People that appreciate individual work may feel more uncomfortable in an agile
+context. By doing it first we show acknowledge the validity and importance of everyone's views/experiences.
+
+*   On a flip chart stand: Write "Positive - Individual" as header
+*   Get everyone to stand in the + - individual quadrant
+*   As one of the team members to take notes on the flip chart as all team members share their experiences of the positive aspects of working individually
+*   When done, save the flipchart paper somewhere visible. On the wall/floor or whatever works in the room you use.
+
+Repeat this process in this order (new flip chart paper for each :
+
+*   Negative - Individual work
+*   Positive Teamwork
+*   Negative Individual work
+
+**Reflection, what way off working is best?**
+
+Facilitate a quick reflection/discussion:
+
+*   Is teamwork always the best approach for all types of work?
+
+The conclusion could be along the lines of "We need to be smart and pick a way of working that will maximize the positive sides of both way of working."
+
+Ask the team if they agree with this statement.
+
+**Warning signals and actions**
+
+"Let’s think about how to achieve this in practice!" - On a new flipchart write "Individual work - warning signs". Ask the team - "How can we see if we are on our way into the negative aspects of individual
+work?"
+
+
+Let a team member make notes as the team shares their ideas on this.
+
+When some warning signals have been collected, switch to collecting actions.
+
+“What actions would we take when we notice these signs - to get back into one of the positive quadrants"
+
+Again, let a team member do the note taking as team members make suggestions.
+
+Repeat for teamwork
+
+**Reflection, who is responsible?**
+
+Ask the question
+
+*   Who is responsible for us being in the positive?
+
+Ideally this would be the responsibility of all team members.
+
+**Current preferences**
+
+"We are all humans and we may have our preferences for how we want to work. This may change from week to week, day to day etc, depending on how many things such as life in general."
+
+"Let’s end with exploring where you feel the most at home right now on the grid. If you have a preference: stand on the team individual axis to show what it is" ( Do it yourself when explaining)
+
+**Conclusions**
+
+Ok, thank you all for sharing your experiences and creating all these nice posters!
+
+Facilitate a wrap-up for the team. The purpose is to get buy in for any next steps and to celebrate and reinforce any insights or learnings. 
+
+Ending on a positive note is also good!
+
+Here are some possible questions you could ask them to discuss e.g. in pairs (pick one or two)
+
+*   What was most interesting or valuable for you about this ws?
+*   What do you think our team can gain from looking for these warning signs/taking action?
+*   What is needed for us to follow through on this and not having it fade away?
+*   What else do we need to do to get the benefits we have been talking about?
+*   How do you think paying attention to this can increase the well-being in our team?
+
+
+# Market of skills
+
+## Purpose
+
+>   Make skills the team have visible to entire team.
+>   Increase the sharing of skills among team members
+
+## Possible learning points
+
+>   By making our skills visible to others we can learn from each other better.
+
+## Duration
+
+>   30-60 min
+
+## Material
+
+>   One A3 paper for every participant.
+>   Pens in different colors (not necessary but definitely a bonus) and sharpies.
+
+## How
+
+>   Invite each person to create their own poster. Show a template of how the poster can look like. It shall contain this: (10-15 min)
+>   >  Name
+
+>   >  Self portrait
+
+>   >  Interest or ability (that are unknown to others, could be related to professional or private life)
+
+>   >  Personal goal (could be private or professional)
+
+>   >  My top skill that will help us to reach our goal
+
+>   >  Skills that I can share with others (sell)
+
+>   >  Skills I would like to learn (buy)
+
+>   Invite each person to present their poster. (1-3 min/person)
+
+>   Invite the group of people to self-organize to agree on one buy and one sell transaction per person. What to buy, what to sell and how to take the next steps together. (10 min)
+
+
+## Repairing Broken Agreements
+
+## Time required:
+
+30 min
+
+## Purpose:
+
+>   Motivating teams to make agreements and to hold each other accountable for what has has been agreed
+
+>   After the sessions, the participants shall have the courage to bring up a broken agreement and the skills to repair it
+
+>   When teams practise this technique, it increases the basic emotional safety in the team which makes it a lot easier to develop as a team
+
+## Preparations
+
+>   Print print [*role studies/cases*](https://docs.google.com/document/d/1esGE5pbVGglY4YgakriqoMMRU3nP1r-RkjbpELQXmwk/) for everyone. You need one copy per two participants
+
+>   Ask a co-trainer or someone in the session if they can demonstrate the technique with you as show a bit further below. Go through it with them, explain what you will bring up and why it would have seem like the correct thing to do from their point of view at the time.
+
+## How
+
+(The session below has been designed with the 4c learning approach from "Training from back of the room concept")
+
+**Connect**: Did anyone experience that a team member did not really behave in a way that you think is ok in your team, but you did let it go because you though that bringing it up would be uncomfortable or lead to
+conflict?
+
+**Concept**
+
+*To start with, if someone's behaviour is ok or not is a subjective matter. Someone might think it is perfectly ok to eat a dripping taco while they are borrowing your keyboard, and might not understand why you come running yelling for no reason....*
+
+*Thus, when you are in a team, it is a good idea to have a conversation to try to set a few rules that the team agrees with. It can be about quality, how closely to work together, times, roles and meetings etc. Not too many are needed, 6-7 may be enough. This is an important part when building a team.*
+
+If you are doing this as part of a team start session that includes also making working agreements, point out here that we will do that later, but this exercise is not about that part.
+
+So, what should you do then if someone does not stick to what has been agreed? Who will bring it up? Actually one rule that needs to be in every teams working agreements is that when someone notices that another member don’t stick to the team agreements, that person needs to bring it up right away and repair the agreement. This is since when an agreement has been broken it does not really exist anymore and there is a big risk of "[*broken window
+syndrome*](https://whatis.techtarget.com/definition/broken-window-theory)" kicking in.
+
+*To prevent this from happening in your team each of you will now get to practise bringing something uncomfortable up with a colleague and repairing a broken agreement, but we will do it in a perfectly safe way using some made up cases that you will get to role play.*
+
+*Here is the template that I want you to try out when you do this, it is from Christopher Avery who is a very skilled coach.*
+
+**Example**
+
+*First show using an example, you may have prepared someone in the class to do this or do it with a co-facilitator. If you know the script the other person barely needs any preparation at all.*
+
+>   ***You**: Sam, I had a look in the ocde and it seemed to me that you checked a lot of code in last night without any tests, was that so?*
+
+
+>   ***Sam**: Yeah, that’s right. There was a crises and I had to etc etc*
+
+>   ***You**: Ah. I see. It makes me a bit worried now that we get code without automatic tests into the system. Our team rule to not check anything in without tests have been really great for me. I have felt much more comfortable changing things and we do not get disturbed so much by trouble reports. I’m afraid if we start slipping ere with the testing we will soon be back where we started. What do you think about this rule of never to check in without tests?*
+
+>   ***Sam**: I think it has been good. I was super stressed out yesterday and did not have time, that is all.*
+
+>   ***You**: Do you think we need to change our rule to cover high stress situations better?*
+
+>   ***Sam**: Nah, I think it is probably best if we keep it like it is. I will add the tests now and will take it a bit more easy the next time. Perhaps we could pair program more in those situations to help us not take shortcuts when we are stressed out.*
+
+>   ***You**: Great! Let’s keep up our high quality! &lt;shake hands&gt;*
+
+*What do you think? Can you bring something uncomfortable up in this way?*
+
+**Template**
+
+Show the participants the template below. Write it on a template and show that this is what you just demonstrated:
+
+>   Bring up what you noticed, check if the other person agrees with what you noticed?
+
+>   Tell the other person what the agreement means to you and why you want to keep it.
+
+>   Ask the other person about their view on the agreement
+
+>   Ask if the agreement needs to be changed to work for the other person
+
+>   Make a decision about a new agreement or decide to keep the old one.
+
+**Concrete practise**
+
+*Now each of you will get to practice this technique. I will give you a script with some made up cases and role studies. One of you will play Sam, one will play Chris.*
+
+*In the first case Sam will bring up a broken agreement with Chris and in the second case Chis will bring something up with Sam.*
+
+*Try to use the template that I showed you.*
+
+Hand out the [*cases*](https://docs.google.com/document/d/1esGE5pbVGglY4YgakriqoMMRU3nP1r-RkjbpELQXmwk/),
+(assign each person to be either Sam or Chris)
+
+let them do it, ask some debriefing questions and encourage them,. That sounded great! Lots of conflict in the rool and everyone survived! How did that feel. What did you learn? 
+
+*What will you take away from this exercise?*
+
+**Conclusion**
+
+*Make a note on how and when you could use this technique back at work. How could you introduce it to others?*
+
+# Role study for person playing "Sam"
+
+## Case 1: Sprint planning
+
+### Background:
+
+The rule in your team is that people should strive to participate in sprint planning sessions. You created this rule because you wanted the perspective of everyone during planning. Chris did not appear in the latest session and you had troubles getting to a good plan.
+
+### Assignment:
+
+*   Initiate a discussion with Chris about the broken agreement
+*   Try to renegotiate it so that it fits you both.
+*   Use Christopher Avery's technique for repairing broken agreements
+
+
+## Case 2: Working from home
+
+### Background:
+
+Your company allows you to work from home. You usually take the opportunity to be able to focus.
+
+
+# Role study for person playing "Chris"
+
+## Case 1: Sprint planning
+
+### Background:
+
+Your dentist appointment was during the sprint planning so you could not participate. You already knew most of
+what you would be working on so it was no big deal.
+
+
+## Case 2: Working from home
+
+### Background:
+
+Your company allows working from home. Sam emails you for the third Friday in a row: "I will be working from home
+today, I can be reached by mail and over communicator". You feel this is convenient for Sam personally but it is causing disadvantages for you as a team. Discussions need to take place remotely which is very slow compared to sitting together.
+
+### Assignment:
+
+*   Initiate a discussion with Sam about the situation
+*   Try to create an agreement that meets both your needs
+
