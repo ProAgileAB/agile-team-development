@@ -1,4 +1,3 @@
-
 # Team Vision
 
 ## Time required
