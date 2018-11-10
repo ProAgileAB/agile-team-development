@@ -1,4 +1,5 @@
 # Build trust with simple questions
+#### For get pdf version to this guide [pdf file](https://github.com/ProAgileAB/teams-wrk/tree/master/chapter_file/chapter12.pdf)
 
 ## Purpose
 
@@ -15,6 +16,8 @@ Lack of trust is the first dysfunction which you need to overcome in order to de
 
 ## Preparations
 *  None
+
+![fika](images/graph4.png)
 
 ## Facilitating
 The idea is that if people start to reveal innocent details from their childhood, other people start to realize that they are real human beings, not just work robots.

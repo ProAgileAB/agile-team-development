@@ -1,4 +1,5 @@
 # Organizational Goals for Teams
+#### For get pdf version to this guide [pdf file](https://github.com/ProAgileAB/teams-wrk/tree/master/chapter_file/chapter6.pdf)
 
 Note, this Guide have some shared parts with the Product Goals for Teams Guide. Similar passages have been marked with grey so that people familiar with that guide can see what differs
 

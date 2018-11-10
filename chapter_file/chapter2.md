@@ -1,4 +1,5 @@
 # Ground Rules & Decision Making
+#### For get pdf version to this guide [pdf file](https://github.com/ProAgileAB/teams-wrk/tree/master/chapter_file/chapter2.pdf)
 
 ## Time required
 Typically 5-15 minutes
@@ -99,6 +100,8 @@ This exercise is very well described in Lyssa Adkins' book "Coaching Agile Teams
 *One this that self management means is that that the team, not a project manager or team leader, decides how to work together, who does what etc.*
 
 *To be able to do this is good for us to know a bit more about each others experience and what each of us we enjoy working on and not, so that is the purpose of this next exercise.*
+
+![postits](images/graph1.png)
 
 
 *This is how it will work:*

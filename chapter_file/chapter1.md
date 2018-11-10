@@ -1,10 +1,12 @@
 # Starting and Developing Agile Teams
+#### For get pdf version to this guide [pdf file](https://github.com/ProAgileAB/teams-wrk/tree/master/chapter_file/chapter1.pdf)
+
 
 ## A Facilitation Guide
 
 ## V0.86
 
-#### For updates to this guide, visit [proagile] (http://www.proagile.se/teams/)
+#### For updates to this guide, visit [proagile](http://www.proagile.se/teams/)
 
 
 ## Content

@@ -1,4 +1,5 @@
 # Individual Goals
+#### For get pdf version to this guide [pdf file](https://github.com/ProAgileAB/teams-wrk/tree/master/chapter_file/chapter8.pdf)
 
 ## Time required
 
@@ -11,6 +12,8 @@ Typically 1,5 hours
 >   Markers
 
 >   Flipchart papers
+
+![chris](images/graph2.png)
 
 ## Purpose
 
