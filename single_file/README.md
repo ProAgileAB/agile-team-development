@@ -1,3 +1,114 @@
+Table of Contents
+=================
+
+   * [Starting and Developing Agile Teams](#starting-and-developing-agile-teams)
+      * [A Facilitation Guide](#a-facilitation-guide)
+      * [V0.86](#v086)
+            * [For updates to this guide, visit [proagile] (<a href="http://www.proagile.se/teams/" rel="nofollow">http://www.proagile.se/teams/</a>)](#for-updates-to-this-guide-visit-proagile-httpwwwproagileseteams)
+      * [Content](#content)
+   * [Team-Start Example](#team-start-example)
+      * [Purpose](#purpose)
+      * [Time required](#time-required)
+      * [Preparations](#preparations)
+      * [Agenda](#agenda)
+         * [Connect](#connect)
+            * [Example:](#example)
+      * [Agenda](#agenda-1)
+      * [Ground Rules &amp; Decision making](#ground-rules--decision-making)
+      * [Psychological Safety](#psychological-safety)
+      * [Product Goals](#product-goals)
+      * [Organizational goals](#organizational-goals)
+      * [Team-vision](#team-vision)
+      * [Working agreements](#working-agreements)
+      * [Individual goals](#individual-goals)
+      * [Team skills](#team-skills)
+   * [Ground Rules &amp; Decision Making](#ground-rules--decision-making-1)
+      * [Time required](#time-required-1)
+      * [Materials Required](#materials-required)
+      * [Purpose](#purpose-1)
+      * [How](#how)
+         * [Part 1: Intro](#part-1-intro)
+   * [Journey Lines - Facilitation Guide](#journey-lines---facilitation-guide)
+      * [Purpose](#purpose-2)
+      * [Source](#source)
+      * [Time required](#time-required-2)
+      * [Preparations](#preparations-1)
+      * [Intro](#intro)
+      * [Facilitating the flow](#facilitating-the-flow)
+   * [Appreciation Cards](#appreciation-cards)
+      * [Time required](#time-required-3)
+      * [Materials Required](#materials-required-1)
+      * [Purpose](#purpose-3)
+      * [How](#how-1)
+   * [Product Goals for Teams](#product-goals-for-teams)
+      * [Time required](#time-required-4)
+      * [Materials Required](#materials-required-2)
+      * [Purpose](#purpose-4)
+      * [Preparations](#preparations-2)
+      * [How](#how-2)
+   * [Organizational Goals for Teams](#organizational-goals-for-teams)
+      * [Time required](#time-required-5)
+      * [Materials Required](#materials-required-3)
+      * [Purpose](#purpose-5)
+      * [Preparations](#preparations-3)
+      * [How](#how-3)
+   * [Team Vision](#team-vision-1)
+      * [Time required](#time-required-6)
+      * [Materials Required](#materials-required-4)
+      * [Purpose](#purpose-6)
+      * [How](#how-4)
+         * [Intro](#intro-1)
+         * [Warmup -&gt; pairwise](#warmup---pairwise)
+         * [Subgroups -&gt; keywords](#subgroups---keywords)
+         * [Subgroups -&gt; visualizations](#subgroups---visualizations)
+         * [Whole team -&gt; Vision story](#whole-team---vision-story)
+   * [Individual Goals](#individual-goals-1)
+      * [Time required](#time-required-7)
+      * [Materials Required](#materials-required-5)
+      * [Purpose](#purpose-7)
+      * [How](#how-5)
+         * [Part 1: Intro](#part-1-intro-1)
+         * [Part 2: Pairwise coaching](#part-2-pairwise-coaching)
+         * [Part 3: Team support of individual motivators](#part-3-team-support-of-individual-motivators)
+      * [Coaching question examples](#coaching-question-examples)
+   * [Balancing Team- and Individual work](#balancing-team--and-individual-work)
+      * [Purpose](#purpose-8)
+      * [Time required](#time-required-8)
+      * [Materials Required](#materials-required-6)
+      * [Preparations](#preparations-4)
+      * [How](#how-6)
+   * [Market of skills](#market-of-skills)
+      * [Purpose](#purpose-9)
+      * [Possible learning points](#possible-learning-points)
+      * [Duration](#duration)
+      * [Material](#material)
+      * [How](#how-7)
+   * [Repairing Broken Agreements](#repairing-broken-agreements)
+      * [Time required:](#time-required-9)
+      * [Purpose:](#purpose-10)
+      * [Preparations](#preparations-5)
+      * [How](#how-8)
+   * [Role study for person playing "Sam"](#role-study-for-person-playing-sam)
+      * [Case 1: Sprint planning](#case-1-sprint-planning)
+         * [Background:](#background)
+         * [Assignment:](#assignment)
+      * [Case 2: Working from home](#case-2-working-from-home)
+         * [Background:](#background-1)
+   * [Role study for person playing "Chris"](#role-study-for-person-playing-chris)
+      * [Case 1: Sprint planning](#case-1-sprint-planning-1)
+         * [Background:](#background-2)
+      * [Case 2: Working from home](#case-2-working-from-home-1)
+         * [Background:](#background-3)
+         * [Assignment:](#assignment-1)
+   * [Build trust with simple questions](#build-trust-with-simple-questions)
+      * [Purpose](#purpose-11)
+      * [Source](#source-1)
+      * [Time required](#time-required-10)
+      * [Preparations](#preparations-6)
+      * [Facilitating](#facilitating)
+      * [Variations](#variations)
+
+
 # Starting and Developing Agile Teams
 
 ## A Facilitation Guide
@@ -96,7 +207,7 @@ See [*separate facilitation guide*](https://docs.google.com/document/d/1fPk4fKQO
 The [*Journey Lines*](https://docs.google.com/document/d/1mxg5sH6S1gCsKVzaLUGRA-IQTGSW3JzmQeUbL8206OQ/)
 exercise is a really good way to address this and other goals for new and old teams. Time required is about 2h, depending on team size.
 
-For a team that has been working together, [*Appreciation Cards*](https://docs.google.com/document/d/1voFieypNb9I8--Wbhlg8rHvNwS3bGuyIk0b6prwx6No/) is another really nice way to start a session focused on team development. Time required is &lt; 30 min.  
+For a team that has been working together, [*Appreciation Cards*](#appreciation-cards) is another really nice way to start a session focused on team development. Time required is &lt; 30 min.  
 
 Use both exercises, but perhaps not in the same session!
 
@@ -253,6 +364,7 @@ This exercise is very well described in Lyssa Adkins' book "Coaching Agile Teams
 
 *To be able to do this is good for us to know a bit more about each others experience and what each of us we enjoy working on and not, so that is the purpose of this next exercise.*
 
+![postis](images/graph1.png)
 
 *This is how it will work:*
 
@@ -276,6 +388,7 @@ In your own comments, focus on seeing the whole person rather than commenting on
 You can also comment from the point of the agile coach/Scrum Master, i.e. if the person enjoys working in teams, close to customer, fast feedback, fast decisions etc comment that this is a match with what the team will be asked to do.
 
 # Appreciation Cards
+<appreciation-cards>
 
 ## Time required
 
@@ -574,6 +687,8 @@ Typically 1,5 hours
 
 >   Flipchart papers
 
+![chris](images/graph2.png)
+
 ## Purpose
 
 >   This is a teamstart/team development exercise. 
@@ -809,6 +924,8 @@ Here are some possible questions you could ask them to discuss e.g. in pairs (pi
 
 >   Pens in different colors (not necessary but definitely a bonus) and sharpies.
 
+![name](images/graph4.png)
+
 ## How
 
 >   Invite each person to create their own poster. Show a template of how the poster can look like. It shall contain this: (10-15 min)
@@ -989,6 +1106,8 @@ Lack of trust is the first dysfunction which you need to overcome in order to de
 
 ## Preparations
 *  None
+
+![fika](images/graph4.png)
 
 ## Facilitating
 The idea is that if people start to reveal innocent details from their childhood, other people start to realize that they are real human beings, not just work robots.
