@@ -1,10 +1,17 @@
-Table of Contents
-=================
+# Starting and Developing Agile Teams
 
+## A Facilitation Guide
+
+## V0.86
+
+#### For updates to this guide, visit [proagile](http://www.proagile.se/teams/)
+#### For get pdf version to this guide [pdf file](https://github.com/ProAgileAB/teams-wrk/tree/master/single_file/agile_full.pdf)
+
+## Content
    * [Starting and Developing Agile Teams](#starting-and-developing-agile-teams)
       * [A Facilitation Guide](#a-facilitation-guide)
       * [V0.86](#v086)
-            * [For updates to this guide, visit [proagile] (<a href="http://www.proagile.se/teams/" rel="nofollow">http://www.proagile.se/teams/</a>)](#for-updates-to-this-guide-visit-proagile-httpwwwproagileseteams)
+            * [For updates to this guide, visit [proagile](http://www.proagile.se/teams/)
       * [Content](#content)
    * [Team-Start Example](#team-start-example)
       * [Purpose](#purpose)
@@ -108,17 +115,6 @@ Table of Contents
       * [Facilitating](#facilitating)
       * [Variations](#variations)
 
-
-# Starting and Developing Agile Teams
-
-## A Facilitation Guide
-
-## V0.86
-
-#### For updates to this guide, visit [proagile] (http://www.proagile.se/teams/)
-
-
-## Content
 
 # Team-Start Example
 
@@ -924,7 +920,7 @@ Here are some possible questions you could ask them to discuss e.g. in pairs (pi
 
 >   Pens in different colors (not necessary but definitely a bonus) and sharpies.
 
-![name](images/graph4.png)
+![name](images/graph3.png)
 
 ## How
 
