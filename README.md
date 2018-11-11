@@ -1,4 +1,4 @@
-#**Chapters for book **Starting and Developing Agile Team. A Facilitation Guide**
+# Chapters for book **Starting and Developing Agile Team. A Facilitation Guide**
 
 * **Chapter 01 - Team-Start Example** [Read online](chapter_file/chapter1.md) | Download [PDF](chapter_file/chapter1.pdf)
 * **Chapter 02 - Ground Rules & Decision Making** [Read online](chapter_file/chapter2.md) | Download [PDF](chapter_file/chapter2.pdf)
