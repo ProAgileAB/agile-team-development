@@ -1,5 +1,4 @@
 # Build trust with simple questions
-#### For get pdf version to this guide [pdf file](https://github.com/ProAgileAB/teams-wrk/tree/master/chapter_file/chapter12.pdf)
 
 ## Purpose
 

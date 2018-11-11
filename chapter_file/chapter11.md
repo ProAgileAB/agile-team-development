@@ -1,6 +1,4 @@
 # Repairing Broken Agreements
-#### For get pdf version to this guide [pdf file](https://github.com/ProAgileAB/teams-wrk/tree/master/chapter_file/chapter11.pdf)
-
 
 ## Time required:
 

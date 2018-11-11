@@ -1,5 +1,4 @@
 # Ground Rules & Decision Making
-#### For get pdf version to this guide [pdf file](https://github.com/ProAgileAB/teams-wrk/tree/master/chapter_file/chapter2.pdf)
 
 ## Time required
 Typically 5-15 minutes
