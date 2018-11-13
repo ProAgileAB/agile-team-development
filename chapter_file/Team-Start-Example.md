@@ -63,7 +63,7 @@ We want this to start right away in the morning to avoid people settling into "l
 
 *   *Is there a difference between a team and any group of people What is it?*
 
->    > Let them talk for 5 minutes for so until they get going, then interrupt them and collect some ideas from the pairs. Then give then another warm-up question
+     Let them talk for 5 minutes for so until they get going, then interrupt them and collect some ideas from the pairs. Then give then another warm-up question
 
 *   *Before we start on trying to build a really great team, we should agree on what that is. How would anyone be able to see that we successfully have created a really great team?*
 
