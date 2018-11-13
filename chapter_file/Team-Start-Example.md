@@ -138,15 +138,17 @@ See [*separate facilitation guide*](https://docs.google.com/document/d/18LCnpLDf
 ## Team skills
 
 *   Team formation theory
->   A team move through different phases. See for example the forming, storming, norming, performing theory by Bruce Tuckman or the more recent work by Susan Wheelan. Quickly show the team this and help them realize that this will happen.Especially that the first honeymoon period will be followed by a period of conflict and that this is a good thing that will enable the team to grow if navigated properly.
+    A team move through different phases. See for example the forming, storming, norming, performing theory by Bruce Tuckman or the more recent work by Susan Wheelan. Quickly show the team this and help them realize that this will happen.Especially that the first honeymoon period will be followed by a period of conflict and that this is a good thing that will enable the team to grow if navigated properly.
 
 *   Repair broken agreement
->   Time required, typically 30 min
->   See [*separate facilitation guide*](https://docs.google.com/document/d/1YYU7T4Q0K1wVoelyevMhmEchv0bxpV5idvcpTeRbCro/)
+    Time required, typically 30 min
+
+    See [*separate facilitation guide*](https://docs.google.com/document/d/1YYU7T4Q0K1wVoelyevMhmEchv0bxpV5idvcpTeRbCro/)
 
 *   Making decisions
->    In this guide your team can practise consent decision making using "fist of five" in the beginning of the day and during working agreements section.
->    You may want to mention that for "way of working" decisions, consent decision making is often required - i.e. all team members have to agree to follow the agreement. If not you will get low buy in. In other situations other decision making methods are better suited. E.g. majority vote, individuals decide, at least two members agree etc. The team should strive to define **how** decisions are made before they try to decide something.
+    In this guide your team can practise consent decision making using "fist of five" in the beginning of the day and during working agreements section.
+
+    You may want to mention that for "way of working" decisions, consent decision making is often required - i.e. all team members have to agree to follow the agreement. If not you will get low buy in. In other situations other decision making methods are better suited. E.g. majority vote, individuals decide, at least two members agree etc. The team should strive to define **how** decisions are made before they try to decide something.
     
 *   Problem solving
->    Teams need to learn systematic problem solving to enable good decision making. This is needed both to solve technical problems in a better way than basing it on opinions. It is also needed to solve many way of working problems in larger organizations.The A3 method and/or cause effect diagrams is one good technique that often is valuable for both these problems. This is best practised on some real problems in a separate session. Set aside 2 hours for that and invite a set of stakeholders that can contribute a diverse set of views on some difficult problem.
+    Teams need to learn systematic problem solving to enable good decision making. This is needed both to solve technical problems in a better way than basing it on opinions. It is also needed to solve many way of working problems in larger organizations.The A3 method and/or cause effect diagrams is one good technique that often is valuable for both these problems. This is best practised on some real problems in a separate session. Set aside 2 hours for that and invite a set of stakeholders that can contribute a diverse set of views on some difficult problem.
