@@ -138,11 +138,14 @@ See [*separate facilitation guide*](https://docs.google.com/document/d/18LCnpLDf
 ## Team skills
 
 *   Team formation theory
->   A team move through different phases. See for example the forming, storming, norming, performing theory by Bruce Tuckman or the more recent work by Susan Wheelan. Quickly show the team this and help them realize that this will happen.Especially that the first honeymoon period will be followed by a period of conflict and that this is a good thing that will enable the team to grow if navigated properly.
+    
+    A team move through different phases. See for example the forming, storming, norming, performing theory by Bruce Tuckman or the more recent work by Susan Wheelan. Quickly show the team this and help them realize that this will happen.Especially that the first honeymoon period will be followed by a period of conflict and that this is a good thing that will enable the team to grow if navigated properly.
 
 *   Repair broken agreement
->   Time required, typically 30 min
->   See [*separate facilitation guide*](https://docs.google.com/document/d/1YYU7T4Q0K1wVoelyevMhmEchv0bxpV5idvcpTeRbCro/)
+    
+    Time required, typically 30 min
+    
+    See [*separate facilitation guide*](https://docs.google.com/document/d/1YYU7T4Q0K1wVoelyevMhmEchv0bxpV5idvcpTeRbCro/)
 
 *   Making decisions
 
