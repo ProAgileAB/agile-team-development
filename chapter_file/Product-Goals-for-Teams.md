@@ -16,13 +16,13 @@ Typically 30 min - 2 hours, depending on how unfamiliar/unclear the vision and g
 
    For a team we usually cover goals from several perspectives:
 
-     Organization
+     * Organization
 
-   **Product ← covered in this guide**
+     * **Product ← covered in this guide**
 
-     Team
+     * Team
 
-     Individual
+     * Individual
 
 ## Preparations
 
@@ -32,9 +32,9 @@ The purpose of the PO participating in this session is:
 
    To present long term (and medium term) goals in a way so that the team understands context, actually knows what to do, what is important and why it is important.
 
-     The above is needed to enable the team to make god decentralized decisions
+    The above is needed to enable the team to make god decentralized decisions
 
-  To energize and motivate the team by describing the purpose in a way that is attractive to them,
+   To energize and motivate the team by describing the purpose in a way that is attractive to them,
 
 During this prep session, focus on how the goal/visio can be made attractive to the team. 
 
