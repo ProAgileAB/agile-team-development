@@ -6,31 +6,22 @@ Typically 1,5 hours
 
 ## Materials Required
 
->   Assorted positits
-
->   Markers
-
->   Flipchart papers
+- Assorted positits
+- Markers
+- Flipchart papers
 
 ![chris](images/graph2.png)
 
 ## Purpose
 
->   This is a teamstart/team development exercise. 
-
->   Decentralization, self organization and agile development relies heavily on highly motivated individuals. This exercise is designed to help the team work in a way that is supporting individuals' motivators.
-
->   It also helps the team to distribute work better since each person's preferences gets known to the team
-
->   For a team we usually cover goals from several perspectives:
-
->   > Organization
-
->   > Product
-
->   > Team
-
->   > **Individual &lt;- Covered in this guide**
+- This is a teamstart/team development exercise. 
+- Decentralization, self organization and agile development relies heavily on highly motivated individuals. This exercise is designed to help the team work in a way that is supporting individuals' motivators.
+- It also helps the team to distribute work better since each person's preferences gets known to the team
+- For a team we usually cover goals from several perspectives:
+  - Organization
+  - Product
+  - Team
+  - **Individual &lt;- Covered in this guide**
 
 
 ## How
@@ -66,53 +57,31 @@ Then let them go for 15 minutes and then ask them to switch
 
 *Next*
 
->    > Let each person describe their poster, to the team
-
->   > As they speak, let the team take notes on how that can support the person in reaching what they need/want
-
->   > Collect team suggestions at the bottom of each flipchart flipchart
-
->   > Facilitate the discussion so that actions are clear and next step for each support action is set
-
->   > Facilitate decision making, state the suggestions and let the team consent using "fist of five" voting for example
-
-
+  - Let each person describe their poster, to the team
+  - As they speak, let the team take notes on how that can support the person in reaching what they need/want
+  - Collect team suggestions at the bottom of each flipchart flipchart
+  - Facilitate the discussion so that actions are clear and next step for each support action is set
+  - Facilitate decision making, state the suggestions and let the team consent using "fist of five" voting for example
 
 ## Coaching question examples
 
->   What was a time when you really enjoyed work?
-
->   What about that did you enjoy?
-
->   What else...?
-
->   What are some of the things you enjoy at work?
-
->   How did that feel when you...&lt;achieved something&gt;?
-
->   What was another time when you had that feeling?
-
->   Can you remember a time when you felt really satisfied/excited/happy?
-
->   Say something more about that...?
-
->   What makes you feel alive?
-
->   What motivates you?
-
->   What are your interests?
-
->   What about the work we are doing makes you excited?
-
->   What would you like to learn?
-
->   What else would make you really happy about having been in this team?
-
->   What else would you like to experience on this team?
-
->   I hear that you really enjoy &lt;...&gt;...
-
->   &lt;....&gt; Seems important to you...
+  - What was a time when you really enjoyed work?
+  - What about that did you enjoy?
+  - What else...?
+  - What are some of the things you enjoy at work?
+  - How did that feel when you...&lt;achieved something&gt;?
+  - What was another time when you had that feeling?
+  - Can you remember a time when you felt really satisfied/excited/happy?
+  - Say something more about that...?
+  - What makes you feel alive?
+  - What motivates you?
+  - What are your interests?
+  - What about the work we are doing makes you excited?
+  - What would you like to learn?
+  - What else would make you really happy about having been in this team?
+  - What else would you like to experience on this team?
+  - I hear that you really enjoy &lt;...&gt;...
+  - &lt;....&gt; Seems important to you...
 
 # Balancing Team- and Individual work
 
