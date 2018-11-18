@@ -6,31 +6,23 @@ Typically 1 hour
 
 ## Materials Required
 
->   Assorted positits
-
->   Markers
-
->   Coloured markers
-
->   Flipchart papers
-
->   Whiteboard, or even better a longer piece of paper/portable whiteboard plastic to put on the wall for the vision story
-
->   Possibly some music playing device loaded with really soft instrumental music
+- Assorted positits
+- Markers
+- Coloured markers
+- Flipchart papers
+- Whiteboard, or even better a longer piece of paper/portable whiteboard plastic to put on the wall for the vision story
+- Possibly some music playing device loaded with really soft instrumental music
 
 ## Purpose
 
->   This is a teamstart/team development exercise. The purpose of it is for the team to start defining themselves as a team by creating a shared team vision on what team they want this to be
+This is a teamstart/team development exercise. The purpose of it is for the team to start defining themselves as a team by creating a shared team vision on what team they want this to be
 
->   For a team we usually cover goals from several perspectives:
+For a team we usually cover goals from several perspectives:
 
->>  Organization
-
->>  Product
-
->>  **Team &lt;- Covered in this guide**
-
->>  Individual
+- Organization
+- Product
+- **Team &lt;- Covered in this guide**
+- Individual
 
 ## How
 
@@ -77,9 +69,9 @@ Make them present it to each other, facilitate som discussions about similaritie
 
 *So, we will do this in two parts*
 
->   *Pick something that you could work on as a team that would make it possible to include all or most parts from your visionary drawings. It could be a product goal or something you know is coming up in the backlog*
+- *Pick something that you could work on as a team that would make it possible to include all or most parts from your visionary drawings. It could be a product goal or something you know is coming up in the backlog*
     
->   *Create a story timeline here showing how you complete the work as a team, behaving exactly according to your amazing team vision! You can use text and small pictures, anyway you like!*
+- *Create a story timeline here showing how you complete the work as a team, behaving exactly according to your amazing team vision! You can use text and small pictures, anyway you like!*
 
 *In 15 minutes I would like to see and hear your story!*
 
