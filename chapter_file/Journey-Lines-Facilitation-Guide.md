@@ -1,4 +1,4 @@
-# 03 - Journey Lines - Facilitation Guide
+# Journey Lines - Facilitation Guide
 
 ## Purpose
 

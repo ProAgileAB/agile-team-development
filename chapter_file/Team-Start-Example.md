@@ -1,4 +1,4 @@
-# 01 - Starting and Developing Agile Teams
+# Starting and Developing Agile Teams
 
 ## A Facilitation Guide
 
