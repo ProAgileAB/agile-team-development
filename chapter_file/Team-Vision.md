@@ -1,4 +1,4 @@
-# 07 - Team Vision
+# Team Vision
 
 ## Time required
 
