@@ -1,4 +1,4 @@
-# 09 - Balancing Team- and Individual work
+# Balancing Team- and Individual work
 
 ## Purpose
 

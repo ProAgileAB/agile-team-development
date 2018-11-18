@@ -1,4 +1,4 @@
-# 08 - Individual Goals
+# Individual Goals
 
 ## Time required
 

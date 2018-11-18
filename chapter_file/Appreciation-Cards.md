@@ -1,4 +1,4 @@
-# 04 - Appreciation Cards
+# Appreciation Cards
 
 ## Time required
 

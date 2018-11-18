@@ -1,4 +1,24 @@
+<<<<<<< HEAD
 # Ground Rules & Decision Making
+=======
+# Starting and Developing Agile Teams
+
+## A Facilitation Guide
+
+## V0.86
+
+#### For updates to this guide, visit [proagile](http://www.proagile.se/teams/)
+
+
+## Content
+
+# Team-Start Example
+
+## Purpose
+
+- Supporting a team in their team formation/team development process.
+- Lay the foundation needed for a Scrum Master to be able to coach the team as a team.
+>>>>>>> bd6c734732aaf28d0ff93a845baef72c17d2c528
 
 ## Time required
 Typically 5-15 minutes
