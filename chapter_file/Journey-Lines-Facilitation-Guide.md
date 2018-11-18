@@ -41,6 +41,9 @@ This exercise is very well described in Lyssa Adkins' book "Coaching Agile Teams
 *To be able to do this is good for us to know a bit more about each others experience and what each of us we enjoy working on and not, so that is the purpose of this next exercise.*
 
 
+<img align="left" width="300" height="300" src="images/graph1.png">
+
+
 *This is how it will work:*
 
 *   *Step one is 10 minutes. In those ten minutes I would like you all to take one of these flipchart papers and create a short presentation of jour journeys through your working lifes*. &lt;Show them your pre-created example&gt;. When the line goes up it means you enjoyed it, when it goes down, not so much. Feel free to include more personal events also if you want, because life on work off work usually has an impact on eachother*
