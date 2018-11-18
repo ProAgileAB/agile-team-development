@@ -1,4 +1,4 @@
-# 11 - Repairing Broken Agreements
+# Repairing Broken Agreements
 
 ## Time required:
 
