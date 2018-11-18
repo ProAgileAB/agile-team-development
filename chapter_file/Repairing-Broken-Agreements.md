@@ -6,17 +6,15 @@
 
 ## Purpose:
 
->   Motivating teams to make agreements and to hold each other accountable for what has has been agreed
-
->   After the sessions, the participants shall have the courage to bring up a broken agreement and the skills to repair it
-
->   When teams practise this technique, it increases the basic emotional safety in the team which makes it a lot easier to develop as a team
+- Motivating teams to make agreements and to hold each other accountable for what has has been agreed
+- After the sessions, the participants shall have the courage to bring up a broken agreement and the skills to repair it
+- When teams practise this technique, it increases the basic emotional safety in the team which makes it a lot easier to develop as a team
 
 ## Preparations
 
->   Print print [*role studies/cases*](https://docs.google.com/document/d/1esGE5pbVGglY4YgakriqoMMRU3nP1r-RkjbpELQXmwk/) for everyone. You need one copy per two participants
+-  Print print [*role studies/cases*](https://docs.google.com/document/d/1esGE5pbVGglY4YgakriqoMMRU3nP1r-RkjbpELQXmwk/) for everyone. You need one copy per two participants
 
->   Ask a co-trainer or someone in the session if they can demonstrate the technique with you as show a bit further below. Go through it with them, explain what you will bring up and why it would have seem like the correct thing to do from their point of view at the time.
+-  Ask a co-trainer or someone in the session if they can demonstrate the technique with you as show a bit further below. Go through it with them, explain what you will bring up and why it would have seem like the correct thing to do from their point of view at the time.
 
 ## How
 
@@ -42,22 +40,21 @@ syndrome*](https://whatis.techtarget.com/definition/broken-window-theory)" kicki
 
 **Example**
 
-*First show using an example, you may have prepared someone in the class to do this or do it with a co-facilitator. If you know the script the other person barely needs any preparation at all.*
+- *First show using an example, you may have prepared someone in the class to do this or do it with a co-facilitator. If you know the script the other person barely needs any preparation at all.*
 
->   ***You**: Sam, I had a look in the ocde and it seemed to me that you checked a lot of code in last night without any tests, was that so?*
+   ***You***: *Sam, I had a look in the ocde and it seemed to me that you checked a lot of code in last night without any tests, was that so?*
 
+   ***Sam***: *Yeah, that’s right. There was a crises and I had to etc etc*
 
->   ***Sam**: Yeah, that’s right. There was a crises and I had to etc etc*
+   ***You***: *Ah. I see. It makes me a bit worried now that we get code without automatic tests into the system. Our team rule to not check anything in without tests have been really great for me. I have felt much more comfortable changing things and we do not get disturbed so much by trouble reports. I’m afraid if we start slipping ere with the testing we will soon be back where we started. What do you think about this rule of never to check in without tests?*
 
->   ***You**: Ah. I see. It makes me a bit worried now that we get code without automatic tests into the system. Our team rule to not check anything in without tests have been really great for me. I have felt much more comfortable changing things and we do not get disturbed so much by trouble reports. I’m afraid if we start slipping ere with the testing we will soon be back where we started. What do you think about this rule of never to check in without tests?*
+   ***Sam***: *I think it has been good. I was super stressed out yesterday and did not have time, that is all.*
 
->   ***Sam**: I think it has been good. I was super stressed out yesterday and did not have time, that is all.*
+   ***You***: *Do you think we need to change our rule to cover high stress situations better?*
 
->   ***You**: Do you think we need to change our rule to cover high stress situations better?*
+   ***Sam***: *Nah, I think it is probably best if we keep it like it is. I will add the tests now and will take it a bit more easy the next time. Perhaps we could pair program more in those situations to help us not take shortcuts when we are stressed out.*
 
->   ***Sam**: Nah, I think it is probably best if we keep it like it is. I will add the tests now and will take it a bit more easy the next time. Perhaps we could pair program more in those situations to help us not take shortcuts when we are stressed out.*
-
->   ***You**: Great! Let’s keep up our high quality! &lt;shake hands&gt;*
+   ***You***: *Great! Let’s keep up our high quality! &lt;shake hands&gt;*
 
 *What do you think? Can you bring something uncomfortable up in this way?*
 
@@ -65,15 +62,11 @@ syndrome*](https://whatis.techtarget.com/definition/broken-window-theory)" kicki
 
 Show the participants the template below. Write it on a template and show that this is what you just demonstrated:
 
->   Bring up what you noticed, check if the other person agrees with what you noticed?
-
->   Tell the other person what the agreement means to you and why you want to keep it.
-
->   Ask the other person about their view on the agreement
-
->   Ask if the agreement needs to be changed to work for the other person
-
->   Make a decision about a new agreement or decide to keep the old one.
+- Bring up what you noticed, check if the other person agrees with what you noticed?
+- Tell the other person what the agreement means to you and why you want to keep it.
+- Ask the other person about their view on the agreement
+- Ask if the agreement needs to be changed to work for the other person
+- Make a decision about a new agreement or decide to keep the old one.
 
 **Concrete practise**
 
