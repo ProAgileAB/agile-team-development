@@ -13,7 +13,7 @@
 
 -  30-60 min
 
-<img align="rigth" width="300" height="300" src="images/graph3.png">
+<img align="right" width="300" height="300" src="images/graph3.png">
 
 
 ## Material
