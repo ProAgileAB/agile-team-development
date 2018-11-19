@@ -6,7 +6,7 @@
     <thead>
       <tr>
         <th>CHAPTER TITLE</th>
-        <th>ONLINE UBICATION</th>
+        <th>READ ONLINE</th>
         <th>DONWLOAD PDF</th>
       </tr>
     </thead>
