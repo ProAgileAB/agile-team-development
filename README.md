@@ -7,7 +7,7 @@
       <tr>
         <th>CHAPTER TITLE</th>
         <th>READ ONLINE</th>
-        <th>DONWLOAD PDF</th>
+        <th>DOWNLOAD PDF</th>
       </tr>
     </thead>
     <tbody>
