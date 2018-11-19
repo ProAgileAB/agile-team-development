@@ -3,7 +3,7 @@
 
 
 <div class="aa_htmlTable">
-	<h2 class="aa_h2">Starting and Developing Agile Team. <br>A Facilitation Guide</h2>
+	<h2 class="aa_h2">Starting and Developing Agile Teams. <br>- A Facilitation Guide</h2>
   <table>
     <thead>
       <tr>
