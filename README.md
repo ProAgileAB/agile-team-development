@@ -1,16 +1,83 @@
-# Chapters for book **Starting and Developing Agile Team. A Facilitation Guide**
+<link rel="stylesheet" type="text/css" href="style.css">
 
-* **Team-Start Example** [Read online](chapter_file/Team-Start-Example.md) | Download [PDF](chapter_file/Team-Start-Example.pdf)
-* **Ground Rules & Decision Making** [Read online](chapter_file/Ground-Rules-and-Decision-Making.md) | Download [PDF](chapter_file/Ground-Rules-and-Decision-Making.pdf)
-* **Journey Lines - Facilitation Guide** [Read online](chapter_file/Journey-Lines-Facilitation-Guide.md) | Download [PDF](chapter_file/Journey-Lines-Facilitation-Guide.pdf)
-* **Appreciation Cards** [Read online](chapter_file/Appreciation-Cards.md) | Download [PDF](chapter_file/Appreciation-Cards.pdf)
-* **Product Goals for Teams** [Read online](chapter_file/Product-Goals-for-Teams.md) | Download [PDF](chapter_file/Product-Goals-for-Teams.pdf)
-* **Organizational Goals for Teams** [Read online](chapter_file/Organizational-Goals-for-Teams.md) | Download [PDF](chapter_file/Organizational-Goals-for-Teams.pdf)
-* **Team Vision** [Read online](chapter_file/Team-Vision.md) | Download [PDF](chapter_file/Team-Vision.pdf)
-* **Individual Goals** [Read online](chapter_file/Individual-Goals.md) | Download [PDF](chapter_file/Individual-Goals.pdf)
-* **Balancing Team- and Individual work** [Read online](chapter_file/Balancing-Team-and-Individual-work.md) | Download [PDF](chapter_file/Balancing-Team-and-Individual-work.pdf)
-* **Market of skills** [Read online](chapter_file/Market-of-skills.md) | Download [PDF](chapter_file/Market-of-skills.pdf)
-* **Repairing Broken Agreements** [Read online](chapter_file/Repairing-Broken-Agreements.md) | Download [PDF](chapter_file/Repairing-Broken-Agreements.pdf)
-* **Build trust with simple questions** [Read online](chapter_file/Build-trust-with-simple-questions.md) | Download [PDF](chapter_file/Build-trust-with-simple-questions.pdf)
+<div class="aa_htmlTable">
+	<h2 class="aa_h2">Chapters for book Starting and Developing Agile Team. <br>A Facilitation Guide</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>CHAPTER TITLE</th>
+        <th>ONLINE UBICATION</th>
+        <th>DONWLOAD PDF</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Team-Start Example</td>
+	<td><A HREF="chapter_file/Team-Start-Example.html">Read Online</td>
+	<td><A HREF="chapter_file/Team-Start-Example.pdf">Download PDF</td>
+      </tr>
+      <tr>
+        <td>Ground Rules & Decision Making</td>
+	<td><A HREF="chapter_file/Ground-Rules-and-Decision-Making.html">Read Online</td>
+	<td><A HREF="chapter_file/Ground-Rules-and-Decision-Making.pdf">Download PDF</td>
+      </tr>
+      <tr>
+        <td>Journey Lines - Facilitation Guide</td>
+	<td><A HREF="chapter_file/Journey-Lines-Facilitation-Guide.html">Read Online</td>
+	<td><A HREF="chapter_file/Journey-Lines-Facilitation-Guide.pdf">Download PDF</td>
+      </tr>
+      <tr>
+        <td>Appreciation Cards</td>
+	<td><A HREF="chapter_file/Appreciation-Cards.md">Read Online</td>
+	<td><A HREF="chapter_file/Appreciation-Cards.pdf">Download PDF</td>
+      </tr>
+      <tr>
+        <td>Product Goals for Teams</td>
+	<td><A HREF="chapter_file/Product-Goals-for-Teams.md">Read Online</td>
+	<td><A HREF="chapter_file/Product-Goals-for-Teams.pdf">Download PDF</td>
+      </tr>
+      <tr>
+        <td>Organizational Goals for Teams</td>
+	<td><A HREF="chapter_file/Organizational-Goals-for-Teams.md">Read Online</td>
+	<td><A HREF="chapter_file/Organizational-Goals-for-Teams.md">Download PDF</td>
+      </tr>
+      <tr>
+        <td>Team Vision</td>
+	<td><A HREF="chapter_file/Team-Vision.md">Read Online</td>
+	<td><A HREF="chapter_file/Team-Vision.pdf">Download PDF</td>
+      </tr>
+      <tr>
+        <td>Individual Goals</td>
+	<td><A HREF="chapter_file/Individual-Goals.md">Read Online</td>
+	<td><A HREF="chapter_file/Individual-Goals.pdf">Download PDF</td>
+      </tr>
+      <tr>
+        <td>Balancing Team- and Individual work</td>
+	<td><A HREF="chapter_file/Balancing-Team-and-Individual-work.md">Read Online</td>
+	<td><A HREF="chapter_file/Balancing-Team-and-Individual-work.pdf">Download PDF</td>
+      </tr>
+      <tr>
+        <td>Market of skills</td>
+	<td><A HREF="chapter_file/Market-of-skills.md">Read Online</td>
+	<td><A HREF="chapter_file/Market-of-skills.pdf">Download PDF</td>
+      </tr>
+      <tr>
+        <td>Repairing Broken Agreements</td>
+	<td><A HREF="chapter_file/Repairing-Broken-Agreements.md">Read Online</td>
+	<td><A HREF="chapter_file/Repairing-Broken-Agreements.pdf">Download PDF</td>
+      </tr>
+      <tr>
+        <td>Build trust with simple questions</td>
+	<td><A HREF="chapter_file/Build-trust-with-simple-questions.md">Read Online</td>
+	<td><A HREF="chapter_file/Build-trust-with-simple-questions.pdf">Download PDF</td>
+      </tr>
+      <tr>
+        <td>Full version</td>
+	<td>Not available </td>
+	<td><A HREF="single_file/agile_full.pdf">Download PDF</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-Full version available [here](single_file/agile_full.pdf)
+

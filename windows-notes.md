@@ -1,5 +1,5 @@
-## install  pandoc
+## Install  pandoc
 https://pandoc.org/installing.html
 
-## install TeX/LaTeX
+## Install TeX/LaTeX
 https://miktex.org/howto/install-miktex
