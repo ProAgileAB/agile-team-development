@@ -14,7 +14,7 @@
       <tr>
         <td>Team-Start Example</td>
 	<td><A HREF="chapter_file/Team-Start-Example.html">Read Online</a></td>
-	<td><A HREF="chapter_file/Team-Start-Example.pdf">Download PDF</td>
+	      <td><A HREF="chapter_file/Team-Start-Example.pdf">Download PDF</a></td>
       </tr>
       <tr>
         <td>Ground Rules & Decision Making</td>
