@@ -13,7 +13,7 @@
     <tbody>
       <tr>
         <td>Team-Start Example</td>
-	<td><A HREF="chapter_file/Team-Start-Example.html" Read Online></td>
+	<td><A HREF="chapter_file/Team-Start-Example.html"> Read Online</a></td>
 	<td><A HREF="chapter_file/Team-Start-Example.pdf">Download PDF</td>
       </tr>
       <tr>
