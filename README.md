@@ -76,11 +76,6 @@
 	<td><A HREF="chapter_file/Build-trust-with-simple-questions.md">Read Online</A></td>
 	<td><A HREF="chapter_file/Build-trust-with-simple-questions.pdf">Download PDF</A></td>
       </tr>
-      <tr>
-        <td>Full version</td>
-	<td>Not available </td>
-	<td><A HREF="single_file/agile_full.pdf">Download PDF</A></td>
-      </tr>
     </tbody>
   </table>
 </div>
