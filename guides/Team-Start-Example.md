@@ -1,14 +1,3 @@
-# Starting and Developing Agile Teams
-
-## A Facilitation Guide
-
-## V0.86
-
-#### For updates to this guide, visit [proagile](http://www.proagile.se/teams/)
-
-
-## Content
-
 # Team-Start Example
 
 ## Purpose
