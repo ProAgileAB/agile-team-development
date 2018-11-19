@@ -1,9 +1,14 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
+
+
 <div class="aa_htmlTable">
-	<h2 class="aa_h2">Starting and Developing Agile Team. <br>A Facilitation Guide</h2>
+	<h2 class="aa_h2">Starting and Developing Agile Teams. <br>- A Facilitation Guide</h2>
   <table>
     <thead>
+      <tr>
+      <A HREF="pdf/starting-and-developing-agile-teams.pdf">Download PDF with all chapters</A>	      
+      </tr>
       <tr>
         <th>CHAPTER TITLE</th>
         <th>READ ONLINE</th>
@@ -70,11 +75,6 @@
         <td>Build trust with simple questions</td>
 	<td><A HREF="chapter_file/Build-trust-with-simple-questions.md">Read Online</A></td>
 	<td><A HREF="chapter_file/Build-trust-with-simple-questions.pdf">Download PDF</A></td>
-      </tr>
-      <tr>
-        <td>Full version</td>
-	<td>Not available </td>
-	<td><A HREF="single_file/agile_full.pdf">Download PDF</A></td>
       </tr>
     </tbody>
   </table>
