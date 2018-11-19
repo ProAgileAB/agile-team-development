@@ -1,5 +1,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
+<A HREF="pdf/starting-and-developing-agile-teams.pdf">Download PDF with all chapters</A>
+
 <div class="aa_htmlTable">
 	<h2 class="aa_h2">Starting and Developing Agile Team. <br>A Facilitation Guide</h2>
   <table>
