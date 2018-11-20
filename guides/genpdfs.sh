@@ -13,6 +13,7 @@ Balancing-Team-and-Individual-Work.md \
 Market-of-Skills.md \
 Repairing-Broken-Agreements.md \
 Build-Trust-With-Simple-Questions.md \
+-B coverpage.latex \
 -o ../pdf/Starting-and-Developing-Agile-Teams.pdf -H style/footer.tex --toc --toc-depth=1 --top-level-division=chapter -V secnumdepth=0
 
 pandoc --verbose Team-Start-Example.md -o ../pdf/Team-Start-Example ../pdf/Team-Start-Example.pdf -H style/footer.tex
