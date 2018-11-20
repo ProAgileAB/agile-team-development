@@ -78,6 +78,7 @@
       </tr>
     </tbody>
   </table>
+	
+All content linked form this page is Shared 2018 by ProAgile AB under <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Attribution ShareAlike 4.0 International license</A>
 
-All content linked form this page is Shared 2018 by ProAgile AB under Creative Commons Attribution ShareAlike 4.0 International license
 </div>
