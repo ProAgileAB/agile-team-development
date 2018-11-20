@@ -74,7 +74,7 @@ Ok, what we will work on today is designed to help us achieve this. Let’s look
 ## Ground Rules & Decision making
 
 Time required, 5-15 min
-See [*separate facilitation guide*](https://docs.google.com/document/d/1fPk4fKQOTe_KykuPOQgmXPBbThJxRT783KIWkziHUWo/edit#heading=h.v84w3g9n9vg)
+See [*separate facilitation guide*](https://proagileab.github.io/teams/guides/Ground-Rules-and-Decision-Making.html)
 
 ## Psychological Safety
 
@@ -82,10 +82,10 @@ See [*separate facilitation guide*](https://docs.google.com/document/d/1fPk4fKQO
 *   You can see the same conclusions in the works of others, e.g. Trust is the first step in the "5 dysfunctions of a team" model by Patrick Lencioni.
 *   In the works of Susan Wheelan the first phases of team development has a lot to do with being accepted by the team.
 
-The [*Journey Lines*](https://docs.google.com/document/d/1mxg5sH6S1gCsKVzaLUGRA-IQTGSW3JzmQeUbL8206OQ/)
+The [*Journey Lines*](https://proagileab.github.io/teams/guides/Journey-Lines-Facilitation-Guide.html)
 exercise is a really good way to address this and other goals for new and old teams. Time required is about 2h, depending on team size.
 
-For a team that has been working together, [*Appreciation Cards*](https://docs.google.com/document/d/1voFieypNb9I8--Wbhlg8rHvNwS3bGuyIk0b6prwx6No/) is another really nice way to start a session focused on team development. Time required is &lt; 30 min.  
+For a team that has been working together, [*Appreciation Cards*](https://proagileab.github.io/teams/guides/Appreciation-Cards.html) is another really nice way to start a session focused on team development. Time required is &lt; 30 min.  
 
 Use both exercises, but perhaps not in the same session!
 
@@ -93,36 +93,36 @@ Use both exercises, but perhaps not in the same session!
 
 Time required, typically: 30 min - 2h
 
-See [*separate facilitation guide*](https://docs.google.com/document/d/14-ON8FY0QkDGiiktAnrpzhID_Htu-2SMZiitoiz-YYI/)
+See [*separate facilitation guide*](https://proagileab.github.io/teams/guides/Product-Goals-for-Teams.html)
 
 ## Organizational goals
 
 Time required, typically: 30 min - 1h
 
-See [*separate facilitation guide*](https://docs.google.com/document/d/1s2SXnJJMWDWa0BhKcC5jKBwV2IQ8QPfHOdlI5B8osUI/)
+See [*separate facilitation guide*](https://proagileab.github.io/teams/guides/Organizational-Goals-for-Teams.html)
 
 
 ## Team-vision
 
 Time required, typically 1h
 
-See [*separate facilitation guide*](https://docs.google.com/document/d/1OcYjd4KYOaSXsU7WZ0Y6GFgwcTCVIsUk2nr3NQ-sl_A/)
+See [*separate facilitation guide*](https://proagileab.github.io/teams/guides/Team-Vision.html)
 
 ## Working agreements
 
 Facilitate making a few team agreements on how to work together. Start with some individual reflections and then use "fist of five" to quickly refine some proposals and make consent decision. Document on a flipchart.
 
 One working agreement that you probably want to explore with your team is how and when to work as individuals and how and when to work as a
-team. Check out the guide on '[*Balancing Team- and Individual work*](https://docs.google.com/document/d/1lpfv3w93vMSAqw_n-1Ih8HtvkXzKYZHL2l3Kz7_qnLU/)' for a good way to do that.
+team. Check out the guide on '[*Balancing Team- and Individual work*](https://proagileab.github.io/teams/guides/Balancing-Team-and-Individual-Work.html)' for a good way to do that.
 
 ## Individual goals
 
 Time required, typically 1,5h
 
-See [*separate facilitation guide*](https://docs.google.com/document/d/11m2a6-Atsuvuzly4KJ5KOHIhJ9qn_m8XECta8t-DmME/)
+See [*separate facilitation guide*](https://proagileab.github.io/teams/guides/Individual-Goals.html)
 
 A similar but slightly simpler exercise is "Market of Skills" Time required: 30-60 min
-See [*separate facilitation guide*](https://docs.google.com/document/d/18LCnpLDfxLLhqBwFb5XRRascwg6anRL65ca4T1Knn_M/):
+See [*separate facilitation guide*](https://proagileab.github.io/teams/guides/Market-of-Skills.html):
 
 ## Team skills
 
@@ -134,7 +134,7 @@ See [*separate facilitation guide*](https://docs.google.com/document/d/18LCnpLDf
     
     Time required, typically 30 min
 
-    See [*separate facilitation guide*](https://docs.google.com/document/d/1YYU7T4Q0K1wVoelyevMhmEchv0bxpV5idvcpTeRbCro/)
+    See [*separate facilitation guide*](https://proagileab.github.io/teams/guides/Repairing-Broken-Agreements.html)
 
 *   Making decisions
     
