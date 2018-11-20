@@ -58,13 +58,13 @@
       </tr>
       <tr>
         <td>Balancing Team- and Individual work</td>
-	<td><A HREF="guides/Balancing-Team-and-Individual-work.html">Read Online</A></td>
-	<td><A HREF="pdf/Balancing-Team-and-Individual-work.pdf">Download PDF</A></td>
+	<td><A HREF="guides/Balancing-Team-and-Individual-Work.html">Read Online</A></td>
+	<td><A HREF="pdf/Balancing-Team-and-Individual-Work.pdf">Download PDF</A></td>
       </tr>
       <tr>
         <td>Market of skills</td>
-	<td><A HREF="guides/Market-of-skills.html">Read Online</A></td>
-	<td><A HREF="pdf/Market-of-skills.pdf">Download PDF</A></td>
+	<td><A HREF="guides/Market-of-Skills.html">Read Online</A></td>
+	<td><A HREF="pdf/Market-of-Skills.pdf">Download PDF</A></td>
       </tr>
       <tr>
         <td>Repairing Broken Agreements</td>
@@ -73,8 +73,8 @@
       </tr>
       <tr>
         <td>Build trust with simple questions</td>
-	<td><A HREF="guides/Build-trust-with-simple-questions.html">Read Online</A></td>
-	<td><A HREF="pdf/Build-trust-with-simple-questions.pdf">Download PDF</A></td>
+	<td><A HREF="guides/Build-Trust-With-Simple-Questions.html">Read Online</A></td>
+	<td><A HREF="pdf/Build-Trust-With-Simple-Questions.pdf">Download PDF</A></td>
       </tr>
     </tbody>
   </table>
