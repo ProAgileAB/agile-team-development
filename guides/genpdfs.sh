@@ -13,7 +13,7 @@ Balancing-Team-and-Individual-Work.md \
 Market-of-Skills.md \
 Repairing-Broken-Agreements.md \
 Build-Trust-With-Simple-Questions.md \
--o ../pdf/Starting-and-Developing-Agile-Teams.pdf -H style/footer.tex --toc --toc-depth=1 --top-level-division=chapter -V secnumdepth=0
+-o ../pdf/Starting-and-Developing-Agile-Teams.pdf -H style/footer.tex -H header-includes.tex --toc --toc-depth=1 --top-level-division=chapter -V secnumdepth=0
 
 pandoc  Team-Start-Example.md -o ../pdf/Team-Start-Example ../pdf/Team-Start-Example.pdf -H style/footer.tex
 pandoc  Ground-Rules-and-Decision-Making.md -o ../pdf/Ground-Rules-and-Decision-Making.pdf -H style/footer.tex
