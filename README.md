@@ -78,4 +78,6 @@
       </tr>
     </tbody>
   </table>
+
+All content linked form this page is Shared 2018 by ProAgile AB under Creative Commons Attribution ShareAlike 4.0 International license
 </div>
