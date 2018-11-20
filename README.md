@@ -33,47 +33,47 @@
       </tr>
       <tr>
         <td>Appreciation Cards</td>
-	<td><A HREF="guides/Appreciation-Cards.md">Read Online</A></td>
+	<td><A HREF="guides/Appreciation-Cards.html">Read Online</A></td>
 	<td><A HREF="pdf/Appreciation-Cards.pdf">Download PDF</A></td>
       </tr>
       <tr>
         <td>Product Goals for Teams</td>
-	<td><A HREF="guides/Product-Goals-for-Teams.md">Read Online</A></td>
+	<td><A HREF="guides/Product-Goals-for-Teams.html">Read Online</A></td>
 	<td><A HREF="pdf/Product-Goals-for-Teams.pdf">Download PDF</A></td>
       </tr>
       <tr>
         <td>Organizational Goals for Teams</td>
-	<td><A HREF="guides/Organizational-Goals-for-Teams.md">Read Online</A></td>
+	<td><A HREF="guides/Organizational-Goals-for-Teams.html">Read Online</A></td>
 	<td><A HREF="pdf/Organizational-Goals-for-Teams.md">Download PDF</A></td>
       </tr>
       <tr>
         <td>Team Vision</td>
-	<td><A HREF="guides/Team-Vision.md">Read Online</A></td>
+	<td><A HREF="guides/Team-Vision.html">Read Online</A></td>
 	<td><A HREF="pdf/Team-Vision.pdf">Download PDF</A></td>
       </tr>
       <tr>
         <td>Individual Goals</td>
-	<td><A HREF="guides/Individual-Goals.md">Read Online</A></td>
+	<td><A HREF="guides/Individual-Goals.html">Read Online</A></td>
 	<td><A HREF="pdf/Individual-Goals.pdf">Download PDF</A></td>
       </tr>
       <tr>
         <td>Balancing Team- and Individual work</td>
-	<td><A HREF="guides/Balancing-Team-and-Individual-work.md">Read Online</A></td>
+	<td><A HREF="guides/Balancing-Team-and-Individual-work.html">Read Online</A></td>
 	<td><A HREF="pdf/Balancing-Team-and-Individual-work.pdf">Download PDF</A></td>
       </tr>
       <tr>
         <td>Market of skills</td>
-	<td><A HREF="guides/Market-of-skills.md">Read Online</A></td>
+	<td><A HREF="guides/Market-of-skills.html">Read Online</A></td>
 	<td><A HREF="pdf/Market-of-skills.pdf">Download PDF</A></td>
       </tr>
       <tr>
         <td>Repairing Broken Agreements</td>
-	<td><A HREF="guides/Repairing-Broken-Agreements.md">Read Online</A></td>
+	<td><A HREF="guides/Repairing-Broken-Agreements.html">Read Online</A></td>
 	<td><A HREF="pdf/Repairing-Broken-Agreements.pdf">Download PDF</A></td>
       </tr>
       <tr>
         <td>Build trust with simple questions</td>
-	<td><A HREF="guides/Build-trust-with-simple-questions.md">Read Online</A></td>
+	<td><A HREF="guides/Build-trust-with-simple-questions.html">Read Online</A></td>
 	<td><A HREF="pdf/Build-trust-with-simple-questions.pdf">Download PDF</A></td>
       </tr>
     </tbody>
