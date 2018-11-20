@@ -27,9 +27,9 @@
 	<td><A HREF="pdf/Ground-Rules-and-Decision-Making.pdf">Download PDF</A></td>
       </tr>
       <tr>
-        <td>Journey Lines - Facilitation Guide</td>
-	<td><A HREF="guides/Journey-Lines-Facilitation-Guide.html">Read Online</A></td>
-	<td><A HREF="pdf/Journey-Lines-Facilitation-Guide.pdf">Download PDF</A></td>
+        <td>Journey Lines</td>
+	<td><A HREF="guides/Journey-Lines.html">Read Online</A></td>
+	<td><A HREF="pdf/Journey-Lines.pdf">Download PDF</A></td>
       </tr>
       <tr>
         <td>Appreciation Cards</td>
