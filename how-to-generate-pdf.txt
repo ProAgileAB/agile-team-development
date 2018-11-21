@@ -1,0 +1,46 @@
+1. Setup LateX/pandoc on windows 10
+==========================================
+
+Install pandoc
+https://pandoc.org/installing.html
+
+Install TeX/LaTeX
+https://miktex.org/howto/install-miktex
+
+2. Generate the pdf as book with cover
+=======================================================
+From a command prompt in the guides subdirectory, run:
+
+pandoc  \
+variables.txt \
+Team-Start-Example.md \
+Ground-Rules-and-Decision-Making.md \
+Build-Trust-With-Simple-Questions.md \
+-o ../pdf/Starting-and-Developing-Agile-Teams.pdf -H style/footer.tex -H header-includes.tex --toc --toc-depth=1 --top-level-division=chapter -V secnumdepth=0
+
+3. Customize the cover page
+=============================
+This is what I need help with. The page can be very simple. Loking like this: https://proagile.se/wp-content/uploads/2018/11/Starting-And-Developing-Agile-Teams-v-086.pdf
++ probably we should add our logo too.
+
+These are some files you may want to look at:
+
+* guides/variables.txt  - Some data that the latex template in pandoc uses to generate the pdf (through latex)
+* guides/header-includes   - I added this to get subtitles on the cover
+* guides/style/footer.tex - extra stuff added to generate to footer
+
+Feel free to edit any of these. Then regenerate the pdf as in step 2 to chek results.
+
+* std-latex-templae - This is a dump of the standard latex template that pandoc uses to build the pdf document.
+		      Feel free to also change/edit this! To regenerate pdf with your new template: Use the command line argument 
+                       pandoc --template your-custom-template ...other arguments as above
+
+
+Check this out perhaps: https://tex.stackexchange.com/questions/247416/adding-a-logo-to-a-title-in-pandocs-pdf-output
+
+4. There is also a small issue with two other chapters, but lets start with the cover
+
+
+
+
+
