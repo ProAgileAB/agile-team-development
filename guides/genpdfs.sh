@@ -1,5 +1,6 @@
 
 pandoc  \
+--template=custom-template.latex \
 variables.txt \
 Team-Start-Example.md \
 Ground-Rules-and-Decision-Making.md \
