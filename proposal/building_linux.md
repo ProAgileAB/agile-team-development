@@ -1,11 +1,11 @@
-#Building instruction for Linux
+# Building instruction for Linux
 
-##Installing required software
+## Installing required software
 On debian system or based system, required dependencies are installing using
 
        apt install texlive texlive-extra-utils texlive-latex-extra texlive-fonts-extra 
 
-##Customing
+## Customing
 You need to include a template into your home directory
 
        mkdir -p ~/.pandoc/templates
