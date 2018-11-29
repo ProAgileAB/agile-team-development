@@ -11,12 +11,14 @@ You need to include a template into your home directory
        mkdir -p ~/.pandoc/templates
        cp eisvogel.tex ~/.pandoc/templates/eisvogel.latex
 
-File esvogel.tex is include but you can get the last version from https://github.com/Wandmalfarbe/pandoc-latex-template
+File esvogel.latex is include on '''template''' folder but you can get the last version from https://github.com/Wandmalfarbe/pandoc-latex-template
 
 ## Full pdf file
 For get full pdf
 
       pandoc guides/TitlePage.md guides/Team-Start-Example.md guides/Ground-Rules-and-Decision-Making.md guides/Journey-Lines-Facilitation-Guide.md guides/Appreciation-Cards.md guides/Product-Goals-for-Teams.md guides/Organizational-Goals-for-Teams.md guides/Team-Vision.md guides/Individual-Goals.md guides/Balancing-Team-and-Individual-Work.md guides/Market-of-Skills.md guides/Repairing-Broken-Agreements.md guides/Build-Trust-With-Simple-Questions.md -o pdf/Starting-and-Developing-Agile-Teams.pdf --from markdown --template eisvogel --listings  --toc --toc-depth=1 -V secnumdepth=0 --toc --toc-depth=1 --top-level-division=chapter -V secnumdepth=0
+
+Resulting pdf file will be located on pdf folder with name Starting-and-Developing-Agile-Teams.pdf
 
 ## Individual pdf chapter
 
