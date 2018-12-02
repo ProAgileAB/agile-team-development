@@ -1,4 +1,4 @@
-# Market of skills
+# Market of skills {-}
 
 ## Purpose
 
@@ -14,7 +14,7 @@
 -  30-60 min
 
 <img align="right" width="300" height="300" src="images/graph3.png">
-
+![](images/graph3.png){ width=50% }
 
 ## Material
 

@@ -1,4 +1,4 @@
-# Ground Rules & Decision Making
+# Ground Rules & Decision Making {-}
 ## Time required
 Typically 5-15 minutes
 

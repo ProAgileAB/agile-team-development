@@ -1,4 +1,4 @@
-# Individual Goals
+# Individual Goals {-}
 
 ## Time required
 
@@ -11,6 +11,7 @@ Typically 1,5 hours
 - Flipchart papers
 
 <img align="right" width="300" height="300" src="images/graph2.png">
+![](images/graph2.png){ width=50% }
 
 ## Purpose
 

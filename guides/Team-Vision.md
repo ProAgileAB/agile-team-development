@@ -1,4 +1,4 @@
-# Team Vision
+# Team Vision {-}
 
 ## Time required
 

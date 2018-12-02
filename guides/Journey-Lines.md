@@ -1,4 +1,4 @@
-# Journey Lines
+# Journey Lines {-}
 
 ## Purpose
 
@@ -42,7 +42,7 @@ This exercise is very well described in Lyssa Adkins' book "Coaching Agile Teams
 
 
 <img align="left" width="300" height="300" src="images/graph1.png">
-
+![](images/graph1.png){ width=50% }
 
 *This is how it will work:*
 
