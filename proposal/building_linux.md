@@ -6,12 +6,12 @@ On debian system or based system, required dependencies are installing using
        apt install texlive texlive-extra-utils texlive-latex-extra texlive-fonts-extra 
 
 ## Customing
-You need to include a template into your home directory
+THIS IS VERY IMPORTANT: you need to include a template into your home directory
 
        mkdir -p ~/.pandoc/templates
-       cp eisvogel.tex ~/.pandoc/templates/eisvogel.latex
+       cp template/eisvogel.latex  ~/.pandoc/templates/eisvogel.latex
 
-File esvogel.latex is include on '''template''' folder but you can get the last version from https://github.com/Wandmalfarbe/pandoc-latex-template
+File esvogel.latex is include on ''template'' folder but you can get the last version from https://github.com/Wandmalfarbe/pandoc-latex-template . However, included template has specific modifications for this project so if you donwload a new template you will need to modified.
 
 ## Full pdf file
 For get full pdf

@@ -10,5 +10,5 @@ footer-left: "Shared 2018 by ProAgile AB under Creative Commons Attribution Shar
 logo: guides/images/logo.png
 toc-own-page: true
 book: true
-colorlinks: yes
+colorlinks: true
 ---
