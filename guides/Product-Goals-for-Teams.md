@@ -1,4 +1,4 @@
-# Product Goals for Teams {-}
+# Product Goals for Teams
 
 ## Time required
 

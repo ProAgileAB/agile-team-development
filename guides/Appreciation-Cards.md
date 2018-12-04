@@ -1,4 +1,4 @@
-# Appreciation Cards {-}
+# Appreciation Cards
 
 ## Time required
 

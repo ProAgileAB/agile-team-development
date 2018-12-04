@@ -1,4 +1,4 @@
-# Individual Goals {-}
+# Individual Goals
 
 ## Time required
 

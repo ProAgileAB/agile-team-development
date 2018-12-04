@@ -1,4 +1,4 @@
-# Market of skills {-}
+# Market of skills
 
 ## Purpose
 

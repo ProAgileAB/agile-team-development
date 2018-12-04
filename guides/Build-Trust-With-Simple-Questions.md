@@ -1,4 +1,4 @@
-# Build trust with simple questions {-}
+# Build trust with simple questions
 
 ## Purpose
 

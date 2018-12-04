@@ -1,4 +1,4 @@
-# Journey Lines {-}
+# Journey Lines
 
 ## Purpose
 

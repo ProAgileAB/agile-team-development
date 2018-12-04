@@ -1,4 +1,4 @@
-# Team-Start Example {-}
+# Team-Start Example
 
 ## Purpose
 
