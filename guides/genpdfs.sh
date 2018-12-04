@@ -1,25 +1,25 @@
 
 
 filelist=\
-"Team-Start-Example.md \
-Ground-Rules-and-Decision-Making.md \
-Journey-Lines.md \
-Appreciation-Cards.md \
-Product-Goals-for-Teams.md \
-Organizational-Goals-for-Teams.md \
-Team-Vision.md \
-Individual-Goals.md \
-Balancing-Team-and-Individual-Work.md \
-Market-of-Skills.md \
-Repairing-Broken-Agreements.md \
-Build-Trust-With-Simple-Questions.md"
+"Team-Start-Example \
+Ground-Rules-and-Decision-Making \
+Journey-Lines \
+Appreciation-Cards \
+Product-Goals-for-Teams \
+Organizational-Goals-for-Teams \
+Team-Vision \
+Individual-Goals \
+Balancing-Team-and-Individual-Work \
+Market-of-Skills \
+Repairing-Broken-Agreements \
+Build-Trust-With-Simple-Questions"
 
 tmpfiles=""
 
 #Fix problem that HTML generartion needs <img> tag while pdf generation needs ![] tag
 for f in ${filelist}; 
-	do cat ${f} | sed -E 's#<img src="([^"]*)"[^>]*>#!\[\](\1)#g' > tmp/${f} ;
-	tmpfiles+="tmp/"${f}" ";
+	do cat ${f}.md | sed -E 's#<img src="([^"]*)"[^>]*>#!\[\](\1)#g' > tmp/${f}.md ;
+	tmpfiles+="tmp/"${f}.md" ";
 done;
 
 #Generate full pdf
@@ -33,6 +33,6 @@ $tmpfiles \
 #Generate per chapter  pdf
 
 for f in ${filelist}; 
-	do pandoc tmp/${f} -o ../pdf/${f}.pdf -H style/footer.tex ;
+	do pandoc tmp/${f}.md -o ../pdf/${f}.pdf -H style/footer.tex ;
 done;
 
