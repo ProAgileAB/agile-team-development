@@ -16,8 +16,7 @@ Lack of trust is the first dysfunction which you need to overcome in order to de
 ## Preparations
 *  None
 
-![](images/graph4.png){ width=50% }
-<img align="left" width="300" height="300" src="images/graph4.png">
+<img src="images/graph4.png" align="left" width="300" height="300" >
 
 
 ## Facilitating

@@ -10,8 +10,7 @@ Typically 1,5 hours
 - Markers
 - Flipchart papers
 
-<img align="right" width="300" height="300" src="images/graph2.png">
-![](images/graph2.png){ width=50% }
+<img src="images/graph2.png" align="right" width="300" height="300" >
 
 ## Purpose
 
