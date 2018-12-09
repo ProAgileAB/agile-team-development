@@ -16,10 +16,8 @@ Build-Trust-With-Simple-Questions"
 
 tmpfiles=""
 
-if [ -d tmp ]; them
-	echo "tmp directory exist, we can work"
-else
-	echo "tmp directory isn't exist, so we need to create it"
+if [ ! -d tmp ]; then
+	mkdir tmp
 fi;
 
 #Fix problem that HTML generartion needs <img> tag while pdf generation needs ![] tag
