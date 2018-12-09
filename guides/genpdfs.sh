@@ -34,13 +34,13 @@ pandoc  \
 $tmpfiles \
 --from markdown \
 --listings \
---template=eisvogel.latex \
+--template=templates/eisvogel.latex \
 -o ../pdf/Starting-and-Developing-Agile-Teams.pdf --toc --toc-depth=1 --top-level-division=chapter -V secnumdepth=0
 
 
 #Generate per chapter  pdf
 
 for f in ${filelist}; 
-	do pandoc tmp/${f}.md -o ../pdf/${f}.pdf --template=eisvogel.latex  ;
+	do pandoc tmp/${f}.md -o ../pdf/${f}.pdf --template=templates/eisvogel.latex  ;
 done;
 

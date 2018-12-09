@@ -41,7 +41,7 @@ This exercise is very well described in Lyssa Adkins' book "Coaching Agile Teams
 *To be able to do this is good for us to know a bit more about each others experience and what each of us we enjoy working on and not, so that is the purpose of this next exercise.*
 
 
-<img src="../images/graph1.png" align="left" width="300" height="300" >
+<img src="images/graph1.png" align="left" width="300" height="300" >
 
 *This is how it will work:*
 
