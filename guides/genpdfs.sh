@@ -17,6 +17,7 @@ Build-Trust-With-Simple-Questions"
 tmpfiles=""
 
 #Fix problem that HTML generartion needs <img> tag while pdf generation needs ![] tag
+#By having only <> tag in files and replacing them with [] before generating pdf
 for f in ${filelist}; 
 	do cat ${f}.md | sed -E 's#<img src="([^"]*)"[^>]*>#!\[\](\1)#g' > tmp/${f}.md ;
 	tmpfiles+="tmp/"${f}.md" ";
