@@ -1,7 +1,0 @@
----
-documentclass: book
-title:  Starting and Developing Agile Teams
-subtitle: A Facilitation Guide
-author: ProAgile
-colorlinks: yes
-...
