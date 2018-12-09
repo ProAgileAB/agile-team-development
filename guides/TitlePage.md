@@ -1,7 +1,6 @@
 ---
 title: "Starting and Developing Agile Teams"
 subtitle: "A Facilitation Guide"
-author: [ProAgile AB]
 titlepage: true
 titlepage-text-color:  006600
 titlepage-rule-color:  33cc33

@@ -1,7 +1,8 @@
 
 
 filelist=\
-"Team-Start-Example \
+"TitlePage \
+Team-Start-Example \
 Ground-Rules-and-Decision-Making \
 Journey-Lines \
 Appreciation-Cards \
@@ -27,17 +28,19 @@ for f in ${filelist};
 	tmpfiles+="tmp/"${f}.md" ";
 done;
 
+
 #Generate full pdf
 pandoc  \
---template=custom-template.latex \
-variables.txt \
 $tmpfiles \
--o ../pdf/Starting-and-Developing-Agile-Teams.pdf -H style/footer.tex -H header-includes.tex --toc --toc-depth=1 --top-level-division=chapter -V secnumdepth=0
+--from markdown \
+--listings \
+--template=eisvogel.latex \
+-o ../pdf/Starting-and-Developing-Agile-Teams.pdf --toc --toc-depth=1 --top-level-division=chapter -V secnumdepth=0
 
 
 #Generate per chapter  pdf
 
 for f in ${filelist}; 
-	do pandoc tmp/${f}.md -o ../pdf/${f}.pdf -H style/footer.tex ;
+	do pandoc tmp/${f}.md -o ../pdf/${f}.pdf --template=eisvogel.latex  ;
 done;
 

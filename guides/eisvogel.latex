@@ -660,6 +660,7 @@ $else$
 \pagestyle{fancy}
 \fancyhead{}
 \fancyfoot{}
+%\lhead[$if(header-right)$$header-right$$else$$date$$endif$]{$if(header-left)$$header-left$$else$$title$$endif$}
 \lhead[$if(header-right)$$header-right$$else$$date$$endif$]{$if(header-left)$$header-left$$else$$title$$endif$}
 \chead[$if(header-center)$$header-center$$else$$endif$]{$if(header-center)$$header-center$$else$$endif$}
 \rhead[$if(header-left)$$header-left$$else$$title$$endif$]{$if(header-right)$$header-right$$else$$date$$endif$}
@@ -735,7 +736,7 @@ $endif$
 \pagestyle{fancy}
 \fancyhf{
   \cfoot{\tiny{Shared 2018 by ProAgile AB under \href{https://creativecommons.org/licenses/by-sa/4.0/}{Creative Commons Attribution ShareAlike 4.0 International license}}}}
-
+  \rfoot{\thepage}
 
 %% End customization for 
 %% Proagile
