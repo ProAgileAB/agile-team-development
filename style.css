@@ -73,7 +73,6 @@ table,thead,tbody,tfoot,tr, td,th{
 }
 
 .aa_htmlTable{
-  background: lightgreen;
   padding: 0.1rem;
   display: table;
   width: 100%;
