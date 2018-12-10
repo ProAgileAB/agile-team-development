@@ -87,7 +87,6 @@ let them do it, ask some debriefing questions and encourage them,. That sounded 
 
 *Make a note on how and when you could use this technique back at work. How could you introduce it to others?*
 
-\pagebreak
 ## Role study for person playing "Sam"
 
 ## Case 1: Sprint planning
@@ -110,7 +109,6 @@ The rule in your team is that people should strive to participate in sprint plan
 Your company allows you to work from home. You usually take the opportunity to be able to focus.
 
 
-\pagebreak
 ## Role study for person playing "Chris"
 
 ## Case 1: Sprint planning
