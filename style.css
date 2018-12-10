@@ -5,7 +5,7 @@ body{
   display: table;
   width: 100%;
   background: #dedede;
-  text-align: center;
+  text-align: left;
 }
 *{ 
   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -21,7 +21,7 @@ table{
    background: #fff;
 }
 table,thead,tbody,tfoot,tr, td,th{
-  text-align: center;
+  text-align: left;
   margin: auto;
   border:1px solid #dedede;
   padding: 1rem;
@@ -44,7 +44,7 @@ table,thead,tbody,tfoot,tr, td,th{
 .tr,
 .td,
 .th{
-  text-align: center;
+  text-align: left;
   margin: auto;
   padding: 1rem;
 }
@@ -73,7 +73,6 @@ table,thead,tbody,tfoot,tr, td,th{
 }
 
 .aa_htmlTable{
-  background: lightgreen;
   padding: 0.1rem;
   display: table;
   width: 100%;
