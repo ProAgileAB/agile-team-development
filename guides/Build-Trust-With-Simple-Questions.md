@@ -16,10 +16,10 @@ Lack of trust is the first dysfunction which you need to overcome in order to de
 ## Preparations
 *  None
 
+## Facilitating
+
 <img src="images/graph4.png" align="left" width="300" height="300" >
 
-
-## Facilitating
 The idea is that if people start to reveal innocent details from their childhood, other people start to realize that they are real human beings, not just work robots.
 
 In order to get this going you could be in a more relaxed place than the normal working area.
