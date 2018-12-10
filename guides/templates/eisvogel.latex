@@ -389,6 +389,7 @@ $endif$
 $if(subtitle)$
 \providecommand{\subtitle}[1]{}
 \subtitle{$subtitle$}
+\subtitle{"Hej"}
 $endif$
 $if(author)$
 \author{$for(author)$$author$$sep$ \and $endfor$}
@@ -716,6 +717,9 @@ $if(logo)$
 $endif$
 
 \textsf{$date$}}
+\vskip 12em
+{\textsf{$subtitle2$}}
+
 \end{flushleft}
 \end{titlepage}
 \restoregeometry
