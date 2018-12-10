@@ -1,5 +1,5 @@
 # Journey Lines
-<img src="images/graph1.png" >
+<img src="images/journeylines.png" >
 
 ## Purpose
 
