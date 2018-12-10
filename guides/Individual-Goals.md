@@ -1,5 +1,7 @@
 # Individual Goals
 
+<img src="images/individual-goals.png" >
+
 ## Time required
 
 Typically 1,5 hours
@@ -9,8 +11,6 @@ Typically 1,5 hours
 - Assorted positits
 - Markers
 - Flipchart papers
-
-<img src="images/graph2.png" align="right" width="300" height="300" >
 
 ## Purpose
 
