@@ -1,5 +1,7 @@
 # Market of skills
 
+<img src="images/market-of-skills.png" >
+
 ## Purpose
 
 -  Make skills the team have visible to entire team.
@@ -12,8 +14,6 @@
 ## Duration
 
 -  30-60 min
-
-<img src="images/graph3.png" align="right" width="300" height="300" >
 
 ## Material
 
