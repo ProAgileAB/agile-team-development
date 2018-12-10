@@ -25,7 +25,7 @@ fi;
 # By having only <> tag in files and replacing them with [] before generating pdf
 # Next add {-} after all header lines. This is a pandc extension to remove chapter numbering
 for f in ${filelist}; 
-	do cat ${f}.md | sed -E 's#<img src="([^"]*)"[^>]*>#!\[\](\1)#g' > tmp/imagesfixed.md ;
+	do cat ${f}.md | sed -E 's#<img src="([^"]*)"[^>]*>#!\[\](\1){ width=70%}#g' > tmp/imagesfixed.md ;
 	cat tmp/imagesfixed.md  | sed  -E 's/(^#.*)/\1{-}/'  > tmp/${f}.md ;
 	tmpfiles+="tmp/"${f}.md" ";
 done;
