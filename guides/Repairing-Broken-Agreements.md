@@ -12,7 +12,7 @@
 
 ## Preparations
 
--  Print print [*role studies/cases*](https://docs.google.com/document/d/1esGE5pbVGglY4YgakriqoMMRU3nP1r-RkjbpELQXmwk/) for everyone. You need one copy per two participants
+-  Print Role studies from next sections for everyone. Each person should get either the "Chris" or "Sam" version.
 
 -  Ask a co-trainer or someone in the session if they can demonstrate the technique with you as show a bit further below. Go through it with them, explain what you will bring up and why it would have seem like the correct thing to do from their point of view at the time.
 
