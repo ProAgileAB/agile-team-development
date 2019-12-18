@@ -35,11 +35,23 @@ for f in ${filelist};
 	do cat ${f}.md | sed -E 's#<img src="([^"]*)"[^>]*>#!\[\](\1){ width=70%}#g' > tmp/imagesfixed.md ;
 	
 	# Next add {-} after all header lines. This is a pandc extension to remove chapter numbering
-	cat tmp/imagesfixed.md  | sed  -E 's/(^#.*)/\1{-}/'  > tmp/headersfixed.md ;
+	cat tmp/imagesfixed.md  | sed  -E 's/(^#.*)/\1{-}/'  > tmp/tmp-out.md ;
+	cp tmp/tmp-out.md tmp/tmp-in.md
 
 	# Next add pagebreaks before two specific level two headers that we want to start at separate pages
-	cat tmp/headersfixed.md  | sed  -E 's/(^## Role study.*)/\\pagebreak\n\1/'  > tmp/${f}.md ;
-		
+	cat tmp/tmp-in.md  | sed  -E 's/(^## Role study.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
+	cp tmp/tmp-out.md tmp/tmp-in.md
+
+	cat tmp/tmp-in.md  | sed  -E 's/(^## What is a successful team?.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
+	cp tmp/tmp-out.md tmp/tmp-in.md
+	
+	cat tmp/tmp-in.md  | sed  -E 's/(^## The Framework.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
+	cp tmp/tmp-out.md tmp/tmp-in.md
+	
+	cat tmp/tmp-in.md  | sed  -E 's/(^## Timely and Trustworthy.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
+	
+	cp tmp/tmp-out.md tmp/${f}.md 
+	
 	tmpfiles+="tmp/"${f}.md" ";
 
 done;
