@@ -37,6 +37,8 @@ Relative weight of these bullets differs depending on the purpose of the team. F
 
 ## The Framework
 
+<img src="images/simple-framework.png" >
+
 Above you can see a visualization of a framework that has been proven useful for us when thinking about how next we best can help a team on their journey. 
 
 The six areas shown with the yellow postits above is a slightly different way of viewing the five conditions that well renowned team researcher Richard Hackman uses to discuss team performance in his work[3]. 
@@ -78,10 +80,10 @@ What we are looking for is a direction that
 * Helping the team to be close to and empathize with the people that will benefit from the solution/service they are delivering. In a Scrum context this may be reached by encouraging close collaboration between team and stakeholder and avoiding go-between behaviour from roles such as Product Owners
 
 ### Related exercises from part 2
-* Individual Goals
-* Organizational Goals for Teams
-* Product Goals for Teams
-* Team Vision
+* [*Individual Goals*](https://proagileab.github.io/agile-team-development/guides/Individual-Goals.html)
+* [*Organizational Goals for Teams*](https://proagileab.github.io/agile-team-development/guides/Organizational-Goals-for-Teams.html)
+* [*Product Goals for Teams*](https://proagileab.github.io/agile-team-development/guides/Product-Goals-for-Teams.html)
+* [*Team Vision*](https://proagileab.github.io/agile-team-development/guides/Team-Vision.html)
 
 
 ## Timely and Trustworthy Feedback 
@@ -182,18 +184,19 @@ In the Google Aristotele team research they found “Emotional Safety” (aka tr
 This is probably factors that most team building activities tries to address with various social off-work social activities. Maybe that even helps a little, but by using job focused specific activities, some listed below, this can be taken to a completely different level.
 
 ### Related exercises from part 2
+* [*Individual Goals*](https://proagileab.github.io/agile-team-development/guides/Individual-Goals.html)
+* [*Organizational Goals for Teams*](https://proagileab.github.io/agile-team-development/guides/Organizational-Goals-for-Teams.html)
+* [*Product Goals for Teams*](https://proagileab.github.io/agile-team-development/guides/Product-Goals-for-Teams.html)
+* [*Team Vision*](https://proagileab.github.io/agile-team-development/guides/Team-Vision.html)
 
-* Individual Goals
-* Organizational Goals for Teams
-* Product Goals for Teams
-* Team Vision
-* Ground Rules & Decision Making
-* Journey Lines
-* Appreciation Cards
-* Balancing Team- and Individual work
-* Market of skills
-* Repairing Broken Agreements
-* Build trust with simple questions
+* [*Ground Rules & Decision Making*](https://proagileab.github.io/agile-team-development/guides/Ground-Rules-and-Decision-Making.html)
+* [*Journey Lines*](https://proagileab.github.io/agile-team-development/guides/Journey-Lines.html)
+* [*Appreciation Cards*](https://proagileab.github.io/agile-team-development/guides/Appreciation-Cards.html)
+* [*Balancing Team- and Individual work*](https://proagileab.github.io/agile-team-development/guides/Balancing-Team-and-Individual-Work.html)
+* [*Market of skills*](https://proagileab.github.io/agile-team-development/guides/Market-of-Skills.html)
+* [*Repairing Broken Agreements*](https://proagileab.github.io/agile-team-development/guides/Repairing-Broken-Agreements.html)
+* [*Build trust with simple questions*](https://proagileab.github.io/agile-team-development/guides/Build-Trust-With-Simple-Questions.html)
+
 
 ## Infrastructure and support
 
@@ -220,5 +223,4 @@ Here are some ideas on question you can ask to check the level of infrastructure
 [4] The five keys to a successful Google team, Julia Rozovsky
 
 [5] Teamwork is an individual skill, Christopher Avery
-
 

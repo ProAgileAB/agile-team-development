@@ -1,19 +1,25 @@
 
-
 filelist=\
 "TitlePage \
-Team-Start-Example \
-Ground-Rules-and-Decision-Making \
-Journey-Lines \
-Appreciation-Cards \
-Product-Goals-for-Teams \
-Organizational-Goals-for-Teams \
-Team-Vision \
-Individual-Goals \
-Balancing-Team-and-Individual-Work \
-Market-of-Skills \
-Repairing-Broken-Agreements \
-Build-Trust-With-Simple-Questions"
+A-Team-Development-Framework \
+Team-Start-Example"
+
+
+#filelist=\
+#"TitlePage \
+#A-Team-Development-Framework \
+#Team-Start-Example \
+#round-Rules-and-Decision-Making \
+#Journey-Lines \
+#Appreciation-Cards \
+#Product-Goals-for-Teams \
+#Organizational-Goals-for-Teams \
+#Team-Vision \
+#Individual-Goals \
+#Balancing-Team-and-Individual-Work \
+#Market-of-Skills \
+#Repairing-Broken-Agreements \
+#Build-Trust-With-Simple-Questions"
 
 tmpfiles=""
 
