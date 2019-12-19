@@ -16,16 +16,25 @@
       </tr>
     </thead>
     <tbody>
+	
+      <tr>	  
+        <td>A Team Development Framework</td>
+	<td><A HREF="guides/A-Team-Development-Framework.html">Read Online</A></td>
+	<td><A HREF="pdf/A-Team-Development-Framework.pdf">Download PDF</A></td>
+      </tr>
+
       <tr>
         <td>Team-Start Example</td>
 	<td><A HREF="guides/Team-Start-Example.html">Read Online</A></td>
 	<td><A HREF="pdf/Team-Start-Example.pdf">Download PDF</A></td>
       </tr>
-      <tr>
+
+      <tr>	  
         <td>Ground Rules & Decision Making</td>
 	<td><A HREF="guides/Ground-Rules-and-Decision-Making.html">Read Online</A></td>
 	<td><A HREF="pdf/Ground-Rules-and-Decision-Making.pdf">Download PDF</A></td>
       </tr>
+
       <tr>
         <td>Journey Lines</td>
 	<td><A HREF="guides/Journey-Lines.html">Read Online</A></td>
