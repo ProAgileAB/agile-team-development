@@ -2,15 +2,15 @@
 ## Why teams don't work
 
 
-A well functioning team can create magic, but here are some disturbing facts from teamwork in the real world:
+A well-functioning team can create magic, but here are some disturbing facts from teamwork in the real world:
 
 * Research that compares the performance of teams with what is produced by an equivalent number of individuals who work by themselves almost always find that the individuals outperform the teams [1].
 * In practice five out of nine interventions/attempts to improve team performance have no positive effect whatsoever! [2]
 * There is much agreement in the research community on what works and not when it comes to helping teams get to high performance. 
 
-So, in theory we do know how to make things work. In practise, organizations do not apply this knowledge when starting and developing teams. Thus, they fail to get the full benefits from organizing in teams. 
+So, in theory we do know how to make things work. In practice, organizations do not apply this knowledge when starting and developing teams. Thus, they fail to get the full benefits from organizing in teams. 
 
-To help with this situation, we decided to put this simple guide together. It contains a framework and some hands on exercises that you can use to start and support the agile teams in your organization. We created it to support Scrum Masters, Line Managers, Agile coaches and others that want to create great teams.
+To help with this situation, we decided to put this simple guide together. It contains a framework and some hands-on exercises that you can use to start and support the agile teams in your organization. We created it to support Scrum Masters, Line Managers, Agile coaches and others that want to create great teams.
 
 To avoid falling into the trap of the five out of nine techniques that sounds good but actually do not help at all, we based this guide on principles well grounded in the research. 
 
@@ -45,7 +45,19 @@ The six areas shown with the yellow postits above is a slightly different way of
 
 Hackman states that evaluating a teams environment and setup, using these areas, can explain 90% of the variation you see in team performance! This is great news since it also means that by focusing on these areas, improving the working conditions of your teams step by step, you can have a huge impact on the performance of the teams that when care about!
 
-In the next sections we will have a look at these conditions/areas one by one.
+### How to use this framework
+
+Here is one suggestion on how to use the framework:
+
+* Identify the leaders that most closely care about/can influence the conditions of performance for a team. 
+In a classic agile context this may be the Product Owner, Scrum Master and Line Manager of the team.
+* Schedule regular get-togethers of these leaders
+* At these gatherings, use the framework to systematically examine the working conditions of your team. What is in place already? What would be a next step to enable even greater team performance within each area?
+* Pick at least one area where you would like to make an improvement, plan and execute an experiment to make the improvement. The exercises later in this paper can be useful to make some of these improvements. 
+* Repeat
+
+In the next sections we will examine each if the conditions/areas one by one. This is for you to use as a reference when you evaluate the conditions for each team and think about next steps as descibed above.
+
 
 # The Six Key Areas
 
@@ -77,7 +89,7 @@ What we are looking for is a direction that
 * Value Proposition Canvas
 * Business Model Canvas
 * Sprint Goals
-* Helping the team to be close to and empathize with the people that will benefit from the solution/service they are delivering. In a Scrum context this may be reached by encouraging close collaboration between team and stakeholder and avoiding go-between behaviour from roles such as Product Owners
+* Helping the team to be close to and empathize with the people that will benefit from the solution/service they are delivering. In a Scrum context this may be reached by encouraging close collaboration between team and stakeholder and avoiding go-between behavior from roles such as Product Owners
 
 ### Related exercises from part 2
 * [*Individual Goals*](https://proagileab.github.io/agile-team-development/guides/Individual-Goals.html)
@@ -93,13 +105,13 @@ I once worked with a team that seemed to have a pretty good time at work, but wh
  
 Now this team were a part of a larger cooperation and did not have all the equipment they needed to test if what they had created actually worked or not. At the end of sprints they simple shipped stuff off to another team that would test it. So I asked them, "how long does it take before you get feedback from the test team?". The answer I got was that "It can take up to 18 months!"
  
-Clearly waiting so long for feedback on what you are doing is not the most inspiring working environment. Basically you get the feeling nobody cares what you do and that it doesn't matter anyway. What looked like disengaged, somewhat irresponsible, individuals was merely a logical result of setting up an environment that created that behavior!
+Clearly waiting so long for feedback on what you are doing is not the most inspiring working environment. Basically, you get the feeling nobody cares what you do and that it doesn't matter anyway. What looked like disengaged, somewhat irresponsible, individuals was merely a logical result of setting up an environment that created that behavior!
  
 ### Some techniques to address this condition 
 * Create real potentially releasable increments of your product/service as frequent as possible. At least every sprint.
 * Slicing stories vertically so that even each releasable increment is created in many smaller steps, each giving technical feedback about working integrations etc.
 * Making sure teams have frequent stakeholder, customer and end-user contact. In Scrum this can be during Sprints and at Sprint Reviews. 
-* Techniques such as impact mapping from the compelling direction section that makes sure the team actually knows what the purpose of the work is. Without that, any measure of progress is less meaningful.
+* Techniques such as impact mapping from the compelling direction section that makes sure the team actually know what the purpose of the work is. Without that, any measure of progress is less meaningful.
 
 
 ## Clear and Significant Autonomy
@@ -135,7 +147,7 @@ What matters then when you design a team? Let’s have a look at what the resear
  
 Indeed, as I learned from Christopher Avery [5]: The motivation of a complete team is usually set by the least invested/motivated team member. The least inspired person tends to drag everyone else down to the same low level of engagement. Hackman also mentions the related phenomena of “Social Loafing”, someone “free riding” along and not contributing their share of the work. 
  
-A common cause for this problem is the habit in many organization to assign people part time to several teams or to set things up so that teams are dependent on external experts with no commitment to the team. 
+A common cause for this problem is the habit in many organizations to assign people part time to several teams or to set things up so that teams are dependent on external experts with no commitment to the team. 
 
 The way to prevent this is to set clear boundaries for the team. A team need to know who is on the team and who is not. Who can I count on when going gets tough and who may have other priorities?
  
@@ -173,14 +185,14 @@ An agile team also needs to learn some new skills in order to be self managing/s
 
 * quickly make good enough decisions as a team
 * solve problems as a team
-* navigare conflict as a team
+* navigate conflict as a team
 
 Having some of these skills is of help since teams also need to decide
 
 * Ground rules for working together
 * Specific ways of working that all team members at least agree to. (Consent decision making is enough here, not consensus)
 
-In the Google Aristotele team research they found “Emotional Safety” (aka trust) to be the best predictor of team performance. Emotional safety basically means that you can show up as your full self at work. You can be yourself and do not have to put on a mask or protective armour because you know that nobody will try to hurt you.
+In the Google Aristotele team research they found “Emotional Safety” (aka trust) to be the best predictor of team performance. Emotional safety basically means that you can show up as your full self at work. You can be yourself and do not have to put on a mask or protective armor because you know that nobody will try to hurt you.
 This is probably factors that most team building activities tries to address with various social off-work social activities. Maybe that even helps a little, but by using job focused specific activities, some listed below, this can be taken to a completely different level.
 
 ### Related exercises from part 2
@@ -204,10 +216,10 @@ Here are some ideas on question you can ask to check the level of infrastructure
 
 * Do they have easy access to all information they could use to maximize the value of their work?
 * Do they have the tooling they need and is tool-performance top class?
-* Do they have the personel and physical space needed?
+* Do they have the personnel and physical space needed?
 * When there is tooling or infrastructure problems, how quickly can the team get help?
 * When the team discover a need for learning, can they quickly get the resources needed to do so?
-* Do the reward system of the company encourage team work or individual hero behaviour?
+* Do the reward system of the company encourage teamwork or individual hero behavior?
 * Do the organizational design foster collaboration between groups and departments?
 * When the organizational design creates conflict between organizational parts, do managers have the sophisticated political and interpersonal skills, persistence, inventiveness and sense of timing to help resolve this?
 
