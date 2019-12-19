@@ -1,25 +1,25 @@
 
-filelist=\
-"TitlePage \
-A-Team-Development-Framework \
-Team-Start-Example"
-
-
 #filelist=\
 #"TitlePage \
 #A-Team-Development-Framework \
-#Team-Start-Example \
-#round-Rules-and-Decision-Making \
-#Journey-Lines \
-#Appreciation-Cards \
-#Product-Goals-for-Teams \
-#Organizational-Goals-for-Teams \
-#Team-Vision \
-#Individual-Goals \
-#Balancing-Team-and-Individual-Work \
-#Market-of-Skills \
-#Repairing-Broken-Agreements \
-#Build-Trust-With-Simple-Questions"
+#Team-Start-Example"
+
+
+filelist=\
+"TitlePage \
+A-Team-Development-Framework \
+Team-Start-Example \
+Ground-Rules-and-Decision-Making \
+Journey-Lines \
+Appreciation-Cards \
+Product-Goals-for-Teams \
+Organizational-Goals-for-Teams \
+Team-Vision \
+Individual-Goals \
+Balancing-Team-and-Individual-Work \
+Market-of-Skills \
+Repairing-Broken-Agreements \
+Build-Trust-With-Simple-Questions"
 
 tmpfiles=""
 
@@ -52,34 +52,34 @@ for f in ${filelist};
 
 	# Next add pagebreaks before two specific level two headers that we want to start at separate pages
 	
-	#for h in ${headerlist}; 
-	#	cat tmp/tmp-in.md  | sed  -E 's/(^## ${h}.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
-	#	cp tmp/tmp-out.md tmp/tmp-in.md
+	#cat tmp/tmp-in.md  | sed  -E 's/(^## What is a successful team?.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
+	#cp tmp/tmp-out.md tmp/tmp-in.md
+	
+	#cat tmp/tmp-in.md  | sed  -E 's/(^## The Framework.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
+	#cp tmp/tmp-out.md tmp/tmp-in.md
+	
+	
+	#cat tmp/tmp-in.md  | sed  -E 's/(^# The Six Key.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
+	#cp tmp/tmp-out.md tmp/tmp-in.md
+	
+	#cat tmp/tmp-in.md  | sed  -E 's/(^## Clear and Significant.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
+	#cp tmp/tmp-out.md tmp/tmp-in.md
+	
+	
+	#cat tmp/tmp-in.md  | sed  -E 's/(^## Design of Team.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
+	#cp tmp/tmp-out.md tmp/tmp-in.md
+	
+	#cat tmp/tmp-in.md  | sed  -E 's/(^## Activities for Teambuilding.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
+	#cp tmp/tmp-out.md tmp/tmp-in.md
+	
+	#cat tmp/tmp-in.md  | sed  -E 's/(^## Infrastructure and Support.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
+	#cp tmp/tmp-out.md tmp/tmp-in.md
 
-	cat tmp/tmp-in.md  | sed  -E 's/(^## What is a successful team?.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
+	cat tmp/tmp-in.md  | sed  -E 's/(^## Role study.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
 	cp tmp/tmp-out.md tmp/tmp-in.md
+
 	
-	cat tmp/tmp-in.md  | sed  -E 's/(^## The Framework.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
-	cp tmp/tmp-out.md tmp/tmp-in.md
-	
-	
-	cat tmp/tmp-in.md  | sed  -E 's/(^# The Six Key.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
-	cp tmp/tmp-out.md tmp/tmp-in.md
-	
-	cat tmp/tmp-in.md  | sed  -E 's/(^## Clear and Significant.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
-	cp tmp/tmp-out.md tmp/tmp-in.md
-	
-	
-	cat tmp/tmp-in.md  | sed  -E 's/(^## Design of Team.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
-	cp tmp/tmp-out.md tmp/tmp-in.md
-	
-	cat tmp/tmp-in.md  | sed  -E 's/(^## Activities for Teambuilding.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
-	cp tmp/tmp-out.md tmp/tmp-in.md
-	
-	cat tmp/tmp-in.md  | sed  -E 's/(^## Infrastructure and Support.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
-	cp tmp/tmp-out.md tmp/tmp-in.md
-	
-	cat tmp/tmp-in.md  | sed  -E 's/(^## Timely and Trustworthy.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
+	#cat tmp/tmp-in.md  | sed  -E 's/(^## Timely and Trustworthy.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
 	cp tmp/tmp-out.md tmp/${f}.md 
 	
 	tmpfiles+="tmp/"${f}.md" ";
