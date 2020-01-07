@@ -47,6 +47,8 @@ Hackman states that evaluating a teams environment and setup, using these areas,
 
 ### How to use this framework
 
+<img src="images/triad.jpg" >
+
 Here is one suggestion on how to use the framework:
 
 * Identify the leaders that most closely care about/can influence the conditions of performance for a team. 
@@ -108,7 +110,7 @@ This is also one of the top three important aspects to consider when trying to c
 
 I once worked with a team that seemed to have a pretty good time at work, but when it came to the work itself, I felt that their hearts were not really in it. At the end of sprints they shipped whatever they had without worrying so much if what they shipped was of sufficient quality, if it really worked or if it was of value.
  
-Now this team were a part of a larger cooperation and did not have all the equipment they needed to test if what they had created actually worked or not. At the end of sprints they simple shipped stuff off to another team that would test it. So I asked them, "how long does it take before you get feedback from the test team?". The answer I got was that "It can take up to 18 months!"
+Now this team were a part of a larger organization and did not have all the equipment they needed to test if what they had created actually worked or not. At the end of sprints they simple shipped stuff off to another team that would test it. So I asked them, "how long does it take before you get feedback from the test team?". The answer I got was that "It can take up to 18 months!"
  
 Clearly waiting so long for feedback on what you are doing is not the most inspiring working environment. Basically, you get the feeling nobody cares what you do and that it doesn't matter anyway. What looked like disengaged, somewhat irresponsible, individuals was merely a logical result of setting up an environment that created that behavior!
  
