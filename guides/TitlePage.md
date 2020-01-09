@@ -3,7 +3,7 @@ title: "Starting and Developing Agile Teams"
 subtitle: "A Facilitation Guide"
 subtitle2: "For updates to this guide, visit \\href{https://www.proagile.se/teams}{proagile.se/teams}"
 titlepage: true
-date: "2019-12-19"
+date: "2020-01-09"
 titlepage-text-color:  006600
 titlepage-rule-color:  33cc33
 titlepage-rule-height: 8

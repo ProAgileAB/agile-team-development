@@ -65,6 +65,7 @@ In the next sections we will examine each of the conditions/areas one by one. Th
 # The Six Key Areas
 
 ## Compelling Direction
+<img src="images/compelling-direction.png">
 
 This is the most important of the various factors you should consider when thinking about what conditions you can help create for your teams. 
 It is one out of five factors identified by Hackman as enabling team performance. 
@@ -105,6 +106,7 @@ What we are looking for is a direction that:
 
 
 ## Timely and Trustworthy Feedback
+<img src="images/feedback.png">
 
 This is also one of the top three important aspects to consider when trying to create the conditions for team performance. 
 
@@ -123,6 +125,7 @@ Clearly waiting so long for feedback on what you are doing is not the most inspi
 
 
 ## Clear and Significant Autonomy
+<img src="images/autonomy-2.png">
 
 Here is a pattern I keep running into when I work with aspiring agile organizations:
  
@@ -141,6 +144,7 @@ I find defining key decision areas as suggested by Don Reinertsen and using the 
 
 
 ## Design of Team
+<img src="images/design-of-team.png">
 
 This is also one of the top aspect to consider when trying to create the conditions for team performance. 
 
@@ -187,6 +191,7 @@ So, you may want to consider keeping teams together for longer times. To make th
 
 
 ## Activities for Teambuilding
+<img src="images/building-team.png">
 
 Perhaps the most common activities for team building are going bowling and then contnuing with dinner & drinks. Or perhaps solving a puzzle such as an “Escape room”, trying to instill teamwork by doing something completely different than regular work. This can be fun and all, but these activities probably fall into the category of 5/9 activities that produce no measurable improvement in teamwork according to Susan Wheelan. So feel free to keep offering fun stuff like this to employees, but do not count of this as the foundation for team building.
 
@@ -225,6 +230,7 @@ This is probably factors that most team building activities tries to address wit
 
 
 ## Infrastructure and support
+<img src="images/infrastructure-and-support.png">
 
 Here are some ideas on question you can ask to check the level of infrastructure and support you currently have for your teams:
 
