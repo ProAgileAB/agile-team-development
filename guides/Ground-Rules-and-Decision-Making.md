@@ -1,4 +1,6 @@
 # Ground Rules & Decision Making
+<img src="images/rules-and-decisions.png" >
+
 ## Time required
 Typically 5-15 minutes
 

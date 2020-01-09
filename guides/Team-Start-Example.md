@@ -1,4 +1,5 @@
 # Team-Start Example
+<img src="images/team-start.png" >
 
 ## Purpose
 

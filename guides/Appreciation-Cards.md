@@ -1,4 +1,5 @@
 # Appreciation Cards
+<img src="images/appreciation-cards.png" >
 
 ## Time required
 

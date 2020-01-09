@@ -1,4 +1,5 @@
 # Balancing Team- and Individual work
+<img src="images/balance-team-individual.png" >
 
 ## Purpose
 

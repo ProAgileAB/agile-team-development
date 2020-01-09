@@ -1,4 +1,5 @@
 # Organizational Goals for Teams
+<img src="images/goals-for-teams.png" >
 
 Note, this Guide have some shared parts with the Product Goals for Teams Guide. Similar passages have been marked with grey so that people familiar with that guide can see what differs
 

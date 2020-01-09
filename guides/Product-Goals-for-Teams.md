@@ -1,4 +1,5 @@
 # Product Goals for Teams
+<img src="images/shared-roadmap-vision.png" >
 
 ## Time required
 

@@ -1,4 +1,5 @@
 # Team Vision
+<img src="images/vision.png" >
 
 ## Time required
 
