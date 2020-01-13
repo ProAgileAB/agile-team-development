@@ -19,7 +19,8 @@ Individual-Goals \
 Balancing-Team-and-Individual-Work \
 Market-of-Skills \
 Repairing-Broken-Agreements \
-Build-Trust-With-Simple-Questions"
+Build-Trust-With-Simple-Questions \
+Clarifying-Team-Mandate"
 
 tmpfiles=""
 

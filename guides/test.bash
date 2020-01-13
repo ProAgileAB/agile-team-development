@@ -2,8 +2,7 @@
 
 filelist=\
 "TitlePage \
-Market-of-Skills \
-Repairing-Broken-Agreements \
+Clarifying-Team-Mandate \
 Build-Trust-With-Simple-Questions"
 
 tmpfiles=""

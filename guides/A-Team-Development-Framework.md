@@ -142,6 +142,8 @@ I find defining key decision areas as suggested by Don Reinertsen and using the 
 * Delegation poker and delegation boards.
 * Agile Leadership training for involved managers. Especially focus on need for decentralization and how to, step by step, restore the motivation and initiative that was destroyed by the classic hierarchical management model.
 
+### Related exercises from part 2
+* [*Clarifying Team Mandate*](https://proagileab.github.io/agile-team-development/guides/Clarifying-Team-Mandate.html)
 
 ## Design of Team
 <img src="images/design-of-team.png">
