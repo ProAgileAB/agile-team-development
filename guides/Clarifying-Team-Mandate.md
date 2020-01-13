@@ -11,7 +11,7 @@
 *   60 minutes
 
 ## Preparations
-* Print or buy some delegation poker cards, on set per session participant: team + manager(s) 
+* Print or buy some [*delegation poker cards*](https://management30.com/empower-teams/delegation-empowerment/#7-levels-of-delegation), one set per session participant: team + manager(s) 
 * Prepare a list of areas where you think clarification of mandate will be useful. The areas can be obtained from people responsible for things today, such as line managers, product managers, product owners etc. They can also be obtained from the team as areas where they would like to have (increased) influence or clarify responsibilities. 
 In the example section below you can see some suggestions on areas used in a real team setting.
 
