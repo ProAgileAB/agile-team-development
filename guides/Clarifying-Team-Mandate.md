@@ -1,4 +1,4 @@
-# Clarifying Team Mandate
+# Clarifying Team Mandates
 
 ## Purpose
 
