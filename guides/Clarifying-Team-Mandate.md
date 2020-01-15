@@ -27,7 +27,7 @@ In the example section below you can see some suggestions on areas used in a rea
 
 * Walk through the areas you prepared one by one. For each step:
 	* Have each participant pick the level of delegation that they would prefer for the area without showing the others
-	* Show the cards to each other and have a discussion. If needed, facilitate decision making. [*5 finger voting*](https://proagileab.github.io/agile-team-development/guides/Ground-Rules-and-Decision-Making.html) can be e a useful technique here. 
+	* Show the cards to each other and have a discussion. If needed, facilitate decision making. [*5 finger voting*](https://proagileab.github.io/agile-team-development/guides/Ground-Rules-and-Decision-Making.html) can be a useful technique here. 
 	* Document decision on mandate. In the next section you can see one example on how this was done. The green mark is the desire to delegate from the manager. The happy face is what the team agreed to/wanted.
 
 ## Example
