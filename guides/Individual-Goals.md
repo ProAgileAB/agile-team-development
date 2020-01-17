@@ -1,6 +1,6 @@
 # Individual Goals
 
-<img src="images/individual-goals.png" >
+<img src="images/individual-goals-top.png" >
 
 ## Time required
 
@@ -37,6 +37,8 @@ Typically 1,5 hours
 *- Show the question written on top of a sample flip chart, like the one on the first page.*
 
 ### Part 2: Pairwise coaching
+
+<img src="images/individual-goals.png" >
 
 *So, we will do this exercise in three steps, for the first two will will work in pairs, so*
 
