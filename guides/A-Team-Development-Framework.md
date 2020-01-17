@@ -17,13 +17,6 @@ To avoid falling into the trap of the five out of nine techniques that sounds go
 This is not only a theoretical framework though. We have used it at ProAgile for more than ten years of helping agile teams to get started and keep improving. For us it has helped to create good results in practice. We hope you will find it useful too.
 
 
-### References
-
-[1] Why Teams Don’t Work, Diane Coutu, Harvard Business Review May 2009
-
-[2] Creating Effective Teams, Susan A. Wheelan
-
-
 ## What is a successful team?
 
 Before we go into describing how to create a successful team, let’s agree what we mean with “a successful team”. Below you can see a proposed definition from Richard Hackman. A successful team:
