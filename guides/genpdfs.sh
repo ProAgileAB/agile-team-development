@@ -1,3 +1,4 @@
+#!/bin/bash
 
 #filelist=\
 #"TitlePage \
@@ -20,7 +21,8 @@ Balancing-Team-and-Individual-Work \
 Market-of-Skills \
 Repairing-Broken-Agreements \
 Build-Trust-With-Simple-Questions \
-Clarifying-Team-Mandate"
+Clarifying-Team-Mandate \
+Roles-and-Expectations"
 
 tmpfiles=""
 
@@ -41,11 +43,12 @@ headerlist=\
 ## Infrastructure and Support"
 
 
-# Perform some pre-processing of md files to make pdf rendering better
+echo "Pre-processing of md files to make pdf rendering better"
 for f in ${filelist}; 
+do
 	# Fix problem that HTML generartion needs <img> tag while pdf generation needs ![] tag
 	# By having only <> tag in files and replacing them with [] before generating pdf
-	do cat ${f}.md | sed -E 's#<img src="([^"]*)"[^>]*>#!\[\](\1){ width=70%}#g' > tmp/imagesfixed.md ;
+	cat ${f}.md | sed -E 's#<img src="([^"]*)"[^>]*>#!\[\](\1){ width=70%}#g' > tmp/imagesfixed.md ;
 	
 	# Next add {-} after all header lines. This is a pandc extension to remove chapter numbering
 	cat tmp/imagesfixed.md  | sed  -E 's/(^#.*)/\1{-}/'  > tmp/tmp-out.md ;
@@ -76,19 +79,16 @@ for f in ${filelist};
 	#cat tmp/tmp-in.md  | sed  -E 's/(^## Infrastructure and Support.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
 	#cp tmp/tmp-out.md tmp/tmp-in.md
 
-	cat tmp/tmp-in.md  | sed  -E 's/(^## Role study.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
+	cat tmp/tmp-in.md  | sed  -E 's/(^## Role study.*)/\\pagebreak \n\1/'  > tmp/tmp-out.md ;
 	cp tmp/tmp-out.md tmp/tmp-in.md
-
 	
 	#cat tmp/tmp-in.md  | sed  -E 's/(^## Timely and Trustworthy.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
 	cp tmp/tmp-out.md tmp/${f}.md 
 	
 	tmpfiles+="tmp/"${f}.md" ";
-
 done;
 
-
-#Generate full pdf
+echo "Generate full pdf"
 pandoc  \
 $tmpfiles \
 --from markdown \
@@ -96,10 +96,9 @@ $tmpfiles \
 --template=templates/eisvogel.latex \
 -o ../pdf/Starting-and-Developing-Agile-Teams.pdf --toc --toc-depth=1 --top-level-division=chapter -V secnumdepth=0
 
-
-#Generate per chapter  pdf
-
-for f in ${filelist}; 
-	do pandoc tmp/${f}.md -o ../pdf/${f}.pdf --template=templates/eisvogel.latex  ;
+echo "Generate per chapter pdf"
+for f in ${filelist};
+do
+    echo " Generating pdf for "${f}
+	pandoc tmp/${f}.md -o ../pdf/${f}.pdf --template=templates/eisvogel.latex  ;
 done;
-
