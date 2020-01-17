@@ -1,6 +1,6 @@
 # Market of skills
 
-<img src="images/market-of-skills.png" >
+<img src="images/market-of-skills-top.png" >
 
 ## Purpose
 
@@ -21,6 +21,8 @@
 -  Pens in different colors (not necessary but definitely a bonus) and sharpies.
 
 ## How
+
+<img src="images/market-of-skills.png" >
 
 -  Invite each person to create their own poster. Show a template of how the poster can look like. It shall contain this: (10-15 min)
    -  Name

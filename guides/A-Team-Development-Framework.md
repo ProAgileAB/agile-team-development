@@ -47,7 +47,7 @@ Hackman states that evaluating a teams environment and setup, using these areas,
 
 ### How to use this framework
 
-<img src="images/triad.jpg" >
+<img src="images/triad-supporting.png" >
 
 Here is one suggestion on how to use the framework:
 
