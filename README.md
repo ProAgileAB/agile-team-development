@@ -90,6 +90,11 @@
 		<td><A HREF="guides/Clarifying-Team-Mandate.html">Read Online</A></td>
 		<td><A HREF="pdf/Clarifying-Team-Mandate.pdf">Download PDF</A></td>
       </tr>
+      <tr>
+        <td>Roles and Expectations</td>
+		<td><A HREF="guides/Roles-and-Expectations.html">Read Online</A></td>
+		<td><A HREF="pdf/Roles-and-Expectations.pdf">Download PDF</A></td>
+      </tr>
 
     </tbody>
   </table>
