@@ -217,6 +217,7 @@ This is probably factors that most team building activities tries to address wit
 
 * [*Ground Rules & Decision Making*](https://proagileab.github.io/agile-team-development/guides/Ground-Rules-and-Decision-Making.html)
 * [*Journey Lines*](https://proagileab.github.io/agile-team-development/guides/Journey-Lines.html)
+* [*Roles-and-Expectations*](https://proagileab.github.io/agile-team-development/guides/Roles-and-Expectations.html)
 * [*Appreciation Cards*](https://proagileab.github.io/agile-team-development/guides/Appreciation-Cards.html)
 * [*Balancing Team- and Individual work*](https://proagileab.github.io/agile-team-development/guides/Balancing-Team-and-Individual-Work.html)
 * [*Market of skills*](https://proagileab.github.io/agile-team-development/guides/Market-of-Skills.html)
