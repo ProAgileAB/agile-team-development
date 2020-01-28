@@ -1,11 +1,5 @@
 #!/bin/bash
 
-#filelist=\
-#"TitlePage \
-#A-Team-Development-Framework \
-#Team-Start-Example"
-
-
 filelist=\
 "TitlePage \
 A-Team-Development-Framework \
@@ -30,19 +24,6 @@ if [ ! -d tmp ]; then
 	mkdir tmp
 fi;
 
-
-headerlist=\
-"## Role study \
-## What is a successful team? \
-## The Framework \
-## Timely and Trustworthy \
-# The Six Key \
-## Clear and Significant \
-## Design of Team \
-## Activities for Teambuilding \
-## Infrastructure and Support"
-
-
 echo "Pre-processing of md files to make pdf rendering better"
 for f in ${filelist}; 
 do
@@ -50,39 +31,14 @@ do
 	# By having only <> tag in files and replacing them with [] before generating pdf
 	cat ${f}.md | sed -E 's#<img src="([^"]*)"[^>]*>#!\[\](\1){ width=70%}#g' > tmp/imagesfixed.md ;
 	
-	# Next add {-} after all header lines. This is a pandc extension to remove chapter numbering
+	# Next add {-} after all header lines. This is a pandoc extension to remove chapter numbering
 	cat tmp/imagesfixed.md  | sed  -E 's/(^#.*)/\1{-}/'  > tmp/tmp-out.md ;
 	cp tmp/tmp-out.md tmp/tmp-in.md
 
 	# Next add pagebreaks before two specific level two headers that we want to start at separate pages
-	
-	#cat tmp/tmp-in.md  | sed  -E 's/(^## What is a successful team?.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
-	#cp tmp/tmp-out.md tmp/tmp-in.md
-	
-	#cat tmp/tmp-in.md  | sed  -E 's/(^## The Framework.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
-	#cp tmp/tmp-out.md tmp/tmp-in.md
-	
-	
-	#cat tmp/tmp-in.md  | sed  -E 's/(^# The Six Key.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
-	#cp tmp/tmp-out.md tmp/tmp-in.md
-	
-	#cat tmp/tmp-in.md  | sed  -E 's/(^## Clear and Significant.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
-	#cp tmp/tmp-out.md tmp/tmp-in.md
-	
-	
-	#cat tmp/tmp-in.md  | sed  -E 's/(^## Design of Team.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
-	#cp tmp/tmp-out.md tmp/tmp-in.md
-	
-	#cat tmp/tmp-in.md  | sed  -E 's/(^## Activities for Teambuilding.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
-	#cp tmp/tmp-out.md tmp/tmp-in.md
-	
-	#cat tmp/tmp-in.md  | sed  -E 's/(^## Infrastructure and Support.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
-	#cp tmp/tmp-out.md tmp/tmp-in.md
-
 	cat tmp/tmp-in.md  | sed  -E 's/(^## Role study.*)/\\pagebreak \n\1/'  > tmp/tmp-out.md ;
 	cp tmp/tmp-out.md tmp/tmp-in.md
 	
-	#cat tmp/tmp-in.md  | sed  -E 's/(^## Timely and Trustworthy.*)/\\pagebreak\n\1/'  > tmp/tmp-out.md ;
 	cp tmp/tmp-out.md tmp/${f}.md 
 	
 	tmpfiles+="tmp/"${f}.md" ";
