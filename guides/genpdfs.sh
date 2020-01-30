@@ -1,5 +1,27 @@
 #!/bin/bash
 
+# Default values
+PARAMETER_ALL=false
+PARAMETER_FILE=false
+PARAMETER_FILE_LIST=
+
+while getopts :af:h option
+do
+    case "${option}"
+    in
+        a)  PARAMETER_ALL=true;;
+        f)  PARAMETER_FILE=true
+            PARAMETER_FILE_LIST=${OPTARG};;
+        h)  printf "%s: Generate pdf files from md files. By default, one pdf with all chapters and one pdf per chapter will be generated (use arguments to modify). 
+        Usage: %s [-a] [-f <file>]
+          -a: Generate the combined file with all chapters.
+          -f <file>: Generate pdf for <file> only (combine with -a to generate all chapters file also).\n" $0 $0
+            exit 2;;
+        :)  echo "Invalid option: -$OPTARG requires an argument (use -h for help)"
+            exit 1;;
+    esac
+done
+
 filelist=\
 "TitlePage \
 A-Team-Development-Framework \
@@ -17,6 +39,22 @@ Repairing-Broken-Agreements \
 Build-Trust-With-Simple-Questions \
 Clarifying-Team-Mandate \
 Roles-and-Expectations"
+
+GENERATE_COMBINED_FILE=true
+if [ $PARAMETER_ALL == true ]; then
+    if [ $PARAMETER_FILE == true ]; then
+        FILES_TO_GENERATE=$PARAMETER_FILE_LIST
+    else
+        FILES_TO_GENERATE=
+    fi
+else
+    if [ $PARAMETER_FILE == true ]; then
+        GENERATE_COMBINED_FILE=false
+        FILES_TO_GENERATE=$PARAMETER_FILE_LIST
+    else
+        FILES_TO_GENERATE=$filelist
+    fi
+fi
 
 tmpfiles=""
 
@@ -44,17 +82,19 @@ do
 	tmpfiles+="tmp/"${f}.md" ";
 done;
 
-echo "Generate full pdf"
-pandoc  \
-$tmpfiles \
---from markdown \
---listings \
---template=templates/eisvogel.latex \
--o ../pdf/Starting-and-Developing-Agile-Teams.pdf --toc --toc-depth=1 --top-level-division=chapter -V secnumdepth=0
-
-echo "Generate per chapter pdf"
-for f in ${filelist};
+for f in ${FILES_TO_GENERATE};
 do
-    echo " Generating pdf for "${f}
+    echo "Generating pdf '"${f}".pdf'"
 	pandoc tmp/${f}.md -o ../pdf/${f}.pdf --template=templates/eisvogel.latex  ;
 done;
+
+if [ $GENERATE_COMBINED_FILE == true ]; then
+    FULL_PDF_FILE_NAME=Starting-and-Developing-Agile-Teams
+    echo "Generate full pdf '$FULL_PDF_FILE_NAME.pdf'"
+    pandoc  \
+    $tmpfiles \
+    --from markdown \
+    --listings \
+    --template=templates/eisvogel.latex \
+    -o ../pdf/$FULL_PDF_FILE_NAME.pdf --toc --toc-depth=1 --top-level-division=chapter -V secnumdepth=0
+fi
