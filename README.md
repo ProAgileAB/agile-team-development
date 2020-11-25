@@ -92,6 +92,11 @@
 		<td><A HREF="guides/Roles-and-Expectations.html">Read Online</A></td>
 		<td><A HREF="pdf/Roles-and-Expectations.pdf">Download PDF</A></td>
       </tr>
+      <tr>
+        <td>Team Agreement</td>
+		<td><A HREF="guides/Team-agreement.html">Read Online</A></td>
+		<td><A HREF="pdf/Team-agreement.pdf">Download PDF</A></td>
+      </tr>
 
     </tbody>
   </table>
