@@ -66,16 +66,16 @@ fi;
 echo "Pre-processing of md files to make pdf rendering better"
 for f in ${filelist}; 
 do
-	# Fix problem that HTML generartion needs <img> tag while pdf generation needs ![] tag
+	# Fix problem that HTML generation needs <img> tag while pdf generation needs ![] tag
 	# By having only <> tag in files and replacing them with [] before generating pdf
 	cat ${f}.md | sed -E 's#<img src="([^"]*)"[^>]*>#!\[\](\1){ width=70%}#g' > tmp/imagesfixed.md ;
 	
 	# Next add {-} after all header lines. This is a pandoc extension to remove chapter numbering
-	cat tmp/imagesfixed.md  | sed  -E 's/(^#.*)/\1{-}/'  > tmp/tmp-out.md ;
+	cat tmp/imagesfixed.md | sed -E 's/(^#.*)/\1{-}/' > tmp/tmp-out.md ;
 	cp tmp/tmp-out.md tmp/tmp-in.md
 
 	# Next add pagebreaks before two specific level two headers that we want to start at separate pages
-	cat tmp/tmp-in.md  | sed  -E 's/(^## Role study.*)/\\pagebreak \n\1/'  > tmp/tmp-out.md ;
+	cat tmp/tmp-in.md | sed -E 's/(^## Role study.*)/\\pagebreak \n\1/'  > tmp/tmp-out.md ;
 	cp tmp/tmp-out.md tmp/tmp-in.md
 	
 	cp tmp/tmp-out.md tmp/${f}.md 
