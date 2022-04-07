@@ -25,7 +25,7 @@ brew install pandoc-citeproc
 
 ## Install MacTeX
 ```sh
-brew cask install mactex
+brew install --cask mactex
 ```
 
 # Adding a new module
