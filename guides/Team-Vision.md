@@ -7,7 +7,7 @@ Typically 1 hour
 
 ## Materials Required
 
-- Assorted positits
+- Assorted post-its
 - Markers
 - Coloured markers
 - Flipchart papers
