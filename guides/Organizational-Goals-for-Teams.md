@@ -53,5 +53,5 @@ Some ideas on how to reach that in the prep session is below:
 
   *While talking you all will write some comments on orange and green positits. Green postits for clear goals directions that you hear. Orange for items you feel could be more clear or that you would like to discuss.*
 
-  - Let the PO do the presentation. After, collect all clear/unclear postits on some flipcharts. Facilitate a summary of the green ones and a discussion/clarification of orange ones together with the line manager.
+  - Let the Line Manager do the presentation. After, collect all clear/unclear postits on some flipcharts. Facilitate a summary of the green ones and a discussion/clarification of orange ones together with the line manager.
   - Save the physical results for use in later retrospectives and other sessions.

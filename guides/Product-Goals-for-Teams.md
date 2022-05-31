@@ -59,9 +59,9 @@ Here are some suggestions on how to do that:
 
   - Debrief by asking a few pairs. Make sure answers include that self-organized teams need to understand the context and purpose to make good everyday decisions.
 
-  - It is actually also not so uncommon for people/projects to actually not now the goal of projects and thereby waste a lot of time. I know one project that spent 6 months on porting a UI to Silverlight while the purpose of the project had nothing to do with that. 
+  - It is actually also not so uncommon for people/projects to actually not know the goal of projects and thereby waste a lot of time. I know one project that spent 6 months on porting a UI to Silverlight while the purpose of the project had nothing to do with that. 
 
-  - *Our PO will now present his/her ideas. While talking you all will write some comments on orange and green Posit-its. Green Post-its for clear goals/directions that you hear. Orange for items you feel could be more clear or that you would like to discuss.*
+  - *Our PO will now present his/her ideas. While talking you all will write some comments on orange and green Post-its. Green Post-its for clear goals/directions that you hear. Orange for items you feel could be more clear or that you would like to discuss.*
 
   - Let the PO do the presentation. After, collect all clear/unclear Post-its on some flipcharts. Facilitate a summary of the green ones and a discussion/clarification of orange ones together with the PO/PM.
 
