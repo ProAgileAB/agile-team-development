@@ -1,4 +1,5 @@
 # Clarifying Team Mandates
+<img src="images/mandate-and-responsibility.png" >
 
 ## Purpose
 
