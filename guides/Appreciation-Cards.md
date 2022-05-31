@@ -9,7 +9,7 @@
 *   One pen per person.
 
 ## Purpose
-*   Enhance basic psychological safety in team by showing that team mates accept and appreciate each other as is.
+*   Enhance basic psychological safety in team by showing that team-mates accept and appreciate each other as is.
 *   Strengthen a sense of belonging in team.
 *   Prepare for difficult conversations.
 
@@ -19,6 +19,6 @@
 3. Tell everyone to just read the name on the paper they received and then write down what they appreciate most with this person. Wherever, in whatever direction you want. Max 2 min per note.
 4. Pass the papers around until you get your own paper back.
 
-Important, you should not read what others have written, just the name before you write your appreciations on a cards.
+Important, you should not read what others have written, just the name before you write your appreciations on a card.
 
 When you get your paper back you can do whatever you like with it, except telling someone else what is on it. The paper is only for the person receiving it.

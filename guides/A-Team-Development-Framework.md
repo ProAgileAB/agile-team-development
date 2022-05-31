@@ -141,20 +141,20 @@ I find defining key decision areas as suggested by Don Reinertsen and using the 
 ## Design of Team
 <img src="images/design-of-team.png">
 
-This is also one of the top aspect to consider when trying to create the conditions for team performance. 
+This is also one of the top aspects to consider when trying to create the conditions for team performance. 
 
 ### Behavioural Styles
 
 Perhaps one of the most popular beliefs about teams is that considering personalities or behavioural styles of team members are useful when designing and developing teams. There seems to be no evidence of this belief. 
 Google in their Aristotle study examined this and found the mix of personalities to have no impact on team performance. 
 Richard Hackman debunks this belief also. His work emphasizes that with the right conditions, a team will able to work through difficulties caused individual differences.
-Not to mention that most common tools to work with personality styles actually have little more predictive power than horoscopes. But no need to get into that, since the framework covered here has actual scientific backing and it does not rely on any tools to classify personalities.
+Not to mention that most common tools to work with personality styles actually have little more predictive power than horoscopes. But no need to get into that since the framework covered here has actual scientific backing and it does not rely on any tools to classify personalities.
 
 What matters then when you design a team? Let’s have a look at what the research says in the following sections!
 
 ### Team Size and Clear Boundaries
 
-Let’s say that you have some really interesting but very challenging work coming up. You have created a plan as a team, and you notice that as you are about to get started you feel energized and that you were actually looking forward to it. A week into the project one of you teammates is suddenly missing and you find out he is taking a month off at the Bahamas and it seems that chances of meeting your goals are now close to zero. Most people will have a very hard time to keep contributing at their fullest potential in a situation like that. Why would you give it your best shot when the people that are jointly responsible clearly does not?
+Let’s say that you have some really interesting but very challenging work coming up. You have created a plan as a team, and you notice that as you are about to get started you feel energized and that you were actually looking forward to it. A week into the project one of your teammates is suddenly missing and you find out he is taking a month off at the Bahamas and it seems that chances of meeting your goals are now close to zero. Most people will have a very hard time to keep contributing at their fullest potential in a situation like that. Why would you give it your best shot when the people that are jointly responsible clearly does not?
 
 Indeed, as pointed out by Christopher Avery[5]: The motivation of a complete team is usually set by the least invested/motivated team member. The least inspired person tends to drag everyone else down to the same low level of engagement. Hackman also mentions the related phenomena of “Social Loafing”, someone “free riding” along and not contributing their share of the work. 
  
@@ -162,7 +162,7 @@ A common cause for this problem is the habit in many organizations of assigning 
 
 The way to prevent this is to set clear boundaries for the team. A team need to know who is on the team and who is not. Who can I count on when going gets tough and who may have other priorities?
  
-Basically to get this working in a software development context, we need teams with full time team members. To make this easier to achieve, you may want to consider keeping teams intact and letting existing teams take on whatever projects/work that comes up rather than starting up a new team for each new project. 
+Basically, to get this working in a software development context, we need teams with full time team members. To make this easier to achieve, you may want to consider keeping teams intact and letting existing teams take on whatever projects/work that comes up rather than starting up a new team for each new project. 
 
 To avoid “Social Loafing”, also try to make the team as small as possible. If a team have barely enough people to manage finish their task, the likelihood of anyone “free riding” decreases. Coordination is also much easier than on a large team. If a handful of persons can get the job done, this is a good size to aim for.
 
@@ -170,17 +170,17 @@ To avoid “Social Loafing”, also try to make the team as small as possible. I
  
 Surprising to some, the ideal in an agile team may not be that everyone is able to perform every task. From a teamwork perspective it is actually better if people have different skills, so that they will actually have to work together to accomplish the team goals.
  
-This also aligns nicely with the idea of “T-shaped” people. We want people that have deep expertise in some area. This is what enables us to create products with great performance. Only relying on experts tend to take too long though. There will be lots of waiting times as they pass work between each other and the opportunity may be gone as we finally manage to get the product out the door. If instead people are experts, but also are willing to help out with things that they do not master so well every now and then, we can achieve speed in development also. 
+This also aligns nicely with the idea of “T-shaped” people. We want people that have deep expertise in some area. This is what enables us to create products with great performance. Only relying on experts tend to take too long though. There will be lots of waiting times as they pass work between each other, and the opportunity may be gone as we finally manage to get the product out the door. If instead people are experts, but also are willing to help out with things that they do not master so well every now and then, we can achieve speed in development also. 
  
 The way to get this working is to assign sufficiently big things to teams so that a multitude of skills is needed to perform the work. Ideally teams should not just “implement requirements”. They should have the greater task of creatively striving to solve some customer problems, or to optimize value to customers in some area.
 Stability over time
-Team development models usually includes some kind of phases, such as “Forming, Storming, Norming and Performing” by Bruce Tuckman, or the phases 1-4 as defined by Susan Wheelan. They indicate that it takes a bit of time to get a new team going. In the beginning the team will be struggling with everyone finding their roles and ways working together. As you sort that out the team will eventually be able to deliver more value than what the team members were able to do if they had been working as individuals. This can easily take 6 months or even a year.
+Team development models usually include some kind of phases, such as “Forming, Storming, Norming and Performing” by Bruce Tuckman, or the phases 1-4 as defined by Susan Wheelan. They indicate that it takes a bit of time to get a new team going. In the beginning the team will be struggling with everyone finding their roles and ways working together. As you sort that out the team will eventually be able to deliver more value than what the team members were able to do if they had been working as individuals. This can easily take 6 months or even a year.
  
 So, you may want to consider keeping teams together for longer times. To make this possible, think about assigning projects/work to existing teams rather than forming a new team for each new endeavor.
 
 ### Some techniques to address this condition
 
-* Team self selection
+* Team self-selection
 * Move from project teams to stable teams with full time team members
 * Assigning larger, value/effect based, goals to teams, see compelling directions chapter
 
@@ -188,24 +188,24 @@ So, you may want to consider keeping teams together for longer times. To make th
 ## Activities for Teambuilding
 <img src="images/building-team.png">
 
-Perhaps the most common activities for team building are going bowling and then contnuing with dinner & drinks. Or perhaps solving a puzzle such as an “Escape room”, trying to instill teamwork by doing something completely different than regular work. This can be fun and all, but these activities probably fall into the category of 5/9 activities that produce no measurable improvement in teamwork according to Susan Wheelan. So feel free to keep offering fun stuff like this to employees, but do not count of this as the foundation for team building.
+Perhaps the most common activities for team building are going bowling and then continuing with dinner & drinks. Or perhaps solving a puzzle such as an “Escape room”, trying to instill teamwork by doing something completely different than regular work. This can be fun and all, but these activities probably fall into the category of 5/9 activities that produce no measurable improvement in teamwork according to Susan Wheelan. So feel free to keep offering fun stuff like this to employees, but do not count of this as the foundation for team building.
 
 ### What works then?
 
-Well, some of the activities from previous sections, such as processing and agreeing on direction/goals on product-, organization, team and individual levels are major team building activities. The team can not self manage if they do not feel the direction is motivating. Also, team members will only contribute to their full potential when they feel the direction is compelling.
+Well, some of the activities from previous sections, such as processing and agreeing on direction/goals on product-, organization, team and individual levels are major team building activities. The team cannot self-manage if they do not feel the direction is motivating. Also, team members will only contribute to their full potential when they feel the direction is compelling.
 
-An agile team also needs to learn some new skills in order to be self managing/self organizing. Especially they need to learn how to
+An agile team also needs to learn some new skills in order to be self-managing/self-organizing. Especially they need to learn how to:
 
-* quickly make good enough decisions as a team
-* solve problems as a team
-* navigate conflict as a team
+* Quickly make good enough decisions as a team
+* Solve problems as a team
+* Navigate conflict as a team
 
 Having some of these skills is of help since teams also need to decide
 
 * Ground rules for working together
 * Specific ways of working that all team members at least agree to. (Consent decision making is enough here, not consensus)
 
-In the Google Aristotele team research they found “Emotional Safety” (aka trust) to be the best predictor of team performance. Emotional safety basically means that you can show up as your full self at work. You can be yourself and do not have to put on a mask or protective armor because you know that nobody will try to hurt you.
+In the Google Aristotele team-research they found “Emotional Safety” (aka trust) to be the best predictor of team performance. Emotional safety basically means that you can show up as your full self at work. You can be yourself and do not have to put on a mask or protective armor because you know that nobody will try to hurt you.
 This is probably factors that most team building activities tries to address with various social off-work social activities. Maybe that even helps a little, but by using job focused specific activities, some listed below, this can be taken to a completely different level.
 
 ### Related exercises from part 2

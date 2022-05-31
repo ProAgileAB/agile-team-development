@@ -2,7 +2,7 @@
 <img src="images/balance-team-individual.png" >
 
 ## Purpose
-*   Create a shared view in team when it comes to advantages, disadvantages and personal preferences when it comes to working closely as a team and when working individually.
+*   Create a shared view in team when it comes to advantages, disadvantages, and personal preferences when it comes to working closely as a team and when working individually.
 *   Create some tools that will enable the team to get the benefits of and avoid the drawbacks of both ways of working.
 *   Enable and inspire each team member to take responsibility for wellbeing of all other team members.
 
@@ -15,7 +15,7 @@
 *   Post-Its and some other small notes/papers.
 
 ## Preparations
-*   Make sure a basic level of psychological safety exist in team before doing this.
+*   Make sure a basic level of psychological safety exists in team before doing this.
 *   Tape a big cross on the floor.
 *   Put small notes/Post-Its at the ends of the tape: team/individual, +(positive)/-(negative)
 *   Prepare your agenda so that the spirit in the room is good when we start. You may want to do an energizer? This fits nicely as a follow-up to "Journey Lines" or "Me Map".
@@ -29,12 +29,12 @@ Explain that:
 
 **Intro/Warm up**
 
-Explain the two axis: positive, negative, working as a team and working individually.
+Explain the two axes: positive, negative, working as a team and working individually.
 Invite the participants to walk around on the grid and try to recall some of their own experiences from the various quadrants. Give them 2 minutes in silence to do this. The purpose is to start recalling memories and to focus. When you give them these instructions - walk around in the grid (show by example is more effective than explaining)
 
 **Exploration Pros and Cons**
 
-In this section we will explore pro's and con's of first individual work and then team work. We will start with positive - individual. People that appreciate individual work may feel more uncomfortable in an agile context. By doing it first we show and acknowledge the validity and importance of everyone's views/experiences.
+In this section we will explore pros and cons of first individual work and then team work. We will start with positive - individual. People that appreciate individual work may feel more uncomfortable in an agile context. By doing it first we show and acknowledge the validity and importance of everyone's views/experiences.
 
 *   On a flip chart write "Positive - Individual" as header.
 *   Get everyone to stand in the positive - individual quadrant.
@@ -69,7 +69,7 @@ When some warning signals have been collected, switch to collecting actions.
 
 Again, let a team member do the note taking as team members make suggestions.
 
-Repeat for team work
+Repeat for team-work
 
 **Reflection, who is responsible?**
 
@@ -80,9 +80,9 @@ Ideally this would be the responsibility of all team members.
 
 **Current preferences**
 
-"We are all humans and we may have our preferences for how we want to work. This may change from week to week, day to day etc, depending on how many things such as life in general."
+"We are all humans, and we may have our preferences for how we want to work. This may change from week to week, day to day etc, depending on how many things such as life in general."
 
-"Let’s end with exploring where you feel the most at home right now on the grid. If you have a preference: stand on the team individual axis to show what it is" ( Do it yourself when explaining)
+"Let’s end with exploring where you feel the most at home right now on the grid. If you have a preference: stand on the team individual axis to show what it is" (Do it yourself when explaining)
 
 **Conclusions**
 
@@ -92,7 +92,7 @@ Facilitate a wrap-up for the team. The purpose is to get buy in for any next ste
 
 Ending on a positive note is also good!
 
-Here are some possible questions you could ask them to discuss e.g. in pairs (pick one or two):
+Here are some possible questions you could ask them to discuss e.g., in pairs (pick one or two):
 
 *   What was most interesting or valuable for you about this exercise/workshop?
 *   What do you think our team can gain from looking for these warning signs/taking action?

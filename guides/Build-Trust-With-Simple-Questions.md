@@ -31,14 +31,14 @@ Let people answer these questions in pairs or in larger groups.
 *  How many siblings do you have?
 *  Unique experience during your childhood?
 *  What were you longing for during your childhood that you never got?
-*  Favorite hobby?
+*  Favourite hobby?
 *  What was your first job?
 *  What is your most odd job?
 
 See next page for some ideas on variations on this exercise
 
 ## Variations
-*  Create a quiz with the answers to some of these questions. E.g. "Who was born in Norway". Hand the quiz out. Give the team the assignment to rotate and try to fill out the answers to the quiz by interviewing each other
+*  Create a quiz with the answers to some of these questions. E.g., "Who was born in Norway". Hand the quiz out. Give the team the assignment to rotate and try to fill out the answers to the quiz by interviewing each other
 
 *  If you are at an offsite, use the quiz approach just as above, but give them the day/weekend or whatever your timeframe is to complete it.
 

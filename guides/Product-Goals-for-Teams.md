@@ -3,17 +3,17 @@
 
 ## Time required
 
-Typically 30 min - 2 hours, depending on how unfamiliar/unclear the vision and goals are to the team
+Typically, 30 min - 2 hours, depending on how unfamiliar/unclear the vision and goals are to the team
 
 ## Materials Required
-*   Orange & green positits
+*   Orange & green Posi-its
 *   Markers
 
 ## Purpose
 
-   This is a teamstart/team development exercise. The purpose of it is for the team to get to know their purpose more in detail, for them to process it, discuss it, understand it and internalize it.
+   This is a team start/team development exercise. The purpose of it is for the team to get to know their purpose more in detail, for them to process it, discuss it, understand it, and internalize it.
 
-   Having a clear, compelling purpose is the most important factor when it comes to how a team performs. With no shared goal there will no team.
+   Having a clear and compelling purpose is the most important factor when it comes to how a team performs. With no shared goal there will no team.
 
    For a team we usually cover goals from several perspectives:
 
@@ -31,19 +31,19 @@ Book some prep-sessions with some product manager/PO that is most relevant for t
 
 The purpose of the PO participating in this session is:
   - To present long term (and medium term) goals in a way so that the team understands context, actually knows what to do, what is important and why it is important.
-    - The above is needed to enable the team to make god decentralized decisions.
+    - The above is needed to enable the team to make good decentralized decisions.
 
   - To energize and motivate the team by describing the purpose in a way that is attractive to them.
 
 During this prep session, focus on how the goal/vision can be made attractive to the team. 
 
-Here are some suggestion on how to do that:
+Here are some suggestions on how to do that:
 
-  - Avoid powerpoints. Human to human communication is most often best done without it.
+  - Avoid PowerPoints. Human to human communication is most often best done without it.
 
   - A personal story is one of the most effective ways of communicating a vision. This comes from 100 000 years of human history telling around campfires before we invented more elaborate writing, so it is a uniquely tested and effective way to convey information and motivate/energize others.
 
-  - The best ways in general to formulate a direction/goal is to focus around what good will we do in the world. Whose life will be better by our efforts. This could also be formulated using stories about current (bad) situations from a human point of view.
+  - The best ways in general to formulate a direction/goal is to focus on what good will we do in the world. Whose life will be better by our efforts. This could also be formulated using stories about current (bad) situations from a human point of view.
 
   - The story is ideally end user/stakeholder/purpose centric but can be about “how come the PO wanted to work with this?” or "What makes him/her excited about the possibilities".
     
@@ -55,15 +55,15 @@ Here are some suggestion on how to do that:
 
   - *The purpose of the next session is for you to discuss the long goals and direction of the team with our PO/PM. And to create your own summary of it.*
 
-  - *Btw, lets do a quick pairwise discussion: "Why would it makes sense for you all to know about the goals on a higher level and not only get task by task in the sprint planning?" - 2 minutes pairwise discussion*
+  - *Btw, let's do a quick pairwise discussion: "Why would it makes sense for you all to know about the goals on a higher level and not only get task by task in the sprint planning?" - 2 minutes pairwise discussion*
 
-  - Debrief by asking a few pairs. Make sure answers include that self organized teams need to understand the context and purpose to make good everyday decisions.
+  - Debrief by asking a few pairs. Make sure answers include that self-organized teams need to understand the context and purpose to make good everyday decisions.
 
   - It is actually also not so uncommon for people/projects to actually not now the goal of projects and thereby waste a lot of time. I know one project that spent 6 months on porting a UI to Silverlight while the purpose of the project had nothing to do with that. 
 
-  - *Our PO will now present his/her ideas. While talking you all will write some comments on orange and green positits. Green postits for clear goals/directions that you hear. Orange for items you feel could be more clear or that you would like to discuss.*
+  - *Our PO will now present his/her ideas. While talking you all will write some comments on orange and green Posit-its. Green Post-its for clear goals/directions that you hear. Orange for items you feel could be more clear or that you would like to discuss.*
 
-  - Let the PO do the presentation. After, collect all clear/unclear postits on some flipcharts. Facilitate a summary of the green ones and a discussion/clarification of orange ones together with the PO/PM.
+  - Let the PO do the presentation. After, collect all clear/unclear Post-its on some flipcharts. Facilitate a summary of the green ones and a discussion/clarification of orange ones together with the PO/PM.
 
   - Save the physical results for use in later retrospectives and other sessions.
 

@@ -4,18 +4,18 @@
 
 ## Time required
 
-Typically 1,5 hours
+Typically, 1.5 hours
 
 ## Materials Required
 
-- Assorted positits
+- Assorted Posit-its
 - Markers
 - Flipchart papers
 
 ## Purpose
 
-- This is a teamstart/team development exercise. 
-- Decentralization, self organization and agile development relies heavily on highly motivated individuals. This exercise is designed to help the team work in a way that is supporting individuals' motivators.
+- This is a team-start/team development exercise. 
+- Decentralization, self-organization and agile development relies heavily on highly motivated individuals. This exercise is designed to help the team-work in a way that is supporting individuals' motivators.
 - It also helps the team to distribute work better since each person's preferences gets known to the team
 - For a team we usually cover goals from several perspectives:
   - Organization

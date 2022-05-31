@@ -2,7 +2,7 @@
 <img src="images/rules-and-decisions.png" >
 
 ## Time required
-Typically 5-15 minutes
+Typically, 5-15 minutes
 
 ## Materials Required
 
@@ -18,7 +18,7 @@ Typically 5-15 minutes
 
 ### Part 1: Intro
 
-*One more thing before we get started on today’s topics. We will all be investing a whole day working on this, and we all have other things we could do instead. So it’s is very important that we make sure we get as much value of this day as possible. Agreed?*
+*One more thing before we get started on today’s topics. We will all be investing a whole day working on this, and we all have other things we could do instead. So, it’s is very important that we make sure we get as much value of this day as possible. Agreed?*
 
 *So, what I would like us to do now is to simple agree on a few ground rules for today on how we will work together to make this day the best possible. Let’s start with a quick pairwise discussion on what would be the most important ground rules for us to have a really productive and enjoyable day today? 3 minutes...*
 
@@ -32,14 +32,14 @@ Give them a few minutes.
 
 With your fingers, show them the most important votes:
 
-3: I can live with this or I accept it
+3: I can live with this, or I accept it
 
 4: Good idea!
 
 5: Best idea ever I will really support this!
 
 2: I have something I want to say before we make the decision
-  - Ask if someone can propose a ground rule for today that will help make the day really valuable.When someone suggests something, facilitate decision making. 
+  - Ask if someone can propose a ground rule for today that will help make the day really valuable. When someone suggests something, facilitate decision making. 
   - If everyone votes 3 or more, it is decided. Celebrate how quick that was! With so many persons! Write it on the flipchart and repeat the procedure for some more proposals until someone votes less than 3
   - If one or more persons votes less than three, ask one of them if they can enhance the proposal so that it may get more support. Then facilitate a new round of voting around the new proposal. Repeat until something that the group can accept is reached. Kill any discussions and focus them no the proposal-vote-proposal...flow
   - If you want to get an interesting vote, ground rules for phones and laptops on tables can sometimes trigger some good and useful voting rounds
