@@ -107,7 +107,7 @@ The rule in your team is that people should strive to participate in sprint plan
 
 ### Background:
 
-Your company allows you to work from home. You usually take the opportunity to be able to focus.
+Your company allows for a mix of remote and in-office work. For you, working from home is a great way to focus better. Especially on fridays when there are few other meetings this is great! You still check messages but sometimes puts them on mute when you really need to focus on something.
 
 
 ## Role study for person playing "Chris"
@@ -124,8 +124,8 @@ what you would be working on so it was no big deal.
 
 ### Background:
 
-Your company allows working from home. Sam emails you for the third Friday in a row: "I will be working from home
-today, I can be reached by mail and over communicator". You feel this is convenient for Sam personally but it is causing disadvantages for you as a team. Discussions need to take place remotely which is very slow compared to sitting together.
+Your company allows for a mix of remote and in-office work. Your team has agreed to try to get together in the office at least on Tuesdays and Fridays. Sam emails you for the third Friday in a row: "I will be working from home
+today, I can be reached by mail and over communicator". You feel that the benefits of in-office work is decreased when Sam is still remote and sometimes he is not even responding that fast.
 
 ### Assignment:
 
