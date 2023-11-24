@@ -27,55 +27,15 @@
     	<td><A HREF="guides/Team-Start-Example.html">Read Online</A></td>
 	    <td><A HREF="pdf/Team-Start-Example.pdf">Download PDF</A></td>
       </tr>
-      <tr>	  
-        <td>Ground Rules & Decision Making</td>
-    	<td><A HREF="guides/Ground-Rules-and-Decision-Making.html">Read Online</A></td>
-	    <td><A HREF="pdf/Ground-Rules-and-Decision-Making.pdf">Download PDF</A></td>
-      </tr>
-      <tr>
-        <td>Journey Lines</td>
-	    <td><A HREF="guides/Journey-Lines.html">Read Online</A></td>
-	    <td><A HREF="pdf/Journey-Lines.pdf">Download PDF</A></td>
-      </tr>
       <tr>
         <td>Appreciation Cards</td>
 	    <td><A HREF="guides/Appreciation-Cards.html">Read Online</A></td>
 	    <td><A HREF="pdf/Appreciation-Cards.pdf">Download PDF</A></td>
       </tr>
       <tr>
-        <td>Product Goals for Teams</td>
-	    <td><A HREF="guides/Product-Goals-for-Teams.html">Read Online</A></td>
-	    <td><A HREF="pdf/Product-Goals-for-Teams.pdf">Download PDF</A></td>
-      </tr>
-      <tr>
-        <td>Organizational Goals for Teams</td>
-	    <td><A HREF="guides/Organizational-Goals-for-Teams.html">Read Online</A></td>
-	    <td><A HREF="pdf/Organizational-Goals-for-Teams.pdf">Download PDF</A></td>
-      </tr>
-      <tr>
-        <td>Team Vision</td>
-	    <td><A HREF="guides/Team-Vision.html">Read Online</A></td>
-	    <td><A HREF="pdf/Team-Vision.pdf">Download PDF</A></td>
-      </tr>
-      <tr>
-        <td>Individual Goals</td>
-	    <td><A HREF="guides/Individual-Goals.html">Read Online</A></td>
-	    <td><A HREF="pdf/Individual-Goals.pdf">Download PDF</A></td>
-      </tr>
-      <tr>
         <td>Balancing Team- and Individual work</td>
 	    <td><A HREF="guides/Balancing-Team-and-Individual-Work.html">Read Online</A></td>
 	    <td><A HREF="pdf/Balancing-Team-and-Individual-Work.pdf">Download PDF</A></td>
-      </tr>
-      <tr>
-        <td>Market of skills</td>
-	    <td><A HREF="guides/Market-of-Skills.html">Read Online</A></td>
-	    <td><A HREF="pdf/Market-of-Skills.pdf">Download PDF</A></td>
-      </tr>
-      <tr>
-        <td>Repairing Broken Agreements</td>
-	    <td><A HREF="guides/Repairing-Broken-Agreements.html">Read Online</A></td>
-	    <td><A HREF="pdf/Repairing-Broken-Agreements.pdf">Download PDF</A></td>
       </tr>
       <tr>
         <td>Build trust with simple questions</td>
@@ -87,6 +47,46 @@
 		<td><A HREF="guides/Clarifying-Team-Mandate.html">Read Online</A></td>
 		<td><A HREF="pdf/Clarifying-Team-Mandate.pdf">Download PDF</A></td>
       </tr>
+      <tr>	  
+        <td>Four stages of psychological safety</td>
+    	<td><A HREF="guides/Four-stages-of-psychological-safety.html">Read Online</A></td>
+	    <td><A HREF="pdf/Four-stages-of-psychological-safety.pdf">Download PDF</A></td>
+      </tr>
+      <tr>	  
+        <td>Ground Rules & Decision Making</td>
+    	<td><A HREF="guides/Ground-Rules-and-Decision-Making.html">Read Online</A></td>
+	    <td><A HREF="pdf/Ground-Rules-and-Decision-Making.pdf">Download PDF</A></td>
+      </tr>
+      <tr>
+        <td>Individual Goals</td>
+	    <td><A HREF="guides/Individual-Goals.html">Read Online</A></td>
+	    <td><A HREF="pdf/Individual-Goals.pdf">Download PDF</A></td>
+      </tr>
+      <tr>
+        <td>Journey Lines</td>
+	    <td><A HREF="guides/Journey-Lines.html">Read Online</A></td>
+	    <td><A HREF="pdf/Journey-Lines.pdf">Download PDF</A></td>
+      </tr>
+      <tr>
+        <td>Market of skills</td>
+	    <td><A HREF="guides/Market-of-Skills.html">Read Online</A></td>
+	    <td><A HREF="pdf/Market-of-Skills.pdf">Download PDF</A></td>
+      </tr>
+      <tr>
+        <td>Organizational Goals for Teams</td>
+	    <td><A HREF="guides/Organizational-Goals-for-Teams.html">Read Online</A></td>
+	    <td><A HREF="pdf/Organizational-Goals-for-Teams.pdf">Download PDF</A></td>
+      </tr>
+      <tr>
+        <td>Product Goals for Teams</td>
+	    <td><A HREF="guides/Product-Goals-for-Teams.html">Read Online</A></td>
+	    <td><A HREF="pdf/Product-Goals-for-Teams.pdf">Download PDF</A></td>
+      </tr>
+      <tr>
+        <td>Repairing Broken Agreements</td>
+	    <td><A HREF="guides/Repairing-Broken-Agreements.html">Read Online</A></td>
+	    <td><A HREF="pdf/Repairing-Broken-Agreements.pdf">Download PDF</A></td>
+      </tr>
       <tr>
         <td>Roles and Expectations</td>
 		<td><A HREF="guides/Roles-and-Expectations.html">Read Online</A></td>
@@ -96,6 +96,11 @@
         <td>Team Agreement</td>
 		<td><A HREF="guides/Team-agreement.html">Read Online</A></td>
 		<td><A HREF="pdf/Team-agreement.pdf">Download PDF</A></td>
+      </tr>
+      <tr>
+        <td>Team Vision</td>
+	    <td><A HREF="guides/Team-Vision.html">Read Online</A></td>
+	    <td><A HREF="pdf/Team-Vision.pdf">Download PDF</A></td>
       </tr>
 
     </tbody>

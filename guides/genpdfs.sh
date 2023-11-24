@@ -39,7 +39,8 @@ Repairing-Broken-Agreements \
 Build-Trust-With-Simple-Questions \
 Clarifying-Team-Mandate \
 Roles-and-Expectations \
-Team-agreement"
+Team-agreement \
+Four-stages-of-psychological-safety"
 
 GENERATE_COMBINED_FILE=true
 if [ $PARAMETER_ALL == true ]; then
