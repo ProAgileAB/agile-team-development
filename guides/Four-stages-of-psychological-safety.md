@@ -119,4 +119,4 @@ You’ll be surprised what people are willing to call out when they’re asked s
 If you’ve found yourself in an echo chamber or knee-deep in groupthink, ask a colleague to play devil’s advocate. Give them permission to disagree, even if they don’t think something needs to be re-examined. Ask questions like: “What are we missing here?” or “Could this be done differently?”
 
 #### Show gratitude for the opportunity to learn and improve.
-Bravery is a noble characteristic, one that shouldn’t be shut down. Even if you feel embarrassed by the mistake, don’t let that guide your reaction to their bravery. They want the best for you and for your organization, otherwise, they wouldn’t have mentioned the mistake in the first place. Be open and honest, not guarded and cold. Expect the same reaction from them. 
+Bravery is a noble characteristic, one that shouldn’t be shut down. Even if you feel embarrassed by the mistake, don’t let that guide your reaction to their bravery. They want the best for you and for your organization, otherwise, they wouldn’t have mentioned the mistake in the first place. Be open and honest, not guarded and cold. Expect the same reaction from them.
