@@ -26,6 +26,7 @@ In order to get this going you could be in a more relaxed place than the normal 
 A perfect spot would be by the coffee machine or round a lunch table. Preferably together with some Swedish fika.
 
 Let people answer these questions in pairs or in larger groups.
+Note! Make sure people have the possibility to pass if they feel uncomfortable with any of the questions.
 
 *  Where were you born?
 *  How many siblings do you have?
