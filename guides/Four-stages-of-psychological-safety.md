@@ -1,5 +1,5 @@
 # Four stages of psychological safety
-<img src="images/4-stages-of-psychological-safety.png" >
+<img src="images/four-stages-of-psychological-safety.png" >
 
 ## Purpose
 -  Improving the psychological safety in the group.
