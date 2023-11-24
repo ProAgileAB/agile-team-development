@@ -22,6 +22,10 @@ do
     esac
 done
 
+sed -i "/date: /c\date: \"$(date '+%Y-%m-%d')\"" TitlePage.md
+sed -i "s/Shared 2018-20[0-9][0-9]/Shared 2018-$(date '+%Y')/" TitlePage.md
+sed -i "s/Shared 2018-20[0-9][0-9]/Shared 2018-$(date '+%Y')/" templates/eisvogel.latex
+
 filelist=\
 "TitlePage \
 A-Team-Development-Framework \
