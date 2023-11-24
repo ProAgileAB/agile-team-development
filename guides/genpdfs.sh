@@ -26,21 +26,21 @@ filelist=\
 "TitlePage \
 A-Team-Development-Framework \
 Team-Start-Example \
-Ground-Rules-and-Decision-Making \
-Journey-Lines \
 Appreciation-Cards \
-Product-Goals-for-Teams \
-Organizational-Goals-for-Teams \
-Team-Vision \
-Individual-Goals \
 Balancing-Team-and-Individual-Work \
-Market-of-Skills \
-Repairing-Broken-Agreements \
 Build-Trust-With-Simple-Questions \
 Clarifying-Team-Mandate \
-Roles-and-Expectations \
+Four-stages-of-psychological-safety \
+Ground-Rules-and-Decision-Making \
+Individual-Goals \
+Journey-Lines \
+Market-of-Skills \
+Organizational-Goals-for-Teams \
+Product-Goals-for-Teams \
 Team-agreement \
-Four-stages-of-psychological-safety"
+Team-Vision \
+Repairing-Broken-Agreements \
+Roles-and-Expectations"
 
 GENERATE_COMBINED_FILE=true
 if [ $PARAMETER_ALL == true ]; then
