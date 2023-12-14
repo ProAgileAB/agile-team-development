@@ -35,7 +35,7 @@ Introduce the exercise by saying that psychological safety isn't on or off but i
 In pairs, talk about what high psychological safety can lead to.
 
 Change paris and let the participants read the descriptions of the four stages.
-- In the same pairs discuss your view on the stages. Examples of questions to discuss:
+In these pairs, discuss your view on the stages. Examples of questions to discuss:
 - What does that mean to you?
 - How do they differ?
 - Do you feel that you have this safety?
