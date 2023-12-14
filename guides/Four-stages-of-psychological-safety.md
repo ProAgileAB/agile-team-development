@@ -31,7 +31,9 @@ Divide the room into four areas using masking tape and place a note with the nam
 
 ## How
 Introduce the exercise by saying that psychological safety isn't on or off but is developed slowly over time and through stages. You will not be only in one stage but you have to build safety the early stages before you can be safe in the later stages.
+
 In pairs, talk about what high psychological safety can lead to.
+
 Change paris and let the participants read the descriptions of the four stages.
 - In the same pairs discuss your view on the stages. Examples of questions to discuss:
 - What does that mean to you?
