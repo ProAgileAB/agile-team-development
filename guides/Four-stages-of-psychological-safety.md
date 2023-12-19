@@ -30,7 +30,7 @@ Read through the descriptions so you have a good understanding of each stage of 
 Divide the room into four areas using masking tape and place a note with the name of a stage in each area. The areas should be placed after each other so that the individuals can move from "Inclusion safety" to "Learner safety" to "Contributor safety" to "Challenger safety" without jumping through any of the other areas.
 
 ## How
-Introduce the exercise by saying that psychological safety isn't on or off but is developed slowly over time and through stages. You will not be only in one stage but you have to build safety the early stages before you can be safe in the later stages.
+Introduce the exercise by saying that psychological safety isn't on or off but is developed slowly over time and through stages. You will not be in only one stage at a time. You will however have to build safety in the early stages before you can be safe in the later stages.
 
 In pairs, talk about what high psychological safety can lead to.
 
