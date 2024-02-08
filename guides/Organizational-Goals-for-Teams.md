@@ -1,8 +1,6 @@
 # Organizational Goals for Teams
 <img src="images/goals-for-teams.png" >
 
-Note, this guide have some shared parts with the Product Goals for Teams Guide. Similar passages have been marked with grey so that people familiar with that guide can see what differs.
-
 ## Time required
 Typically 30 min - 1 hours, depending on how unfamiliar/unclear the vision and goals are to the team.
 
