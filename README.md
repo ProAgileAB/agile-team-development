@@ -19,8 +19,14 @@
 	
       <tr>	  
         <td>A Team Development Framework</td>
-	    <td><A HREF="guides/A-Team-Development-Framework.html">Read Online</A></td>
-	    <td><A HREF="pdf/A-Team-Development-Framework.pdf">Download PDF</A></td>
+	      <td>
+            Read online <A HREF="guides/A-Team-Development-Framework.html">En</A>
+            Read online <A HREF="guides-SV/A-Team-Development-Framework.html">Sv</A>
+
+
+         </td>
+	    
+      <td><A HREF="pdf/A-Team-Development-Framework.pdf">Download PDF</A></td>
       </tr>
       <tr>
         <td>Team-Start Example</td>
