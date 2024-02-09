@@ -21,7 +21,7 @@
         <td>A Team Development Framework</td>
 	      <td>
             Read online <A HREF="guides/A-Team-Development-Framework.html">En</A>
-            Read online <A HREF="guides-SV/A-Team-Development-Framework.html">Sv</A>
+            , <A HREF="guides-SV/A-Team-Development-Framework.html">Sv</A>
 
 
          </td>
