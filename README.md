@@ -39,7 +39,7 @@
       <tr>
         <td>Appreciation Cards</td>
 	    <td>Read Online <A HREF="guides/Appreciation-Cards.html">Eng</A>
-                      <A HREF="guides-SV/Appreciation-Cards.html">Eng</A>
+                      , <A HREF="guides-SV/Appreciation-Cards.html">Sv</A>
 
       </td>
 	    <td><A HREF="pdf/Appreciation-Cards.pdf">Download PDF</A></td>
