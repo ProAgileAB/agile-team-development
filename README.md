@@ -44,11 +44,6 @@
 	    <td><A HREF="pdf/Balancing-Team-and-Individual-Work.pdf">Download PDF</A></td>
       </tr>
       <tr>
-        <td>Build trust with simple questions</td>
-	    <td><A HREF="guides/Build-Trust-With-Simple-Questions.html">Read Online</A></td>
-	    <td><A HREF="pdf/Build-Trust-With-Simple-Questions.pdf">Download PDF</A></td>
-      </tr>
-      <tr>
         <td>Clarifying Team Mandates</td>
 		<td><A HREF="guides/Clarifying-Team-Mandate.html">Read Online</A></td>
 		<td><A HREF="pdf/Clarifying-Team-Mandate.pdf">Download PDF</A></td>
