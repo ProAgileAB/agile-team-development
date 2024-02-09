@@ -31,7 +31,7 @@
       <tr>
         <td>Team-Start Example</td>
     	  <td>Read online  <A HREF="guides/Team-Start-Example.html">Eng</A>
-	      , <A HREF="guides/Team-Start-Example.html">Sv</A></td>
+	      , <A HREF="guides-SV/Team-Start-Example.html">Sv</A></td>
       
       <td><A HREF="pdf/Team-Start-Example.pdf">Download PDF</A></td>
       </tr>
