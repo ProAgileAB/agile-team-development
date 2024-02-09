@@ -24,7 +24,7 @@ I exemplet nedan kan du se några förslag på områden som används i en verkli
 
 * Gå igenom de förberedda områdena ett efter ett. För varje steg:
 	* Låt varje deltagare välja den nivå av delegation som de skulle föredra för området utan att visa de andra.
-	* Visa korten för varandra och ha en diskussion. Om nödvändigt, facilitera beslutsfattande. [*Femfingersröstning*](https://proagileab.github.io/agile-team-development/guides/Ground-Rules-and-Decision-Making.html) kan vara en användbar teknik här.
+	* Visa korten för varandra och ha en diskussion. Om nödvändigt, facilitera beslutsfattande. [*Femfingersröstning*](https://proagileab.github.io/agile-team-development/guides-SV/Ground-Rules-and-Decision-Making.html) kan vara en användbar teknik här.
 	* Dokumentera beslut om mandat. I nästa avsnitt kan du se ett exempel på hur detta gjordes. Den gröna markeringen är önskan att delegera från chefen. Det glada ansiktet är vad teamet kom överens om/ville ha.
 
 ## Exempel

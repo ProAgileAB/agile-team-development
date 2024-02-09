@@ -75,7 +75,7 @@ Okej, det vi kommer att arbeta med idag är utformat för att hjälpa oss att up
 ## Grundregler & Beslutsfattande
 
 Tid som krävs, 5-15 min
-Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides/Ground-Rules-and-Decision-Making.html)
+Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides-SV/Ground-Rules-and-Decision-Making.html)
 
 ## Psykologisk Säkerhet
 
@@ -83,10 +83,10 @@ Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-develo
 *   Du kan se samma slutsatser i arbetet av andra, t.ex. Förtroende är det första steget i modellen "5 dysfunktioner i ett team" av Patrick Lencioni.
 *   I Susan Wheelans arbete handlar de första faserna av teamutveckling mycket om att bli accepterad av teamet.
 
-Övningen [*Journey Lines*](https://proagileab.github.io/agile-team-development/guides/Journey-Lines.html)
+Övningen [*Journey Lines*](https://proagileab.github.io/agile-team-development/guides-SV/Journey-Lines.html)
 är ett riktigt bra sätt att hantera detta och andra mål för nya och gamla team. Tid som krävs är cirka 2 timmar, beroende på teamstorlek.
 
-För ett team som har arbetat tillsammans är [*Uppskattningskort*](https://proagileab.github.io/agile-team-development/guides/Appreciation-Cards.html) ett annat riktigt trevligt sätt att starta en session fokuserad på teamutveckling. Tid som krävs är &lt; 30 min.  
+För ett team som har arbetat tillsammans är [*Uppskattningskort*](https://proagileab.github.io/agile-team-development/guides-SV/Appreciation-Cards.html) ett annat riktigt trevligt sätt att starta en session fokuserad på teamutveckling. Tid som krävs är &lt; 30 min.  
 
 Använd båda övningarna, men kanske inte i samma session!
 
@@ -94,7 +94,7 @@ Använd båda övningarna, men kanske inte i samma session!
 
 Tid som krävs, vanligtvis: 30 min - 2h
 
-Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides/Product-Goals-for-Teams.html)
+Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides-SV/Product-Goals-for-Teams.html)
 
 
 
@@ -102,30 +102,30 @@ Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-develo
 
 Tid som krävs, vanligtvis: 30 min - 1h
 
-Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides/Organizational-Goals-for-Teams.html)
+Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides-SV/Organizational-Goals-for-Teams.html)
 
 
 ## Teamvision
 
 Tid som krävs, vanligtvis 1h
 
-Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides/Team-Vision.html)
+Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides-SV/Team-Vision.html)
 
 ## Arbetsöverenskommelser
 
 Facilitera att skapa några teamöverenskommelser om hur man ska arbeta tillsammans. Börja med några individuella reflektioner och använd sedan "knuten till fem fingrar" för att snabbt förädla några förslag och fatta konsensbeslut. Dokumentera på en flipchart.
 
 En arbetsöverenskommelse som du förmodligen vill utforska med ditt team är hur och när man ska arbeta som individer och hur och när man ska arbeta som ett
-team. Kolla in guiden om '[*Balansera Team- och Individuellt arbete*](https://proagileab.github.io/agile-team-development/guides/Balancing-Team-and-Individual-Work.html)' för ett bra sätt att göra det.
+team. Kolla in guiden om '[*Balansera Team- och Individuellt arbete*](https://proagileab.github.io/agile-team-development/guides-SV/Balancing-Team-and-Individual-Work.html)' för ett bra sätt att göra det.
 
 ## Individuella mål
 
 Tid som krävs, vanligtvis 1,5h
 
-Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides/Individual-Goals.html)
+Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides-SV/Individual-Goals.html)
 
 En liknande men något enklare övning är "Market of skills" Tid som krävs: 30-60 min
-Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides/Market-of-Skills.html):
+Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides-SV/Market-of-Skills.html):
 
 ## Teamfärdigheter
 
@@ -137,7 +137,7 @@ Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-develo
     
     Tid som krävs, vanligtvis 30 min
 
-    Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides/Repairing-Broken-Agreements.html)
+    Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides-SV/Repairing-Broken-Agreements.html)
 
 *   Fatta beslut
     
