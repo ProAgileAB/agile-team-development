@@ -121,43 +121,96 @@
 
       <tr>
         <td>Market of skills</td>
-	    <td><A HREF="guides/Market-of-Skills.html">Read Online</A></td>
-	    <td><A HREF="pdf/Market-of-Skills.pdf">Download PDF</A></td>
+
+        <td>Read Online <A HREF="guides/Market-of-Skills.html">Eng</A>
+                      , <A HREF="guides-SV/Market-of-Skills.html">Sv</A>
+
+        </td>
+        <td><A HREF="pdf/Market-of-Skills.pdf" download>Eng</A>,
+                        <A HREF="pdf-SV/Market-of-Skills.pdf" download>Sv</A>
+        </td>    	
+
       </tr>
+
+
       <tr>
         <td>Organizational Goals for Teams</td>
-	    <td><A HREF="guides/Organizational-Goals-for-Teams.html">Read Online</A></td>
-	    <td><A HREF="pdf/Organizational-Goals-for-Teams.pdf">Download PDF</A></td>
+
+        <td>Read Online <A HREF="guides/Organizational-Goals-for-Teams.html">Eng</A>
+                      , <A HREF="guides-SV/Organizational-Goals-for-Teams.html">Sv</A>
+
+        </td>
+        <td><A HREF="pdf/Organizational-Goals-for-Teams.pdf" download>Eng</A>,
+                        <A HREF="pdf-SV/Organizational-Goals-for-Teams.pdf" download>Sv</A>
+        </td>    	
+
       </tr>
+
       <tr>
         <td>Product Goals for Teams</td>
-	    <td><A HREF="guides/Product-Goals-for-Teams.html">Read Online</A></td>
-	    <td><A HREF="pdf/Product-Goals-for-Teams.pdf">Download PDF</A></td>
+
+        <td>Read Online <A HREF="guides/Product-Goals-for-Teams.html">Eng</A>
+                      , <A HREF="guides-SV/Product-Goals-for-Teams.html">Sv</A>
+
+        </td>
+        <td><A HREF="pdf/Product-Goals-for-Teams.pdf" download>Eng</A>,
+                        <A HREF="pdf-SV/Product-Goals-for-Teams.pdf" download>Sv</A>
+        </td>    	
       </tr>
+
       <tr>
         <td>Repairing Broken Agreements</td>
-	    <td><A HREF="guides/Repairing-Broken-Agreements.html">Read Online</A></td>
-	    <td><A HREF="pdf/Repairing-Broken-Agreements.pdf">Download PDF</A></td>
+
+        <td>Read Online <A HREF="guides/Repairing-Broken-Agreements.html">Eng</A>
+                      , <A HREF="guides-SV/Repairing-Broken-Agreements.html">Sv</A>
+
+        </td>
+        <td><A HREF="pdf/Repairing-Broken-Agreements.pdf" download>Eng</A>,
+                        <A HREF="pdf-SV/Repairing-Broken-Agreements.pdf" download>Sv</A>
+        </td>
       </tr>
+
       <tr>
         <td>Roles and Expectations</td>
-		<td><A HREF="guides/Roles-and-Expectations.html">Read Online</A></td>
-		<td><A HREF="pdf/Roles-and-Expectations.pdf">Download PDF</A></td>
+
+        <td>Read Online <A HREF="guides/Roles-and-Expectations.html">Eng</A>
+                      , <A HREF="guides-SV/Roles-and-Expectations.html">Sv</A>
+
+        </td>
+        <td><A HREF="pdf/Roles-and-Expectations.pdf" download>Eng</A>,
+                        <A HREF="pdf-SV/Roles-and-Expectations.pdf" download>Sv</A>
+        </td>
+
       </tr>
+
       <tr>
         <td>Team Agreement</td>
-		<td><A HREF="guides/Team-agreement.html">Read Online</A></td>
-		<td><A HREF="pdf/Team-agreement.pdf">Download PDF</A></td>
+
+        <td>Read Online <A HREF="guides/Team-agreement.html">Eng</A>
+                      , <A HREF="guides-SV/Team-agreement.html">Sv</A>
+
+        </td>
+        <td><A HREF="pdf/Team-agreement.pdf" download>Eng</A>,
+                        <A HREF="pdf-SV/Team-agreement.pdf" download>Sv</A>
+        </td>
+
       </tr>
+
       <tr>
         <td>Team Vision</td>
-	    <td><A HREF="guides/Team-Vision.html">Read Online</A></td>
-	    <td><A HREF="pdf/Team-Vision.pdf">Download PDF</A></td>
+        <td>Read Online <A HREF="guides/Team-Vision.html">Eng</A>
+                      , <A HREF="guides-SV/Team-Vision.html">Sv</A>
+
+        </td>
+        <td><A HREF="pdf/Team-Vision.pdf" download>Eng</A>,
+                        <A HREF="pdf-SV/Team-Visiont.pdf" download>Sv</A>
+        </td>
+
       </tr>
 
     </tbody>
   </table>
 	
-All content linked form this page is Shared 2022 by ProAgile AB under <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Attribution ShareAlike 4.0 International license</A>
+All content linked form this page is Shared 2024 by ProAgile AB under <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Attribution ShareAlike 4.0 International license</A>
 
 </div>
