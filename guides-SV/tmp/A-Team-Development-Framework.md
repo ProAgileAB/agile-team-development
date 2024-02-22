@@ -14,7 +14,7 @@ För att hjälpa till i denna situation beslutade vi oss att sätta samman denna
 
 För att undvika att falla i fällan med fem av nio tekniker som låter bra men faktiskt inte hjälper alls, har vi baserat allt i guiden på principer som är väl grundade i forskning. 
 
-Detta är dock inte bara ett teoretiskt ramverk. Vi har använt det på ProAgile i mer än tio år för att hjälpa agila team att komma igång och fortsätta förbättras. För oss har det hjälpt till att skapa goda resultat i praktiken. Vi hoppas att du också kommer att ha nytta av tankarna och övninarna.
+Detta är dock inte bara ett teoretiskt ramverk. Vi har använt det på ProAgile i mer än tio år för att hjälpa agila team att komma igång och fortsätta förbättras. För oss har det hjälpt till att skapa goda resultat i praktiken. Vi hoppas att du också kommer att ha nytta av tankarna och övningarna.
 
 ## Vad är ett framgångsrikt team?{-}
 
