@@ -93,3 +93,18 @@ table,thead,tbody,tfoot,tr, td,th{
   font: 100 1.2rem/2 Roboto;
   margin: 5rem auto;
 }
+
+.table-container {
+    width: 100%; /* Adjust this as needed */
+    display: block;
+}
+
+.table-container .pdf-download {
+    text-align: left;
+    margin-bottom: 10px; /* Adjust the spacing as needed */
+}
+
+table {
+    width: 100%; /* Adjust table width as needed */
+    /* Other table styles */
+}
