@@ -7,8 +7,8 @@
   <table>
     <thead>
       <tr>
-        Download PDF with all chapters
-        <A HREF="pdf/Starting-and-Developing-Agile-Teams.pdf">Eng</A>	 
+        <p>Download PDF with all chapters:</p>
+        <A HREF="pdf/Starting-and-Developing-Agile-Teams.pdf">Eng</A>, 	 
         <A HREF="pdf-Sv/Starting-and-Developing-Agile-Teams.pdf">Sv</A>	
       </tr>
       <tr>
@@ -212,7 +212,7 @@
 
     </tbody>
   </table>
-	
-All content linked form this page is Shared 2024 by ProAgile AB under <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Attribution ShareAlike 4.0 International license</A>
+
+<p>All content linked form this page is Shared 2024 by ProAgile AB under <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Attribution ShareAlike 4.0 International license</A></p>p>
 
 </div>
