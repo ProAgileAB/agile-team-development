@@ -213,7 +213,7 @@
 
       </tr>
     <tr>
-        All content linked form this page is Shared 2024 by ProAgile AB under <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Attribution ShareAlike 4.0 International license</A>
+        <td>All content linked form this page is Shared 2024 by ProAgile AB under <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Attribution ShareAlike 4.0 International license</A></td>
     </tr>
 
     </tbody>
