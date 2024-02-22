@@ -60,24 +60,42 @@
         </td>
       </tr>
 
-
-      <tr>
+    <tr>
         <td>Clarifying Team Mandates</td>
-		<td><A HREF="guides/Clarifying-Team-Mandate.html">Read Online</A></td>
-		<td><A HREF="pdf/Clarifying-Team-Mandate.pdf">Download PDF</A></td>
+	    <td>Read Online <A HREF="guides/Clarifying-Team-Mandate.html">Eng</A>
+                      , <A HREF="guides-SV/Clarifying-Team-Mandate.html">Sv</A>
+
+        </td>
+        <td><A HREF="pdf/Clarifying-Team-Mandate.pdf" download>Eng</A>,
+                        <A HREF="pdf-SV/Clarifying-Team-Mandate.pdf" download>Sv</A>
+        </td>
       </tr>
+
 
 
       <tr>	  
         <td>Four stages of psychological safety</td>
-    	<td><A HREF="guides/Four-stages-of-psychological-safety.html">Read Online</A></td>
-	    <td><A HREF="pdf/Four-stages-of-psychological-safety.pdf">Download PDF</A></td>
+        <td>Read Online <A HREF="guides/Four-stages-of-psychological-safety.html">Eng</A>
+                      , <A HREF="guides-SV/Four-stages-of-psychological-safety.html">Sv</A>
+
+        </td>
+        <td><A HREF="pdf/Four-stages-of-psychological-safety.pdf" download>Eng</A>,
+                        <A HREF="pdf-SV/Four-stages-of-psychological-safety.pdf" download>Sv</A>
+        </td>
       </tr>
+
       <tr>	  
         <td>Ground Rules & Decision Making</td>
-    	<td><A HREF="guides/Ground-Rules-and-Decision-Making.html">Read Online</A></td>
-	    <td><A HREF="pdf/Ground-Rules-and-Decision-Making.pdf">Download PDF</A></td>
+        <td>Read Online <A HREF="guides/Ground-Rules-and-Decision-Making.html">Eng</A>
+                      , <A HREF="guides-SV/Ground-Rules-and-Decision-Making.html">Sv</A>
+
+        </td>
+        <td><A HREF="pdf/Ground-Rules-and-Decision-Making.pdf" download>Eng</A>,
+                        <A HREF="pdf-SV/Ground-Rules-and-Decision-Making.pdf" download>Sv</A>
+        </td>    	
+
       </tr>
+
       <tr>
         <td>Individual Goals</td>
 	    <td><A HREF="guides/Individual-Goals.html">Read Online</A></td>
