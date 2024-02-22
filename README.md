@@ -57,7 +57,7 @@
                         <A HREF="pdf-SV/Appreciation-Cards.pdf" download>Sv</A>
         </td>
       </tr>
-
+    
       <tr>
         <td>Balancing Team- and Individual work</td>
 	    <td> <A HREF="guides/Balancing-Team-and-Individual-Work.html">Eng</A>
