@@ -9,6 +9,7 @@
     <p>Download PDF with all chapters:
         <A HREF="pdf/Starting-and-Developing-Agile-Teams.pdf" download>Eng</A>, 	 
         <A HREF="pdf-SV/Starting-and-Developing-Agile-Teams.pdf" download>Sv</A>	
+        All content linked from this page is Shared 2024 by ProAgile AB under <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Attribution ShareAlike 4.0 International license</A>
     </p>
 
   <table>
@@ -218,6 +219,5 @@
 
     </tbody>
   </table>
-All content linked from this page is Shared 2024 by ProAgile AB under <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Attribution ShareAlike 4.0 International license</A>
         
 </div>
