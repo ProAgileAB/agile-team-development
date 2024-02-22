@@ -1,4 +1,4 @@
-# Spelregler & Beslutsfattande{-}
+# Spelregler & beslutsfattande{-}
 ![](images/rules-and-decisions.png){ width=70%}
 
 ## Tidsåtgång{-}

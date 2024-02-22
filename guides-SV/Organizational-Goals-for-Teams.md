@@ -1,10 +1,10 @@
-# Organisatoriska Mål för Team
+# Organisatoriska mål för team
 <img src="images/goals-for-teams.png" >
 
 ## Tid som krävs
 Vanligtvis 30 min - 1 timme, beroende på hur okända/ojämförbara visionen och målen är för teamet.
 
-## Nödvändigt Material
+## Nödvändigt material
 * Orange & gröna post-it-lappar
 * Markörer
 

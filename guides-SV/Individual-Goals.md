@@ -1,4 +1,4 @@
-# Individuella Mål
+# Individuella mål
 
 <img src="images/individual-goals-top.png">
 

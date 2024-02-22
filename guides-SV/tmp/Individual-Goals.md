@@ -1,4 +1,4 @@
-# Individuella Mål{-}
+# Individuella mål{-}
 
 ![](images/individual-goals-top.png){ width=70%}
 

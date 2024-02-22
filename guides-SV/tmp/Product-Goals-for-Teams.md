@@ -1,11 +1,11 @@
-# Produktmål för Team{-}
+# Produktmål för team{-}
 ![](images/shared-roadmap-vision.png){ width=70%}
 
 ## Tid som krävs{-}
 
 Vanligtvis 30 min - 2 timmar, beroende på hur okända/otydliga visionen och målen är för teamet.
 
-## Nödvändigt Material{-}
+## Nödvändigt material{-}
 * Orange & gröna Post-its
 * Markörer
 

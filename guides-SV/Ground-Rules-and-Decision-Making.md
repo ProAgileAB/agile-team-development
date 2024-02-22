@@ -1,4 +1,4 @@
-# Spelregler & Beslutsfattande
+# Spelregler & beslutsfattande
 <img src="images/rules-and-decisions.png">
 
 ## Tidsåtgång

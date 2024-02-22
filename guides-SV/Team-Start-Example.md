@@ -1,10 +1,10 @@
-# Team-Start Exempel
+# Exempel på två teamdagar
 <img src="images/team-start.png" >
 
 ## Syfte
 
 - Stödja ett team i deras teambildnings-/teamutvecklingsprocess.
-- Lägga grunden som behövs för att en Scrum Master ska kunna coacha teamet som ett team.
+- Lägga grunden som behövs för att en ledare på teamnivå ska kunna coacha teamet som ett team.
 
 ## Tid som krävs
 
@@ -72,12 +72,12 @@ Okej, det vi kommer att arbeta med idag är utformat för att hjälpa oss att up
 *   Gå snabbt igenom syftet med dagen och agendan, bara huvudämnen
 *   Gå igenom tider, raster, praktiska detaljer. Försök att dela upp sessionen i 25+5 min-sessioner eller 50+10 beroende på team-/gruppstorlek. För ett normalstort team är 25 min arbete + 5 min rast bra (Detta kallas "[*pomodoro-tekniken*](https://www.inc.com/stacey-macnaught/how-to-make-the-next-30-minutes-the-most-productive-of-your-week.html)"). Om flera team startar på samma workshop kan det vara utmanande att få alla in och ut ur rummet varje halvtimme, så i de fallen är kanske 50+10 bättre.
 
-## Grundregler & Beslutsfattande
+## Grundregler & beslutsfattande
 
 Tid som krävs, 5-15 min
 Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides-SV/Ground-Rules-and-Decision-Making.html)
 
-## Psykologisk Säkerhet
+## Psykologisk säkerhet
 
 *   I Googles forskningsprojekt, "Aristoteles", identifierade de grundläggande psykologisk säkerhet som en nyckelfaktor för teamets prestation.
 *   Du kan se samma slutsatser i arbetet av andra, t.ex. Förtroende är det första steget i modellen "5 dysfunktioner i ett team" av Patrick Lencioni.

@@ -1,11 +1,11 @@
-# Team Vision{-}
+# Teamvision{-}
 ![](images/vision.png){ width=70%}
 
 ## Tid som krävs{-}
 
 Vanligtvis 1 timme
 
-## Nödvändigt Material{-}
+## Nödvändigt material{-}
 
 - Olika sorters post-it-lappar
 - Markörer

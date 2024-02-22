@@ -1,11 +1,11 @@
-# Team Vision
+# Teamvision
 <img src="images/vision.png" >
 
 ## Tid som krävs
 
 Vanligtvis 1 timme
 
-## Nödvändigt Material
+## Nödvändigt material
 
 - Olika sorters post-it-lappar
 - Markörer

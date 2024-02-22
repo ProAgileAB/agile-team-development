@@ -222,7 +222,6 @@ This is probably factors that most team building activities tries to address wit
 * [*Balancing Team- and Individual work*](https://proagileab.github.io/agile-team-development/guides/Balancing-Team-and-Individual-Work.html)
 * [*Market of skills*](https://proagileab.github.io/agile-team-development/guides/Market-of-Skills.html)
 * [*Repairing Broken Agreements*](https://proagileab.github.io/agile-team-development/guides/Repairing-Broken-Agreements.html)
-* [*Build trust with simple questions*](https://proagileab.github.io/agile-team-development/guides/Build-Trust-With-Simple-Questions.html)
 
 
 ## Infrastructure and support

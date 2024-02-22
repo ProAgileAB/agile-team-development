@@ -1,6 +1,6 @@
-# Ramverk för Teamutveckling{-}
+# Ett ramverk för teamutveckling{-}
 
-## Varför team inte fungerar{-}
+## Varför team ofta inte fungerar i praktiken{-}
 
 Ett väl fungerande team kan skapa magi, men här är några oroväckande fakta från teamwork i den verkliga världen:
 
@@ -51,9 +51,9 @@ I ett klassiskt agilt sammanhang kan detta vara Produktägaren, Scrum Master och
 
 I nästa avsnitt kommer vi att undersöka var och en av villkoren/områdena ett för ett. Detta är för dig att använda som referens när du utvärderar förhållandena för varje team och tänker på nästa steg som beskrivits ovan.
 
-# De Sex Nyckelområdena{-}
+# De sex nyckelområdena{-}
 
-## Engagerande Riktning{-}
+## Engagerande riktning{-}
 ![](images/compelling-direction.png){ width=70%}
 
 Detta är den viktigaste av de olika faktorerna du bör överväga när du tänker på vilka förhållanden du kan hjälpa till att skapa för dina team. 
@@ -94,7 +94,7 @@ Det vi letar efter är en riktning som:
 * [*Team Vision*](https://proagileab.github.io/agile-team-development/guides-SV/Team-Vision.html)
 
 
-## Tidig och Pålitlig Feedback{-}
+## Tidig och pålitlig återkoppling{-}
 ![](images/feedback.png){ width=70%}
 
 Detta är också en av de tre viktigaste aspekterna att överväga när du försöker skapa förutsättningarna för teamets prestanda. 
@@ -112,7 +112,7 @@ Det är uppenbart att vänta så länge på feedback på vad du gör inte är de
 * Se till att teamen har tät kontakt med intressenter, kunder och slutanvändare. I Scrum kan detta vara under Sprintar och vid Sprint Reviews.
 * Tekniker som impact mapping från avsnittet om övertygande riktning som ser till att teamet faktiskt vet vad syftet med arbetet är. Utan det är varje mått på framsteg mindre meningsfullt.
 
-## Tydlig och Betydande Autonomi{-}
+## Tydligt och betydande mandat{-}
 ![](images/autonomy-2.png){ width=70%}
 
 Här är ett mönster jag ständigt stöter på när jag arbetar med aspirerande agila organisationer:
@@ -181,10 +181,10 @@ Så, du kanske vill överväga att hålla teamen tillsammans under längre tid. 
 * Tilldela större, värde-/effektbaserade, mål till team, se kapitel om övertygande riktningar
 
 
-## Aktiviteter för Teambyggnad{-}
+## Aktiviteter för teamutveckling{-}
 ![](images/building-team.png){ width=70%}
 
-Kanske är de vanligaste aktiviteterna för teambyggnad att gå på bowling och sedan fortsätta med middag och drycker. Eller kanske lösa ett pussel som ett "Escape room", försöka inställa teamwork genom att göra något helt annorlunda än vanligt arbete. Detta kan vara kul och allt, men dessa aktiviteter faller förmodligen in i kategorin 5/9 aktiviteter som inte ger någon mätbar förbättring i teamwork enligt Susan Wheelan. Så fortsätt gärna erbjuda roliga saker som detta till anställda, men räkna inte med allt för stora effekter i form av ökad teamprestanda. 
+Kanske är de vanligaste aktiviteterna för teamutveckling att gå på bowling och sedan fortsätta med middag och drycker. Eller kanske lösa ett pussel som ett "Escape room", försöka skapa teamwork genom att göra något helt annorlunda än vanligt arbete. Detta kan vara kul, men dessa aktiviteter faller förmodligen in i kategorin 5/9 aktiviteter som inte ger någon mätbar förbättring i teamwork enligt Susan Wheelan. Så fortsätt gärna erbjuda roliga saker till anställda, men räkna inte med allt för stora effekter i form av ökad teamprestanda. 
 
 ### Vad fungerar då?{-}
 
@@ -206,22 +206,21 @@ Detta är förmodligen faktorer som de flesta teambyggnadsaktiviteter försöker
 
 ### Relaterade övningar från del 2{-}
 
-* [*Individuella Mål*](https://proagileab.github.io/agile-team-development/guides-SV/Individual-Goals.html)
-* [*Organisatoriska Mål för Team*](https://proagileab.github.io/agile-team-development/guides-SV/Organizational-Goals-for-Teams.html)
-* [*Produktmål för Team*](https://proagileab.github.io/agile-team-development/guides-SV/Product-Goals-for-Teams.html)
-* [*Team Vision*](https://proagileab.github.io/agile-team-development/guides-SV/Team-Vision.html)
+* [*Individuella mål*](https://proagileab.github.io/agile-team-development/guides-SV/Individual-Goals.html)
+* [*Organisatoriska mål för team*](https://proagileab.github.io/agile-team-development/guides-SV/Organizational-Goals-for-Teams.html)
+* [*Produktmål för team*](https://proagileab.github.io/agile-team-development/guides-SV/Product-Goals-for-Teams.html)
+* [*Team vision*](https://proagileab.github.io/agile-team-development/guides-SV/Team-Vision.html)
 
-* [*Grundregler och Beslutsfattande*](https://proagileab.github.io/agile-team-development/guides-SV/Ground-Rules-and-Decision-Making.html)
-* [*Journey Lines*](https://proagileab.github.io/agile-team-development/guides-SV/Journey-Lines.html)
-* [*Roller och Förväntningar*](https://proagileab.github.io/agile-team-development/guides-SV/Roles-and-Expectations.html)
+* [*Grundregler och beslutsfattande*](https://proagileab.github.io/agile-team-development/guides-SV/Ground-Rules-and-Decision-Making.html)
+* [*Journey lines*](https://proagileab.github.io/agile-team-development/guides-SV/Journey-Lines.html)
+* [*Roller och förväntningar*](https://proagileab.github.io/agile-team-development/guides-SV/Roles-and-Expectations.html)
 * [*Uppskattningkort*](https://proagileab.github.io/agile-team-development/guides-SV/Appreciation-Cards.html)
-* [*Balansera Team- och Individuellt arbete*](https://proagileab.github.io/agile-team-development/guides-SV/Balancing-Team-and-Individual-Work.html)
+* [*Balansera team- och individuellt arbete*](https://proagileab.github.io/agile-team-development/guides-SV/Balancing-Team-and-Individual-Work.html)
 * [*Marknad för färdigheter*](https://proagileab.github.io/agile-team-development/guides-SV/Market-of-Skills.html)
-* [*Reparera Brutna Överenskommelser*](https://proagileab.github.io/agile-team-development/guides-SV/Repairing-Broken-Agreements.html)
-* [*Bygga förtroende med enkla frågor*](https://proagileab.github.io/agile-team-development/guides-SV/Build-Trust-With-Simple-Questions.html)
+* [*Reparera brutna överenskommelser*](https://proagileab.github.io/agile-team-development/guides-SV/Repairing-Broken-Agreements.html)
 
 
-## Infrastruktur och Stöd{-}
+## Infrastruktur och stöd{-}
 ![](images/infrastructure-and-support.png){ width=70%}
 
 Här är några idéer om frågor du kan ställa för att kontrollera nivån på infrastruktur och stöd du för närvarande har för dina team:

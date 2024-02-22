@@ -1,4 +1,4 @@
-# Balansering av Team- och Individuellt Arbete
+# Att balansera av team- och individuellt arbete
 <img src="images/balance-team-individual.png" >
 
 ## Syfte
@@ -27,12 +27,12 @@ Förklara att:
 * Det finns inget rätt och fel, bara olika erfarenheter och tankar.
 * Målet är inte att få alla att tänka att 100% nära teamarbete är den enda rätta lösningen.
 
-**Intro/Uppvärmning**
+**Intro/uppvärmning**
 
 Förklara de två axlarna: positiv, negativ, arbeta som ett team och arbeta individuellt.
 Bjud in deltagarna att gå runt på rutnätet och försöka tänka på egna erfarenheter från de olika kvadranterna. Ge dem 2 minuter i tystnad för att göra detta. Syftet är att börja minnas exempel och fokusera. När du ger dessa instruktioner - visa genom exempel, det är effektivare än att bara förklara.
 
-**Utforskning av För- och Nackdelar**
+**Utforskning av för- och nackdelar**
 
 I det här avsnittet kommer vi att utforska för- och nackdelarna med först individuellt arbete och sedan teamarbete. Vi börjar med positivt - individuellt. Personer som uppskattar individuellt arbete kan känna sig mer obekväma i en agil kontext. Genom att göra det först visar och erkänner vi giltigheten och vikten av allas åsikter/upplevelser.
 
@@ -47,7 +47,7 @@ Upprepa denna process i denna ordning (nytt flipchartpapper för varje):
 * Positivt - Teamarbete.
 * Negativt - Teamarbete.
 
-**Reflektion, Vilket Arbetssätt är Bäst?**
+**Reflektion, vilket arbetssätt är bäst?**
 
 Facilitera en snabb reflektion/diskussion:
 
@@ -57,7 +57,7 @@ Slutsatsen kan vara något i stil med "Vi behöver vara kloka och välja ett arb
 
 Fråga teamet om de håller med om detta påstående.
 
-**Varningssignaler och Åtgärder**
+**Varningssignaler och åtgärder**
 
 "Låt oss tänka på hur vi kan uppnå detta i praktiken!" - På ett nytt flipchartpapper, skriv "Individuellt arbete - varningssignaler". Fråga teamet: "Hur kan vi se om vi är på väg in i de negativa aspekterna av individuellt arbete?"
 
@@ -71,14 +71,14 @@ När några varningssignaler har samlats in, byt till att samla åtgärder.
 
 Upprepa för teamarbete.
 
-**Reflektion, Vem är Ansvarig?**
+**Reflektion, vem är ansvarig?**
 
 Ställ frågan:
 
 * Vem är ansvarig för att vi befinner oss i det positiva?
 Idealt sett skulle detta vara alla teammedlemmars ansvar.
 
-**Aktuella Preferenser**
+**Nuvarande preferenser**
 
 "Vi är alla människor, och vi kan ha våra preferenser för hur vi vill arbeta. Detta kan förändras från vecka till vecka, dag till dag etc., beroende på många saker som livet i allmänhet."
 

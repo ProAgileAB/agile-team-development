@@ -1,4 +1,4 @@
-# Klargörande av Teammandat
+# Klargörande av teammandat
 <img src="images/mandate-and-responsibility.png" >
 
 ## Syfte

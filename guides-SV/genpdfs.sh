@@ -102,7 +102,7 @@ done;
 for f in ${FILES_TO_GENERATE};
 do
     echo "Generating pdf '"${f}".pdf'"
-    pandoc tmp/${f}.md -o ../pdf/${f}.pdf --template=templates/eisvogel.latex  ;
+    pandoc tmp/${f}.md -o ../pdf-SV/${f}.pdf --template=templates/eisvogel.latex  ;
 done;
 
 if [ $GENERATE_COMBINED_FILE == true ]; then

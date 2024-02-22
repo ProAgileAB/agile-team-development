@@ -1,4 +1,4 @@
-# Reparera Brutna Överenskommelser
+# Att reparera brutna överenskommelser
 <img src="images/repairing-broken-agreement.png" >
 
 ## Tid som krävs:
@@ -94,7 +94,7 @@ låt dem göra det, ställ några debriefing-frågor och uppmuntra dem,. Det lä
 
 Regeln i ditt team är att folk ska sträva efter att delta i sprintplaneringssessioner. Ni skapade denna regel eftersom ni ville ha allas perspektiv under planeringen. Chris dök inte upp vid den senaste sessionen och ni hade svårt att komma fram till en bra plan.
 
-### Uppdrag:
+### Din uppgift:
 
 *   Initiera en diskussion med Chris om den brutna överenskommelsen
 *   Försök att förhandla om den så att den passar er båda.
@@ -124,7 +124,7 @@ vad du skulle arbeta med så det var ingen stor sak.
 
 Ditt företag tillåter en blandning av fjärr- och kontorsarbete. Ditt team har kommit överens om att försöka samlas på kontoret åtminstone på tisdagar och fredagar. Sam mailar dig för tredje fredagen i rad: "Jag kommer att jobba hemifrån idag, jag kan nås via mail och över kommunikatör". Du känner att fördelarna med kontorsarbete minskar när Sam fortfarande är på distans och ibland svarar han inte ens så snabbt.
 
-### Uppdrag:
+### Din uppgift:
 
 *   Initiera en diskussion med Sam om situationen
 *   Försök att skapa en överenskommelse som möter båda era behov

@@ -739,7 +739,7 @@ $endif$
 
 \pagestyle{fancy}
 \fancyhf{
-  \cfoot{\tiny{Shared 2018-2023 by ProAgile AB under \href{https://creativecommons.org/licenses/by-sa/4.0/}{Creative Commons Attribution ShareAlike 4.0 International license}}}}
+  \cfoot{\tiny{Shared 2018-2024 by ProAgile AB under \href{https://creativecommons.org/licenses/by-sa/4.0/}{Creative Commons Attribution ShareAlike 4.0 International license}}}}
   \rfoot{\thepage}
 
 %% End customization for 
