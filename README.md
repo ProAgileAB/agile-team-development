@@ -22,7 +22,7 @@
       <tr>	  
         <td>A Team Development Framework</td>
         <td>
-            Read online <A HREF="guides/A-Team-Development-Framework.html">Eng</A>
+            <A HREF="guides/A-Team-Development-Framework.html">Eng</A>
             , <A HREF="guides-SV/A-Team-Development-Framework.html">Sv</A>
 
         </td>
@@ -34,7 +34,8 @@
 
       <tr>
         <td>Team-Start Example</td>
-    	  <td>Read online  <A HREF="guides/Team-Start-Example.html">Eng</A>
+    	  <td>
+            <A HREF="guides/Team-Start-Example.html">Eng</A>
 	      , <A HREF="guides-SV/Team-Start-Example.html">Sv</A></td>
       
         <td><A HREF="pdf/Team-Start-Example.pdf" download>Eng</A>,
@@ -43,7 +44,7 @@
       
       <tr>
         <td>Appreciation Cards</td>
-	    <td>Read Online <A HREF="guides/Appreciation-Cards.html">Eng</A>
+	    <td> <A HREF="guides/Appreciation-Cards.html">Eng</A>
                       , <A HREF="guides-SV/Appreciation-Cards.html">Sv</A>
 
          <td><A HREF="pdf/Appreciation-Cards.pdf" download>Eng</A>,
@@ -53,7 +54,7 @@
 
       <tr>
         <td>Balancing Team- and Individual work</td>
-	    <td>Read Online <A HREF="guides/Balancing-Team-and-Individual-Work.html">Eng</A>
+	    <td> <A HREF="guides/Balancing-Team-and-Individual-Work.html">Eng</A>
                       , <A HREF="guides-SV/Balancing-Team-and-Individual-Work.html">Sv</A>
 
         </td>
@@ -64,7 +65,7 @@
 
     <tr>
         <td>Clarifying Team Mandates</td>
-	    <td>Read Online <A HREF="guides/Clarifying-Team-Mandate.html">Eng</A>
+	    <td> <A HREF="guides/Clarifying-Team-Mandate.html">Eng</A>
                       , <A HREF="guides-SV/Clarifying-Team-Mandate.html">Sv</A>
 
         </td>
@@ -77,7 +78,7 @@
 
       <tr>	  
         <td>Four stages of psychological safety</td>
-        <td>Read Online <A HREF="guides/Four-stages-of-psychological-safety.html">Eng</A>
+        <td> <A HREF="guides/Four-stages-of-psychological-safety.html">Eng</A>
                       , <A HREF="guides-SV/Four-stages-of-psychological-safety.html">Sv</A>
 
         </td>
@@ -88,7 +89,7 @@
 
       <tr>	  
         <td>Ground Rules & Decision Making</td>
-        <td>Read Online <A HREF="guides/Ground-Rules-and-Decision-Making.html">Eng</A>
+        <td> <A HREF="guides/Ground-Rules-and-Decision-Making.html">Eng</A>
                       , <A HREF="guides-SV/Ground-Rules-and-Decision-Making.html">Sv</A>
 
         </td>
@@ -100,7 +101,7 @@
 
       <tr>
         <td>Individual Goals</td>
-        <td>Read Online <A HREF="guides/Individual-Goals.html">Eng</A>
+        <td> <A HREF="guides/Individual-Goals.html">Eng</A>
                       , <A HREF="guides-SV/Individual-Goals.html">Sv</A>
 
         </td>
@@ -111,7 +112,7 @@
 
       <tr>
         <td>Journey Lines</td>
-        <td>Read Online <A HREF="guides/Journey-Lines.html">Eng</A>
+        <td> <A HREF="guides/Journey-Lines.html">Eng</A>
                       , <A HREF="guides-SV/Journey-Lines.html">Sv</A>
 
         </td>
@@ -124,7 +125,7 @@
       <tr>
         <td>Market of skills</td>
 
-        <td>Read Online <A HREF="guides/Market-of-Skills.html">Eng</A>
+        <td> <A HREF="guides/Market-of-Skills.html">Eng</A>
                       , <A HREF="guides-SV/Market-of-Skills.html">Sv</A>
 
         </td>
@@ -138,7 +139,7 @@
       <tr>
         <td>Organizational Goals for Teams</td>
 
-        <td>Read Online <A HREF="guides/Organizational-Goals-for-Teams.html">Eng</A>
+        <td> <A HREF="guides/Organizational-Goals-for-Teams.html">Eng</A>
                       , <A HREF="guides-SV/Organizational-Goals-for-Teams.html">Sv</A>
 
         </td>
@@ -151,7 +152,7 @@
       <tr>
         <td>Product Goals for Teams</td>
 
-        <td>Read Online <A HREF="guides/Product-Goals-for-Teams.html">Eng</A>
+        <td> <A HREF="guides/Product-Goals-for-Teams.html">Eng</A>
                       , <A HREF="guides-SV/Product-Goals-for-Teams.html">Sv</A>
 
         </td>
@@ -163,7 +164,7 @@
       <tr>
         <td>Repairing Broken Agreements</td>
 
-        <td>Read Online <A HREF="guides/Repairing-Broken-Agreements.html">Eng</A>
+        <td> <A HREF="guides/Repairing-Broken-Agreements.html">Eng</A>
                       , <A HREF="guides-SV/Repairing-Broken-Agreements.html">Sv</A>
 
         </td>
@@ -175,7 +176,7 @@
       <tr>
         <td>Roles and Expectations</td>
 
-        <td>Read Online <A HREF="guides/Roles-and-Expectations.html">Eng</A>
+        <td> <A HREF="guides/Roles-and-Expectations.html">Eng</A>
                       , <A HREF="guides-SV/Roles-and-Expectations.html">Sv</A>
 
         </td>
@@ -188,7 +189,7 @@
       <tr>
         <td>Team Agreement</td>
 
-        <td>Read Online <A HREF="guides/Team-agreement.html">Eng</A>
+        <td> <A HREF="guides/Team-agreement.html">Eng</A>
                       , <A HREF="guides-SV/Team-agreement.html">Sv</A>
 
         </td>
@@ -200,7 +201,7 @@
 
       <tr>
         <td>Team Vision</td>
-        <td>Read Online <A HREF="guides/Team-Vision.html">Eng</A>
+        <td> <A HREF="guides/Team-Vision.html">Eng</A>
                       , <A HREF="guides-SV/Team-Vision.html">Sv</A>
 
         </td>
