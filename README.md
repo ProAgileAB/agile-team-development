@@ -1,16 +1,17 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 
+ 
 
 <div class="aa_htmlTable">
 	<h2 class="aa_h2">Starting and Developing Agile Teams. <br>- A Facilitation Guide</h2>
+    <p>Download PDF with all chapters:
+        <A HREF="pdf/Starting-and-Developing-Agile-Teams.pdf">Eng</A>, 	 
+        <A HREF="pdf-Sv/Starting-and-Developing-Agile-Teams.pdf">Sv</A>	</p>
+
   <table>
     <thead>
-      <tr>
-        Download PDF with all chapters:
-        <A HREF="pdf/Starting-and-Developing-Agile-Teams.pdf">Eng</A>, 	 
-        <A HREF="pdf-Sv/Starting-and-Developing-Agile-Teams.pdf">Sv</A>	
-      </tr>
+     
       <tr>
         <th>CHAPTER TITLE</th>
         <th>READ ONLINE</th>
