@@ -7,7 +7,8 @@
 	<h2 class="aa_h2">Starting and Developing Agile Teams. <br>- A Facilitation Guide</h2>
     <p>Download PDF with all chapters:
         <A HREF="pdf/Starting-and-Developing-Agile-Teams.pdf">Eng</A>, 	 
-        <A HREF="pdf-Sv/Starting-and-Developing-Agile-Teams.pdf">Sv</A>	</p>
+        <A HREF="pdf-Sv/Starting-and-Developing-Agile-Teams.pdf">Sv</A>	
+    </p>
 
   <table>
     <thead>
@@ -211,10 +212,11 @@
         </td>
 
       </tr>
+    <tr>
+        All content linked form this page is Shared 2024 by ProAgile AB under <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Attribution ShareAlike 4.0 International license</A>
+    </tr>
 
     </tbody>
   </table>
 
 </div>
-
-<p>All content linked form this page is Shared 2024 by ProAgile AB under <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Attribution ShareAlike 4.0 International license</A><p></p>
