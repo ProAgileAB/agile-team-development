@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 
- 
+
 
 <div class="aa_htmlTable">
 	<h2 class="aa_h2">Starting and Developing Agile Teams. <br>- A Facilitation Guide</h2>
@@ -12,7 +12,7 @@
 
   <table>
     <thead>
-     
+
       <tr>
         <th>CHAPTER TITLE</th>
         <th>READ ONLINE</th>
@@ -43,6 +43,7 @@
         <td><A HREF="pdf/Team-Start-Example.pdf" download>Eng</A>,
                         <A HREF="pdf-SV/Team-Start-Example.pdf" download>Sv</A>
         </td>
+    </tr>
       
       <tr>
         <td>Appreciation Cards</td>
@@ -52,7 +53,7 @@
          <td><A HREF="pdf/Appreciation-Cards.pdf" download>Eng</A>,
                         <A HREF="pdf-SV/Appreciation-Cards.pdf" download>Sv</A>
         </td>
-      
+      </tr>
 
       <tr>
         <td>Balancing Team- and Individual work</td>
@@ -213,7 +214,7 @@
 
       </tr>
     <tr>
-        <td>All content linked form this page is Shared 2024 by ProAgile AB under <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Attribution ShareAlike 4.0 International license</A></td>
+        <td>All content linked from this page is Shared 2024 by ProAgile AB under <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Attribution ShareAlike 4.0 International license</A></td>
     </tr>
 
     </tbody>
