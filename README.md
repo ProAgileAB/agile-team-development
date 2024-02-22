@@ -5,14 +5,15 @@
 
 <div class="aa_htmlTable">
 	<h2 class="aa_h2">Starting and Developing Agile Teams. <br>- A Facilitation Guide</h2>
-   
+    
+    <p>Download PDF with all chapters:
+        <A HREF="pdf/Starting-and-Developing-Agile-Teams.pdf" download>Eng</A>, 	 
+        <A HREF="pdf-SV/Starting-and-Developing-Agile-Teams.pdf" download>Sv</A>	
+    </p>
 
   <table>
     <thead>
-    <tr>Download PDF with all chapters:
-        <A HREF="pdf/Starting-and-Developing-Agile-Teams.pdf" download>Eng</A>, 	 
-        <A HREF="pdf-SV/Starting-and-Developing-Agile-Teams.pdf" download>Sv</A>	
-    </tr>
+
 
       <tr>
         <th>CHAPTER TITLE</th>
