@@ -35,25 +35,29 @@
     	  <td>Read online  <A HREF="guides/Team-Start-Example.html">Eng</A>
 	      , <A HREF="guides-SV/Team-Start-Example.html">Sv</A></td>
       
-      <td><A HREF="pdf/Team-Start-Example.pdf">Download PDF</A></td>
-      </tr>
+        <td><A HREF="pdf/Team-Start-Example.pdf" download>Eng</A>,
+                        <A HREF="pdf-SV/Team-Start-Example.pdf" download>Sv</A>
+        </td>
       
       <tr>
         <td>Appreciation Cards</td>
 	    <td>Read Online <A HREF="guides/Appreciation-Cards.html">Eng</A>
                       , <A HREF="guides-SV/Appreciation-Cards.html">Sv</A>
 
+         <td><A HREF="pdf/Appreciation-Cards.pdf" download>Eng</A>,
+                        <A HREF="pdf-SV/Appreciation-Cards.pdf" download>Sv</A>
         </td>
-        <td><A HREF="pdf/Appreciation-Cards.pdf">Download PDF</A> </td>
-      </tr>
+      
 
       <tr>
         <td>Balancing Team- and Individual work</td>
 	    <td>Read Online <A HREF="guides/Balancing-Team-and-Individual-Work.html">Eng</A>
                       , <A HREF="guides-SV/Balancing-Team-and-Individual-Work.html">Sv</A>
 
-      </td>
-        <td><A HREF="pdf/Balancing-Team-and-Individual-Work.pdf">Download PDF</A> </td>
+        </td>
+        <td><A HREF="pdf/Balancing-Team-and-Individual-Work.pdf" download>Eng</A>,
+                        <A HREF="pdf-SV/Balancing-Team-and-Individual-Work.pdf" download>Sv</A>
+        </td>
       </tr>
 
 
@@ -62,6 +66,8 @@
 		<td><A HREF="guides/Clarifying-Team-Mandate.html">Read Online</A></td>
 		<td><A HREF="pdf/Clarifying-Team-Mandate.pdf">Download PDF</A></td>
       </tr>
+
+
       <tr>	  
         <td>Four stages of psychological safety</td>
     	<td><A HREF="guides/Four-stages-of-psychological-safety.html">Read Online</A></td>
