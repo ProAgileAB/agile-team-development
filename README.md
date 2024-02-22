@@ -7,7 +7,9 @@
   <table>
     <thead>
       <tr>
-      <A HREF="pdf/Starting-and-Developing-Agile-Teams.pdf">Download PDF with all chapters</A>	      
+        Download PDF with all chapters
+        <A HREF="pdf/Starting-and-Developing-Agile-Teams.pdf">Eng</A>	 
+        <A HREF="pdf-Sv/Starting-and-Developing-Agile-Teams.pdf">Sv</A>	
       </tr>
       <tr>
         <th>CHAPTER TITLE</th>
