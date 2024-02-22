@@ -19,13 +19,15 @@
 	
       <tr>	  
         <td>A Team Development Framework</td>
-	      <td>
+        <td>
             Read online <A HREF="guides/A-Team-Development-Framework.html">Eng</A>
             , <A HREF="guides-SV/A-Team-Development-Framework.html">Sv</A>
 
-         </td>
-	    
-      <td><A HREF="pdf/A-Team-Development-Framework.pdf">Download PDF</A></td>
+        </td>
+        <td>Download PDF <A HREF="pdf/A-Team-Development-Framework.pdf">Eng</A>
+                        <A HREF="pdf-SV/A-Team-Development-Framework.pdf">Sv</A>
+        </td>
+
       </tr>
 
       <tr>
@@ -41,14 +43,20 @@
 	    <td>Read Online <A HREF="guides/Appreciation-Cards.html">Eng</A>
                       , <A HREF="guides-SV/Appreciation-Cards.html">Sv</A>
 
-      </td>
-	    <td><A HREF="pdf/Appreciation-Cards.pdf">Download PDF</A></td>
+        </td>
+        <td><A HREF="pdf/Appreciation-Cards.pdf">Download PDF</A> </td>
       </tr>
+
       <tr>
         <td>Balancing Team- and Individual work</td>
-	    <td><A HREF="guides/Balancing-Team-and-Individual-Work.html">Read Online</A></td>
-	    <td><A HREF="pdf/Balancing-Team-and-Individual-Work.pdf">Download PDF</A></td>
+	    <td>Read Online <A HREF="guides/Balancing-Team-and-Individual-Work.html">Eng</A>
+                      , <A HREF="guides-SV/Balancing-Team-and-Individual-Work.html">Sv</A>
+
+      </td>
+        <td><A HREF="pdf/Balancing-Team-and-Individual-Work.pdf">Download PDF</A> </td>
       </tr>
+
+
       <tr>
         <td>Clarifying Team Mandates</td>
 		<td><A HREF="guides/Clarifying-Team-Mandate.html">Read Online</A></td>
