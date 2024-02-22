@@ -98,14 +98,27 @@
 
       <tr>
         <td>Individual Goals</td>
-	    <td><A HREF="guides/Individual-Goals.html">Read Online</A></td>
-	    <td><A HREF="pdf/Individual-Goals.pdf">Download PDF</A></td>
+        <td>Read Online <A HREF="guides/Individual-Goals.html">Eng</A>
+                      , <A HREF="guides-SV/Individual-Goals.html">Sv</A>
+
+        </td>
+        <td><A HREF="pdf/Individual-Goals.pdf" download>Eng</A>,
+                        <A HREF="pdf-SV/Individual-Goals.pdf" download>Sv</A>
+        </td>    	
       </tr>
+
       <tr>
         <td>Journey Lines</td>
-	    <td><A HREF="guides/Journey-Lines.html">Read Online</A></td>
-	    <td><A HREF="pdf/Journey-Lines.pdf">Download PDF</A></td>
+        <td>Read Online <A HREF="guides/Journey-Lines.html">Eng</A>
+                      , <A HREF="guides-SV/Journey-Lines.html">Sv</A>
+
+        </td>
+        <td><A HREF="pdf/Journey-Lines.pdf" download>Eng</A>,
+                        <A HREF="pdf-SV/Journey-Lines.pdf" download>Sv</A>
+        </td>    	
+
       </tr>
+
       <tr>
         <td>Market of skills</td>
 	    <td><A HREF="guides/Market-of-Skills.html">Read Online</A></td>
