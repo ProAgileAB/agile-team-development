@@ -86,6 +86,7 @@ låt dem göra det, ställ några debriefing-frågor och uppmuntra dem,. Det lä
 
 *Gör en anteckning om hur och när ni kan använda denna teknik tillbaka på jobbet. Hur kan ni introducera den för andra?*
 
+\pagebreak 
 ## Rollstudie för person som spelar "Sam"{-}
 
 ## Fall 1: Tvåveckorsplanering{-}
@@ -108,6 +109,7 @@ Regeln i ditt team är att alla ska prioritera att delta i en planeringssession 
 Ditt företag tillåter en blandning av fjärr- och kontorsarbete. För dig är arbete hemifrån ett utmärkt sätt att fokusera bättre. Särskilt på fredagar när det finns få andra möten är detta bra! Du kollar fortfarande meddelanden, men ibland stänger du av dem när du verkligen behöver fokusera på något.
 
 
+\pagebreak 
 ## Rollstudie för person som spelar "Chris"{-}
 
 ## Fall 1: Sprintplanering{-}

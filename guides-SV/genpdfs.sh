@@ -92,7 +92,7 @@ do
     cp tmp/tmp-out.md tmp/tmp-in.md
 
     # Next add pagebreaks before two specific level two headers that we want to start at separate pages
-    cat tmp/tmp-in.md | sed -E 's/(^## Role study.*)/\\pagebreak \n\1/'  > tmp/tmp-out.md ;
+    cat tmp/tmp-in.md | sed -E 's/(^## Rollstudie.*)/\\pagebreak \n\1/'  > tmp/tmp-out.md ;
     cp tmp/tmp-out.md tmp/tmp-in.md
     
     cp tmp/tmp-out.md tmp/${f}.md 
