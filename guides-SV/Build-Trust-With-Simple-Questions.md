@@ -9,8 +9,8 @@ Tanken är att genom att få reda på mer om varandra så kan vi se varandra mer
 
 ## Källa
 
-Övningen är baserat på en som beskrivs i boken ”Fem Dysfunktioner i ett Team” av Patrick Lencioni.
-Tanken är att den ska vara ett steg i att bygga tillit. Brist på tillit är den första dysfunktionen som du behöver övervinna för att kunna hantera de andra fyra dysfunktionerna.
+Övningen är baserat på en som beskrivs i boken ”Fem felfunktioner i en grupp” av Patrick Lencioni.
+Tanken är att den ska vara ett steg i att bygga tillit. Brist på tillit är den första felfunktionen som du behöver övervinna för att kunna hantera de andra fyra felfunktionerna.
 
 ## Tidsåtgång
 *  30 minuter eller mer
@@ -31,7 +31,7 @@ Låt deltagarna svara på dessa frågor i par eller i större grupper. Parvis ge
 *  Vad var ditt första jobb?
 *  Vad är ditt mest udda jobb?
 
-Se nästa sida för några idéer om variationer på denna övning
+Se nästa kapitel för några idéer om variationer på denna övning
 
 ## Variationer
 *  Skapa en quiz med svaren på några av dessa frågor. T.ex., "Vem föddes i Norge". Dela ut quizen. Ge teamet uppgiften att rotera och försöka fylla i svaren på quizen genom att intervjua varandra.

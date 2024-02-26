@@ -36,7 +36,7 @@ Note! Make sure people have the possibility to pass if they feel uncomfortable w
 *  What was your first job?
 *  What is your most odd job?
 
-See next page for some ideas on variations on this exercise
+See next chapter for some ideas on variations on this exercise
 
 ## Variations
 *  Create a quiz with the answers to some of these questions. E.g., "Who was born in Norway". Hand the quiz out. Give the team the assignment to rotate and try to fill out the answers to the quiz by interviewing each other
