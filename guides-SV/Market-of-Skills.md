@@ -1,4 +1,4 @@
-# Färdighets-marknad
+# Market of Skills
 
 <img src="images/market-of-skills-top.png">
 

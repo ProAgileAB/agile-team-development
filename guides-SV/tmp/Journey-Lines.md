@@ -8,7 +8,7 @@
     * färdigheter,
     * vad varje person gillar att göra och inte gillar att göra.
 *   Fördjupa kommunikationsnivån genom att låta andra teammedlemmar bekräfta att de har sett varandra och uppskattar varandras färdigheter och erfarenheter.
-*   Vanligtvis leder detta också till vissa samtal av mer personlig karaktär. Detta ökar den grundläggande emotionella säkerheten i teamet. "Det är okej att vara mänsklig istället för att vara en professionell robot på jobbet". (Denna aspekt hamnade högst upp på listan av vikttiga saker när Gooogle genomförde sitt ambitiösa forsknigsprojekt om team, The Aristotele project)
+*   Vanligtvis leder detta också till vissa samtal av mer personlig karaktär. Detta ökar den grundläggande emotionella tryggheten i teamet. "Det är okej att vara mänsklig istället för att vara en professionell robot på jobbet". (Denna aspekt hamnade högst upp på listan av viktiga saker när Gooogle genomförde sitt ambitiösa forsknigsprojekt om team, The Aristotele project)
 
 ## Källa{-}
 Denna övning är mycket väl beskriven i Lyssa Adkins' bok "Coaching Agile Teams". Hon tillskriver den till Tichy N 2002, "The Cycle of Leadership: How Great Leaders Teach Their Companies to Win".
@@ -22,7 +22,7 @@ Denna övning är mycket väl beskriven i Lyssa Adkins' bok "Coaching Agile Team
 ## Förberedelser{-}
 *   Skaffa material
       *   Flipchart-papper
-      *   Whiteboard-markörer för att rita "Reselines"
+      *   Whiteboard-pennor för att rita "Journey Lines"
       *   Post-its
       *   Pennor för Post-its
       *   En timer för att hålla koll på tidsboxar för presentationer
@@ -49,14 +49,14 @@ Denna övning är mycket väl beskriven i Lyssa Adkins' bok "Coaching Agile Team
 När de är klara, gå vidare till nästa avsnitt...
 
 ## Underlätta flödet{-}
-Om du vill, tänk på om det finns en person i teamet som du tror kan vara mer bekväm med att vara öppen med problem/frågor/känslor med teamet och be den personen att gå först. Om någon sätter en personlig ton först gör det övningen ännu bättre. Du kan också göra detta själv om du vill.
+Om du vill, tänk på om det finns en person i teamet som du tror kan vara mer bekväm med att vara öppen med problem/frågor/känslor med teamet och be den personen att presentera först. Om någon sätter en personlig ton först gör det övningen ännu bättre. Du kan också göra detta själv om du vill.
 
 Om du tror att det kan behövas, håll en timer igång för att hantera vissa tidsboxar. Speciellt vissa personer kan prata ganska länge när de presenterar.
 
 I dina egna kommentarer, fokusera på att se hela personen snarare än att bara kommentera den professionella färdighetsrelaterade delen.
 
-Du kan också kommentera från agil coach/Scrum Master-perspektivet, dvs om personen gillar att arbeta i team, nära kunden, snabb feedback, snabba beslut osv, kommentera att detta överensstämmer med vad teamet kommer att ombedas att göra.
+Du kan också kommentera från agil coach/Scrum Master-perspektivet, d.v.s. om personen gillar att arbeta i team, nära kunden, snabb feedback, snabba beslut osv, kommentera att detta överensstämmer med vad teamet kommer att ombedas att göra.
 
 ## Avslutning (valfritt){-}
 Om du gör den här övningen fristående, dvs inte som en del av en längre session, kan den här avslutningen vara användbar.
-Efter att varje person har presenterat sin "Journey Line" inbjuder alla att tänka på vad de kommer att ta med sig från denna session. Om de vill kan de också dela det med de andra.
+Efter att varje person har presenterat sin "Journey Line" inbjuder du alla att tänka på vad de kommer att ta med sig från denna session. Om de vill kan de också dela det med de andra.

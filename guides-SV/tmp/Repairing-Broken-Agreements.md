@@ -7,45 +7,45 @@
 
 ## Syfte:{-}
 
-- Motivera team att göra överenskommelser och hålla varandra ansvariga för det som har överenskommits
-- Efter sessionerna ska deltagarna ha modet att ta upp en bruten överenskommelse och färdigheterna att reparera den
+- Motivera team att göra överenskommelser och att hålla varandra ansvariga för det som har överenskommits
+- Efter session ska deltagarna ha mod, motivation och förmåga att ta upp en bruten överenskommelse och färdigheterna att reparera den
 - När team övar på denna teknik ökar den grundläggande känslomässiga säkerheten i teamet, vilket gör det mycket enklare att utvecklas som team
 
 ## Förberedelser{-}
 
 - Skriv ut rollstudier från nästa avsnitt för alla. Varje person ska få antingen "Chris"- eller "Sam"-versionen.
 
-- Be en medtränare eller någon i sessionen om de kan demonstrera tekniken med dig som visas lite längre ner. Gå igenom det med dem, förklara vad du kommer att ta upp och varför det skulle ha verkat som det rätta att göra från deras synvinkel vid den tiden.
+- Be en medfacilitator eller någon i sessionen om de kan demonstrera tekniken med dig. Se exempel längre ner. 
 
 ## Hur{-}
 
 (Sessionen nedan har designats med 4c-lärandeansatsen från konceptet "Training from the back of the room")
 
-**Uppvärmningsfråga**: Har någon upplevt att en teammedlem inte riktigt betedde sig på ett sätt som ni tycker är okej i ert team, men ni lät det gå förbi eftersom ni trodde att det skulle vara obekvämt eller leda till konflikt?
+**Uppvärmningsfråga**: Har någon upplevt att en teammedlem inte riktigt betedde sig på ett sätt som ni tycker är okej i ert team, men ni lät det passera eftersom ni trodde att ta upp det det skulle vara obekvämt eller leda till konflikt?
 
 **Koncept**
 
 *För att börja med är det en subjektiv fråga om någons beteende är okej eller inte. Någon kan tycka att det är helt okej att äta en droppande taco medan de lånar ditt tangentbord och kanske inte förstår varför du springer fram och skriker utan anledning...*
 
-*Därför, när du är i ett team, är det en bra idé att ha en konversation för att försöka sätta några regler som teamet håller med om. Det kan handla om kvalitet, hur nära man ska arbeta tillsammans, tider, roller och möten etc. Inte för många behövs, 6-7 kan räcka. Detta är en viktig del när man bygger ett team.*
+*Därför är det en bra idé att i ett team försöka sätta några regler som alla känner till och kan gå med på. Det kan handla om kvalitet, hur nära man ska arbeta tillsammans, tider, roller och möten etc. Det behävs inte så många, 6-7 kan räcka. *
 
-Om du gör detta som en del av en teamstartsession som också inkluderar att skapa arbetsöverenskommelser, påpeka här att vi kommer att göra det senare, men denna övning handlar inte om den delen.
+Hur man kan gå tillväga för att skapa teamöverenskommelser kan du se i en annan övning i den här samlingen.
 
-Så, vad ska du göra då om någon inte följer det som har överenskommits? Vem tar upp det? Faktum är att en regel som behöver finnas i varje teams arbetsöverenskommelser är att när någon märker att en annan medlem inte följer teamets överenskommelser, måste den personen ta upp det direkt och reparera överenskommelsen. Detta eftersom när en överenskommelse har brutits finns den egentligen inte längre och det finns en stor risk för att "[*krossat fönstersyndrom*](https://whatis.techtarget.com/definition/broken-window-theory)" kickar in.
+Så, vad ska du göra då om någon inte följer det som har överenskommits? Vem tar upp det? En regel som behöver finnas bland varje teams överenskommelser är att när någon märker att en annan medlem inte följer teamets överenskommelser, måste den personen ta upp det direkt och reparera överenskommelsen. Det är viktigt, för när en överenskommelse har brutits finns den egentligen inte längre och det finns en stor risk för att "[*krossat fönstersyndrom*](https://whatis.techtarget.com/definition/broken-window-theory)" kickar in.
 
 *För att förhindra att detta händer i ditt team kommer var och en av er nu att få öva på att ta upp något obekvämt med en kollega och reparera en bruten överenskommelse, men vi kommer att göra det på ett helt säkert sätt med hjälp av några påhittade fall som ni kommer att få rollspela.*
 
-*Här är mallen som jag vill att ni provar när ni gör detta, den är från Christopher Avery som är en mycket skicklig coach.*
+*Här är mallen som jag vill att ni provar när ni gör detta, den är från den duktiga teamcoachen Christopher Avery.*
 
 **Exempel**
 
-- *Först visa med hjälp av ett exempel, du kan ha förberett någon i klassen att göra detta eller göra det med en medföreläsare. Om du känner till manuset behöver den andra personen knappt någon förberedelse alls.*
+- *Först visa med hjälp av ett exempel, du kan ha förberett någon i klassen att göra detta eller göra det med en medfacilitator
 
    ***Du***: *Sam, jag tittade i koden och det verkade för mig som att du checkade in en massa kod igår kväll utan några tester, stämmer det?*
 
    ***Sam***: *Ja, det stämmer. Det var en kris och jag var tvungen att etc etc*
 
-   ***Du***: *Åh. Jag förstår. Det gör mig lite orolig nu att vi får kod utan automatiska tester i systemet. Vår teamregel att inte checka in något utan tester har varit riktigt bra för mig. Jag har känt mig mycket bekvämare med att ändra saker och vi blir inte så störda av felrapporter. Jag är rädd att om vi börjar slarva här med testningen så kommer vi snart att vara tillbaka där vi började. Vad tycker du om denna regel att aldrig checka in utan tester?*
+   ***Du***: *Åh. Jag förstår. Det gör mig lite orolig nu att vi får kod utan automatiska tester i systemet. Vår teamregel att inte checka in något utan tester har varit riktigt bra för mig. Jag har känt mig mycket bekvämare med att ändra saker och vi blir inte så störda av felrapporter. Jag är rädd att om vi börjar slarva här med testningen så kommer vi snart att vara tillbaka där vi började. Vad tycker du om regeln att aldrig checka in kod utan tester?*
 
    ***Sam***: *Jag tycker att det har varit bra. Jag var superstressad igår och hade inte tid, det är allt.*
 
@@ -53,7 +53,7 @@ Så, vad ska du göra då om någon inte följer det som har överenskommits? Ve
 
    ***Sam***: *Nä, jag tror det är bäst om vi behåller den som den är. Jag ska lägga till testerna nu och ta det lite lugnare nästa gång. Kanske kunde vi programmera parvis mer i sådana situationer för att hjälpa oss att inte ta genvägar när vi är stressade.*
 
-   ***Du***: *Toppen! Låt oss upprätthålla vår höga kvalitet! &lt;skaka hand&gt;*
+   ***Du***: *Låter bra! Låt oss prata med de andra i teamet om hur vi ska lösa den sortens situation bättre tillsammans framöver! &lt;skaka hand&gt;*
 
 *Vad tycker ni? Kan ni ta upp något obekvämt på detta sätt?*
 
@@ -69,7 +69,7 @@ Visa deltagarna mallen nedan. Skriv upp det på en tavla och visa att detta är 
 
 **Konkret övning**
 
-*Nu ska var och en av er få öva på denna teknik. Jag kommer att ge er ett manus med några påhittade fall och rollstudier. En av er kommer att spela Sam, en kommer att spela Chris.*
+*Nu ska var och en av er få öva på den här tekniken. Jag kommer att ge er ett manus med några påhittade fall och rollstudier. En av er kommer att spela Sam, en kommer att spela Chris.*
 
 *I det första fallet kommer Sam att ta upp en bruten överenskommelse med Chris och i det andra fallet kommer Chis att ta upp något med Sam.*
 
@@ -88,11 +88,11 @@ låt dem göra det, ställ några debriefing-frågor och uppmuntra dem,. Det lä
 
 ## Rollstudie för person som spelar "Sam"{-}
 
-## Fall 1: Sprintplanering{-}
+## Fall 1: Tvåveckorsplanering{-}
 
 ### Bakgrund:{-}
 
-Regeln i ditt team är att folk ska sträva efter att delta i sprintplaneringssessioner. Ni skapade denna regel eftersom ni ville ha allas perspektiv under planeringen. Chris dök inte upp vid den senaste sessionen och ni hade svårt att komma fram till en bra plan.
+Regeln i ditt team är att alla ska prioritera att delta i en planeringssession inför varje tvåveckorsperiod. Ni skapade regeln eftersom ni ville ha allas perspektiv under planeringen. Chris dök inte upp vid den senaste sessionen. Ni saknade en del av hans input och kunde inte riktigt göra klart planeringen.
 
 ### Din uppgift:{-}
 
@@ -105,7 +105,7 @@ Regeln i ditt team är att folk ska sträva efter att delta i sprintplaneringsse
 
 ### Bakgrund:{-}
 
-Ditt företag tillåter en blandning av fjärr- och kontorsarbete. För dig är arbete hemifrån ett utmärkt sätt att fokusera bättre. Särskilt på fredagar när det finns få andra möten är detta bra! Du kollar fortfarande meddelanden men ibland stänger du av dem när du verkligen behöver fokusera på något.
+Ditt företag tillåter en blandning av fjärr- och kontorsarbete. För dig är arbete hemifrån ett utmärkt sätt att fokusera bättre. Särskilt på fredagar när det finns få andra möten är detta bra! Du kollar fortfarande meddelanden, men ibland stänger du av dem när du verkligen behöver fokusera på något.
 
 
 ## Rollstudie för person som spelar "Chris"{-}
@@ -114,7 +114,7 @@ Ditt företag tillåter en blandning av fjärr- och kontorsarbete. För dig är 
 
 ### Bakgrund:{-}
 
-Ditt tandläkarbesök var under sprintplaneringen så du kunde inte delta. Du visste redan det mesta av
+Ditt tandläkarbesök var under tvåveckorsplaneringen så du kunde inte delta. Du visste redan det mesta av
 vad du skulle arbeta med så det var ingen stor sak.
 
 
@@ -122,7 +122,7 @@ vad du skulle arbeta med så det var ingen stor sak.
 
 ### Bakgrund:{-}
 
-Ditt företag tillåter en blandning av fjärr- och kontorsarbete. Ditt team har kommit överens om att försöka samlas på kontoret åtminstone på tisdagar och fredagar. Sam mailar dig för tredje fredagen i rad: "Jag kommer att jobba hemifrån idag, jag kan nås via mail och över kommunikatör". Du känner att fördelarna med kontorsarbete minskar när Sam fortfarande är på distans och ibland svarar han inte ens så snabbt.
+Din organisation tillåter en blandning av fjärr- och kontorsarbete. Ditt team har kommit överens om att försöka samlas på kontoret åtminstone på tisdagar och fredagar. Sam mailar dig för tredje fredagen i rad: "Jag kommer att jobba hemifrån idag, jag kan nås via mail och chat". Du känner att fördelarna med kontorsarbete minskar när Sam fortfarande är på distans och ibland svarar han inte ens så snabbt.
 
 ### Din uppgift:{-}
 

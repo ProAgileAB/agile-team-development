@@ -8,14 +8,14 @@ Vanligtvis 1 timme
 ## Nödvändigt material
 
 - Olika sorters post-it-lappar
-- Markörer
-- Färgade markörer
-- Flipchartpapper
+- Filtpennor som ger tydligt läsbara post-it lappar
+- Färgade pennor
+- Blädderblockspapper
 - Whiteboard, eller ännu bättre ett längre pappersark/portabel whiteboardplast att sätta upp på väggen för visionsberättelsen
 
 ## Syfte
 
-Detta är en teamstart/teamutvecklingsövning. Syftet är att teamet börjar definiera sig själva som ett team genom att skapa en gemensam vision om vilket team de vill vara.
+Syftet är att teamet börjar definiera sig själva som ett team genom att skapa en gemensam vision om vilket team de vill vara.
 
 För ett team täcker vi vanligtvis mål från flera perspektiv:
 
@@ -37,13 +37,13 @@ För ett team täcker vi vanligtvis mål från flera perspektiv:
 
 ### Uppvärmning -&gt; parvis
 
-*Okej, som en uppvärmning, vill jag att ni alla först tänker i stillhet på en riktigt bra upplevelse som ni har haft i ett team. Det kan vara på jobbet eller inom sport etc., vilket som helst team. Gör några anteckningar om vad som hände och fundera även på vad som gjorde det så bra. Nästa steg blir att prata parvis, men låt oss börja individuellt först i några minuter. Vad var det bästa teamet du varit med i, vad gjorde det så bra?*
+*Okej, som en uppvärmning, vill jag att ni alla först tänker på en riktigt bra upplevelse som ni har haft i ett team. Det kan vara på jobbet eller inom sport etc., vilket som helst team. Gör några anteckningar om vad som hände och fundera även på vad som gjorde det så bra. Nästa steg blir att prata parvis, men låt oss börja individuellt först i några minuter. Vad var det bästa teamet du varit med i, vad gjorde det så bra?*
 
 *Starta en timer för att undvika att avbryta dem innan de ens har börjat. Ge dem 4-5 minuter.*
 
 Anledningen till att vi vill att de ska skapa sin nya teamvision baserat på erfarenheter snarare än tomma slogans är att förankra den djupare genom att ha den, återigen, baserad på personliga berättelser.
 
-Vissa människor tänker bättre när de får lite individuell tid först, att ha folk skriva tyst är utformat för att göra det lättare för dem. Efter 4-5 minuter, om alla verkar ha kommit igång, avbryt dem och be dem sedan bilda par och dela med sig av vad de kom att tänka på.
+Vissa människor tänker bättre när de får lite individuell tid först, att låta alla först skriva tyst är utformat för att göra det lättare för dem. Efter 4-5 minuter, om alla verkar ha kommit igång, avbryt dem och be dem sedan bilda par och dela med sig av vad de kom att tänka på.
 
 Jag har också gjort detta direkt i parvis diskussion och jag tror att det fungerade bra också, även om teorin säger att den tysta skrivstarten förmodligen är bättre.
 
@@ -53,11 +53,11 @@ Jag har också gjort detta direkt i parvis diskussion och jag tror att det funge
 
 ### Undergrupper -&gt; visualiseringar
 
-*Ibland i det förflutna har vi bett team att skapa ett uppdrag, som "vi är modiga och innovativa och arbetar alltid tillsammans med kunden" - vilket kan vara en trevlig sammanfattning av vad ni har diskuterat, men kanske lite torrt och inte så inspirerande, så idag kommer vi att skapa två andra representationer av er teamvision. För att börja med vill jag att varje undergrupp illustrerar med en liten teckning med hjälp av de färgade markörerna på ett flipchart vad ni tycker visionen för ert team bör vara. Så, ta 15 minuter att visualisera vad ni kom fram till och sedan kommer ni att få presentera det för den andra undergruppen.*
+*Ibland i det förflutna har vi bett team att skapa en målslogan, som "vi är modiga och innovativa och arbetar alltid tillsammans med kunden" - vilket kan vara en trevlig sammanfattning av vad ni har diskuterat, men kanske lite torrt och inte så inspirerande. Idag kommer vi att skapa två andra representationer av er teamvision. För att börja med vill jag att varje undergrupp illustrerar med en liten teckning med hjälp av de färgade markörerna på ett blädderblockspapper vad ni tycker visionen för ert team bör vara. Så, ta 15 minuter att visualisera vad ni kom fram till och sedan kommer ni att få presentera det för den andra undergruppen.*
 
-Dela ut färgade markörer och flipchartpapper och starta en timer
+Dela ut färgade pennor och blädderblockspapper och starta en timer
 
-Låt dem presentera det för varandra och facilitera diskussioner om likheter och skillnader i undergruppernas visualiseringar. Finns det några områden som behöver beslutsfattande eller kan alla teammedlemmar samtycka till teamvisionen som visualiserats. Facilitera diskussioner och eventuellt beslutsfattande.
+Låt dem presentera för varandra och facilitera diskussioner om likheter och skillnader i undergruppernas visualiseringar. Finns det några områden som behöver beslutsfattande eller kan alla teammedlemmar köpa in på teamvisionen som visualiserats. Facilitera diskussioner och eventuellt beslutsfattande.
 
 ### Hela teamet -&gt; Visionsberättelse
 

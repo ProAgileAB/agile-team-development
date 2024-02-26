@@ -41,7 +41,7 @@ Vanligtvis 1,5 timmar
 
 *Så, vi kommer att göra den här övningen i tre steg, för de första två kommer vi att arbeta i par, så*
 
-*   *Först kan ni alla para ihop er med någon... Vänta tills de har...*
+*   *Först kan ni alla para ihop er med någon... Vänta tills de har gjort det...*
 *   *Nu får var och en ett blädderblockspapper och fyller i den som mitt exempel*
 
 *Vänta...*

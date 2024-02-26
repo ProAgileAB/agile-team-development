@@ -44,6 +44,7 @@ A-Team-Development-Framework \
 Team-Start-Example \
 Appreciation-Cards \
 Balancing-Team-and-Individual-Work \
+Build-Trust-With-Simple-Questions \
 Clarifying-Team-Mandate \
 Four-stages-of-psychological-safety \
 Ground-Rules-and-Decision-Making \

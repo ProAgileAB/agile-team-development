@@ -10,7 +10,7 @@ Vanligtvis 5-15 minuter
 
 ## Syfte{-}
 
-- Detta är en workshop-faciliteringsteknik som ska användas i början av en workshop för att hjälpa deltagarna att fokusera på uppgiften och också för att åta sig att arbeta tillsammans på bästa möjliga sätt.
+- Detta är en workshop-faciliteringsteknik som ska användas i början av en workshop för att hjälpa deltagarna att fokusera på uppgiften och också för att ta på sig att arbeta tillsammans på bästa möjliga sätt.
 
 - Det fungerar också som en utbildning i den viktiga "fist of five" beslutsfattandetekniken som alla team har nytta av att kunna. 
 
@@ -51,6 +51,6 @@ Efter ett tag avslutar du bara övningen, gör några poänger:
 
 - Med den här tekniken får du "samtycke." Det innebär att alla går med på gruppens belut. Det är inte samma som enhälliga beslut. Peronser kan föredra andra idéer eller lösningar, men efter att ha blivit hörda är det vanligtvis möjligt att få samtycke ändå. Att alla går med på ett beslut ökar kraften i genomförandet.
 
-- Att skapa stort stöd för ett beslut inte alltid lika viktigt. För beslut runt hur man arbetar tillsammans är det dock viktigt. Alla måste lämna sitt medgivande för den tyoen av beslut flr att det ska fungera.
+- Att skapa stort stöd för ett beslut inte alltid lika viktigt. För beslut runt hur man arbetar tillsammans är det dock viktigt. Alla måste lämna sitt medgivande för den typen av beslut för att det ska fungera.
 
 - För andra typer av beslut kan du använda andra metoder, t.ex. majoritetsomröstning. Men du måste bestämma om beslutsmetoden innan du börjar.

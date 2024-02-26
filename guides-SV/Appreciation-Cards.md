@@ -14,11 +14,11 @@
 * Förbereda för svåra samtal.
 
 ## Hur
-1. Placera deltagarna i en cirkel eller liknande formation. Vi behöver kunna skicka papper runt på ett ordnat sätt.
-2. Varje person skriver sitt namn i mitten av pappret, viker det på mitten och skickar det ett steg medsols.
-3. Be alla att bara läsa namnet på pappret de fått och sedan skriva ner vad de uppskattar mest med denna person. Var som helst, i vilken riktning du vill. Max 2 min per anteckning.
+1. Placera deltagarna i en cirkel eller i en liknande formation. Ni behöver kunna skicka papper runt på ett ordnat sätt.
+2. Varje person skriver sitt namn i mitten av pappret, viker det sedan på mitten och skickar det ett steg medsols.
+3. Be alla att bara läsa namnet på pappret de fått och sedan skriva ned vad de uppskattar mest med denna person. Tänk fritt och ta det var som helst, i vilken riktning du vill. Max 2 min per anteckning.
 4. Skicka runt pappren tills du får tillbaka ditt eget.
 
 Viktigt, du ska inte läsa vad andra har skrivit, bara namnet innan du skriver dina uppskattningar på ett kort.
 
-När du får tillbaka ditt papper kan du göra vad du vill med det, förutom att berätta för någon annan vad som står på det. Pappret är endast för personen som tar emot det.
+När du får tillbaka ditt papper kan du göra vad du vill med det, förutom att berätta för någon annan vad som står på det. Pappret är bara till för personen som tar emot det.

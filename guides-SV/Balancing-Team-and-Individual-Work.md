@@ -2,8 +2,8 @@
 <img src="images/balance-team-individual.png" >
 
 ## Syfte
-* Skapa en gemensam syn i teamet när det gäller fördelar, nackdelar och personliga preferenser för att arbeta nära som ett team och när man arbetar individuellt.
-* Skapa verktyg som gör det möjligt för teamet att dra nytta av och undvika nackdelar med båda arbetsmetoderna.
+* Skapa en gemensam syn i teamet vad gäller fördelar, nackdelar och personliga preferenser för att arbeta väl ihop som ett team och när man arbetar individuellt.
+* Skapa verktyg som gör det möjligt för teamet att dra nytta av, och undvika nackdelar med, båda arbetsmetoderna.
 * Möjliggöra och inspirera varje teammedlem att ta ansvar för välbefinnandet hos alla andra teammedlemmar.
 
 ## Tid som krävs
@@ -76,7 +76,7 @@ Upprepa för teamarbete.
 Ställ frågan:
 
 * Vem är ansvarig för att vi befinner oss i det positiva?
-Idealt sett skulle detta vara alla teammedlemmars ansvar.
+I den bästa av världar så skulle detta vara alla teammedlemmars ansvar.
 
 **Nuvarande preferenser**
 

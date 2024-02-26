@@ -1,10 +1,10 @@
-# Exempel på två teamdagar
+# Exempel på upplägg för två teamdagar
 <img src="images/team-start.png" >
 
 ## Syfte
 
-- Stödja ett team i deras teambildnings-/teamutvecklingsprocess.
-- Lägga grunden som behövs för att en ledare på teamnivå ska kunna coacha teamet som ett team.
+- ATt ge ett team en bra start/nyastart
+- Lägga grunden som behövs för att en ledare på teamnivå ska kunna coacha teamet vidare som ett team.
 
 ## Tid som krävs
 
@@ -14,9 +14,9 @@ Det finns mer material än så, så gör planer på hur resten ska täckas, anti
 
 ## Förberedelser
 
-* Kontrollera att teamuppställningen är tillräckligt bra för att det ska vara meningsfullt att börja arbeta med teamutveckling. T.ex.
+* Kontrollera att ramarna för teamet är tillräckligt bra för att det ska vara meningsfullt att börja arbeta med teamutveckling. T.ex.
     * Teamet behöver ha ett övertygande mål,
-    * lämpliga färdigheter för att kunna nå målet.
+    * lämpliga färdigheter i teamet för att kunna nå målet.
     * Det bör inte vara för stort osv.
 * Skapa buy-in från teamet och varje teammedlem för workshopen om det behövs. Vi vill ha ett team som är motiverat att delta
 * Boka några förberedelsessioner med någon linjechef och en produktchef/PO. De behöver presentera målen från
@@ -40,14 +40,14 @@ Det finns mer material än så, så gör planer på hur resten ska täckas, anti
 
 Syftet med uppvärmnings-sessionen är
 
-* Få alla att börja prata, interagera snarare än att passivt lyssna
+* Få alla att börja prata och interagera snarare än att passivt lyssna
 * Få alla att tänka på vad de redan vet och tänker om ämnet för dagen.
 
 Vi vill att detta ska starta direkt på morgonen för att undvika att folk hamnar i "lyssnarläge". Så: Håll dina välkomnanden etc mycket korta (&lt; 1 minut!) och starta med några uppvärmningsaktiviteter nästan omedelbart. Parvisa aktiviteter är bäst eftersom då blir alla som mest aktiva.
 
 #### Exempel:
 
-*Hej, välkomna till denna dag med vårt team! Vi har förberett en massa intressanta övningar och jag hoppas att ni alla kommer att tycka att det är både användbart och roligt för vårt team! Innan vi går in på agendan etc om några minuter, skulle jag vilja att vi alla börjar med några uppvärmningsaktiviteter.*
+*Hej, välkomna till denna dag med vårt team! Vi har förberett en massa övningar som jag tror ochhoppas att ni alla kommer att tycka är både användbara och roliga! Innan vi går in på agendan etc om några minuter, skulle jag vilja att vi börjar med några uppvärmningsaktiviteter.*
 
 * Skulle ni alla kunna para ihop er och diskutera en minut: *
 
@@ -55,13 +55,13 @@ Vi vill att detta ska starta direkt på morgonen för att undvika att folk hamna
 
      Låt dem prata i 5 minuter tills de kommer igång, avbryt dem sedan och samla in några idéer från paren. Ge dem sedan en annan uppvärmningsfråga
 
-*   *Innan vi börjar försöka bygga ett riktigt bra team, borde vi komma överens om vad det är. Hur skulle någon kunna se att vi framgångsrikt har skapat ett riktigt bra team?*
+*   *Innan vi börjar försöka bygga ett riktigt bra team, borde vi komma överens om vad ett bra team det är. Hur skulle någon kunna se att vi framgångsrikt har skapat ett riktigt bra team?*
 
 Låt dem prata i 5 minuter och samla sedan in några svar. Det blir en blandning av åtgärder för att uppnå storhet och hur man faktiskt ser att storheten har uppnåtts. 
 
 Gör inget! Visa dem definitionen från Richard Hackman och be dem jämföra med sina egna diskussioner:
 
-*   Överträffa intressenters förväntningar
+*   Överträffa sina intressenters förväntningar
 *   Växa och bli mer kapabla som team över tid
 *   Varje individ ska lära sig, växa och finna arbetet meningsfullt och tillfredsställande
 
@@ -111,12 +111,11 @@ Tid som krävs, vanligtvis 1h
 
 Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides-SV/Team-Vision.html)
 
-## Arbetsöverenskommelser
+## Teamöverenskommelse
 
-Facilitera att skapa några teamöverenskommelser om hur man ska arbeta tillsammans. Börja med några individuella reflektioner och använd sedan "knuten till fem fingrar" för att snabbt förädla några förslag och fatta konsensbeslut. Dokumentera på en flipchart.
+Facilitera att skapa några teamöverenskommelser om hur man ska arbeta tillsammans. Börja med några individuella reflektioner och använd sedan "femfingeromröstning" för att snabbt förfina några förslag och fatta beslit som alla går med på ("consent/medgivande-beslut"). Dokumentera på en flipchart.
 
-En arbetsöverenskommelse som du förmodligen vill utforska med ditt team är hur och när man ska arbeta som individer och hur och när man ska arbeta som ett
-team. Kolla in guiden om '[*Balansera Team- och Individuellt arbete*](https://proagileab.github.io/agile-team-development/guides-SV/Balancing-Team-and-Individual-Work.html)' för ett bra sätt att göra det.
+En teamöverenskommelse som du förmodligen vill utforska med ditt team är hur och när man ska arbeta som individer och hur och när man ska arbeta som ett team. Kolla in guiden om '[*Balansera Team- och Individuellt arbete*](https://proagileab.github.io/agile-team-development/guides-SV/Balancing-Team-and-Individual-Work.html)' för ett bra sätt att göra det.
 
 ## Individuella mål
 
@@ -124,14 +123,14 @@ Tid som krävs, vanligtvis 1,5h
 
 Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides-SV/Individual-Goals.html)
 
-En liknande men något enklare övning är "Market of skills" Tid som krävs: 30-60 min
+En liknande men något enklare övning är "Färdighets-marknad" Tid som krävs: 30-60 min
 Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-development/guides-SV/Market-of-Skills.html):
 
 ## Teamfärdigheter
 
 *   Teamformeringsteori
     
-    Ett team går igenom olika faser. Se till exempel formning, stormning, normering, prestationsteorin av Bruce Tuckman eller det mer samtida arbetet av Susan Wheelan. Visa snabbt teamet detta och hjälp dem inse att detta kommer att hända. Särskilt att den första smekmånadsperioden kommer att följas av en period av konflikt och att detta är en bra sak som kommer att möjliggöra teamets tillväxt om det hanteras på rätt sätt.
+    Ett team går igenom olika faser. Se till exempel formning, stormning, norming, performing-teorin av Bruce Tuckman eller det mer samtida arbetet av Susan Wheelan. Visa snabbt teamet detta och hjälp dem inse att detta kommer att hända. Särskilt att den första smekmånadsperioden kommer att följas av en period av konflikt och att detta är en bra sak som kommer att möjliggöra teamets utveckling om det hanteras på rätt sätt.
 
 *   Reparera brutna överenskommelser
     
@@ -148,4 +147,4 @@ Se [*separat faciliteringsguide*](https://proagileab.github.io/agile-team-develo
     
 *   Problemlösning
     
-    Team behöver lära sig systematisk problemlösning för att möjliggöra bra beslutsfattande. Detta behövs både för att lösa tekniska problem på ett bättre sätt än att basera det på åsikter. Det behövs också för att lösa många arbetssättsproblem i större organisationer. A3-metoden och/eller orsak-effekt-diagram är en bra teknik som ofta är värdefull för båda dessa problem. Detta är bäst övat på några verkliga problem i en separat session. Avsätt 2 timmar för det och bjud in en uppsättning intressenter som kan bidra med en mångsidig uppsättning synpunkter på något svårt problem.
+    Team behöver lära sig systematisk problemlösning för att möjliggöra bra beslutsfattande. Detta behövs både för att lösa tekniska problem på ett bättre sätt än att basera det på åsikter. Det behövs också för att lösa många arbetssättsproblem i större organisationer. A3-metoden och/eller orsak-effekt-diagram är en bra teknik som ofta är värdefull för båda dessa problem. Detta är övas bäst på några verkliga problem i en separat session. Avsätt 2 timmar för det och bjud in en uppsättning intressenter som kan bidra med en många perspektiv på något svårt problem.

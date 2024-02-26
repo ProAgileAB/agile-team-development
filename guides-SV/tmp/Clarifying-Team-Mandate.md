@@ -11,7 +11,7 @@
 
 ## Förberedelser{-}
 * [*Skriv ut*](https://management30.com/practice/delegation-poker/#download) eller [*köp*](https://management30.com/shop/delegation-poker-cards/) delegationskort, ett set per deltagare i sessionen: team + chefer.
-* Förbered en lista över områden där du tror att klargörande av mandat kommer att vara användbart. Områdena kan erhållas från personer som ansvarar för saker idag, såsom linjechefer, produktchefer, produktägare etc. De kan också erhållas från teamet som områden där de skulle vilja ha (ökad) påverkan eller klargöra ansvar. 
+* Förbered en lista över områden där du tror att klargörande av mandat kommer att vara användbart. Områden kan fås från personer som ansvarar för saker idag, såsom linjechefer, produktchefer, produktägare etc. De kan också fås från teamet som områden där de skulle vilja ha (ökad) påverkan eller klargöra ansvar. 
 I exemplet nedan kan du se några förslag på områden som används i en verklig teaminställning.
 
 ## Hur{-}
