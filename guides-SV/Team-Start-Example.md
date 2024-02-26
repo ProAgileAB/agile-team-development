@@ -3,8 +3,8 @@
 
 ## Syfte
 
-- ATt ge ett team en bra start/nyastart
-- Lägga grunden som behövs för att en ledare på teamnivå ska kunna coacha teamet vidare som ett team.
+- Att ge ett team en bra start/nystart
+- Att lägga grunden som behövs för att en ledare på teamnivå ska kunna coacha teamet vidare som ett team.
 
 ## Tid som krävs
 
