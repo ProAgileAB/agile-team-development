@@ -55,6 +55,7 @@ Efter diskussionen, läs exemplen och diskutera (fortsätt i samma par):
 Dela med hela gruppen de önskemål ni känner er bekväma med, som identifierats i det sista steget.
 
 Bilda det sista paret (förhoppningsvis med en ny person) och hjälp varandra att hitta en åtgärd ni kan vidta var och en för att möta kollegornas önskemål.
+\newpage
 
 ## Definitioner
 
@@ -69,6 +70,7 @@ Kan du bidra med värde till ditt team? Medverkanstrygghet tillfredsställer det
 
 ### Utmaningstrygghet
 Känner du att du kan vara öppen om förändringar? Utmaningstrygghet tillfredsställer det grundläggande mänskliga behovet av att förbättra och förnya. När vi skapar utmaningstrygghet ger vi skydd i utbyte mot uppriktighet. Utmaningstrygghet ger teammedlemmar en röst att uttrycka sig när det finns möjligheter till förbättringar. Människor kan vara oeniga på ett produktivt sätt. Om du saknar utmaningstrygghet, tystnar teamet och människor bestraffas för sitt mod och sin ärlighet.
+\newpage
 
 
 ## Exempel
@@ -83,6 +85,8 @@ Om någon ser ut, talar, äter eller beter sig annorlunda än du, visa genuin ny
 
 #### Erkänn och respektera gränser
 Det kan vara svårt att sätta gränser, men våra behov är en del av vårt autentiska jag. Identifiera dina teammedlemmars behov. Låt varje person veta att du är medveten om deras gränser och kommunicera vad du kommer att göra för att respektera dem. Sätt förväntningar om att gränser ska respekteras i teamkulturen.
+\newpage
+
 
 ### Exempel på Lärtrygghet
 
