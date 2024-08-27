@@ -63,11 +63,12 @@ syndrome*](https://whatis.techtarget.com/definition/broken-window-theory)" kicki
 
 Show the participants the template below. Write it on a template and show that this is what you just demonstrated:
 
-- Bring up what you noticed, check if the other person agrees with what you noticed?
-- Tell the other person what the agreement means to you and why you want to keep it.
-- Ask the other person about their view on the agreement
-- Ask if the agreement needs to be changed to work for the other person
-- Make a decision about a new agreement or decide to keep the old one.
+1. Bring up what you noticed, check if the other person agrees with what you noticed?
+1. Tell the other person what the agreement means to you and why you want to keep it.
+1. Ask the other person about their view on the agreement
+1. Ask if the agreement needs to be changed to work for the other person
+1. Make a decision about a new agreement or decide to keep the old one.
+
 
 **Concrete practise**
 
@@ -98,9 +99,14 @@ The rule in your team is that people should strive to participate in sprint plan
 
 ### Assignment:
 
-*   Initiate a discussion with Chris about the broken agreement
-*   Try to renegotiate it so that it fits you both.
-*   Use Christopher Avery's technique for repairing broken agreements
+Initiate a discussion with Chris about the broken agreement. Use Christopher Avery's technique for repairing broken agreements:
+
+1. Bring up what you noticed, check if the other person agrees with what you noticed?
+1. Tell the other person what the agreement means to you and why you want to keep it.
+1. Ask the other person about their view on the agreement
+1. Ask if the agreement needs to be changed to work for the other person
+1. Make a decision about a new agreement or decide to keep the old one.
+
 
 
 ## Case 2: Working from home
@@ -129,6 +135,12 @@ today, I can be reached by mail and over communicator". You feel that the benefi
 
 ### Assignment:
 
-*   Initiate a discussion with Sam about the situation
-*   Try to create an agreement that meets both your needs
+Initiate a discussion with Sam about the situation. Use Christopher Avery's technique for repairing broken agreements:
+
+1. Bring up what you noticed, check if the other person agrees with what you noticed?
+1. Tell the other person what the agreement means to you and why you want to keep it.
+1. Ask the other person about their view on the agreement
+1. Ask if the agreement needs to be changed to work for the other person
+1. Make a decision about a new agreement or decide to keep the old one.
+
 

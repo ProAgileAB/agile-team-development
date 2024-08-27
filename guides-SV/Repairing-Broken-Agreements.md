@@ -61,11 +61,11 @@ Så, vad ska du göra då om någon inte följer det som har överenskommits? Ve
 
 Visa deltagarna mallen nedan. Skriv upp det på en tavla och visa att detta är vad du precis demonstrerade:
 
-- Ta upp vad du har märkt, kontrollera om den andra personen håller med om vad du har märkt?
-- Berätta för den andra personen vad överenskommelsen betyder för dig och varför du vill behålla den.
-- Fråga den andra personen om deras syn på överenskommelsen
-- Fråga om överenskommelsen behöver ändras för att fungera för den andra personen
-- Fatta ett beslut om en ny överenskommelse eller besluta att behålla den gamla.
+1. Ta upp vad du har märkt, kontrollera om den andra personen håller med om vad du har märkt?
+1. Berätta för den andra personen vad överenskommelsen betyder för dig och varför du vill behålla den.
+1. Fråga den andra personen om deras syn på överenskommelsen
+1. Fråga om överenskommelsen behöver ändras för att fungera för den andra personen
+1. Fatta ett beslut om en ny överenskommelse eller besluta att behålla den gamla.
 
 **Konkret övning**
 
@@ -96,9 +96,13 @@ Regeln i ditt team är att alla ska prioritera att delta i en planeringssession 
 
 ### Din uppgift:
 
-*   Initiera en diskussion med Chris om den brutna överenskommelsen
-*   Försök att förhandla om den så att den passar er båda.
-*   Använd Christopher Averys teknik för att reparera brutna överenskommelser
+Initiera en diskussion med Chris om den brutna överenskommelsen. Använd Christopher Averys teknik för att reparera brutna överenskommelser:
+
+1. Ta upp vad du har märkt, kontrollera om den andra personen håller med om vad du har märkt?
+1. Berätta för den andra personen vad överenskommelsen betyder för dig och varför du vill behålla den.
+1. Fråga den andra personen om deras syn på överenskommelsen
+1. Fråga om överenskommelsen behöver ändras för att fungera för den andra personen
+1. Fatta ett beslut om en ny överenskommelse eller besluta att behålla den gamla.
 
 
 ## Fall 2: Arbete hemifrån
@@ -126,5 +130,11 @@ Din organisation tillåter en blandning av fjärr- och kontorsarbete. Ditt team 
 
 ### Din uppgift:
 
-*   Initiera en diskussion med Sam om situationen
-*   Försök att skapa en överenskommelse som möter båda era behov
+Initiera en diskussion med Sam om situationen. Använd Christopher Averys teknik för att reparera brutna överenskommelser:
+
+1. Ta upp vad du har märkt, kontrollera om den andra personen håller med om vad du har märkt?
+1. Berätta för den andra personen vad överenskommelsen betyder för dig och varför du vill behålla den.
+1. Fråga den andra personen om deras syn på överenskommelsen
+1. Fråga om överenskommelsen behöver ändras för att fungera för den andra personen
+1. Fatta ett beslut om en ny överenskommelse eller besluta att behålla den gamla.
+
