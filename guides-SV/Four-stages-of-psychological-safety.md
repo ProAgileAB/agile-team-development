@@ -21,13 +21,13 @@ Skriv även ut dokumentet med exemplen, men håll dessa två dokument åtskilda.
 
 Skriv ned namnen på de fyra stadierna på stora lappar eller skrivarpapper, ett namn per lapp/papper:
 - Inkluderingstrygghet
-- Lärtrygghet
+- Lärandetrygghet
 - Bidragstrygghet
 - Utmaningstrygghet
 
 Läs igenom beskrivningarna så att du har en god förståelse för varje utvecklingsstadium av psykologisk trygghet.
 
-Dela in rummet i fyra områden med maskeringstejp och placera en lapp med namnet på ett stadie i varje område. Områdena bör placeras i en logisk ordning så att deltagarna kan röra sig från "Inkluderingstrygghet" till "Lärtrygghet", vidare till "Medverkanstrygghet" och slutligen till "Utmaningstrygghet" utan att behöva korsa andra områden. Varje stadie ska också ha en tydlig skala, t.ex. från 1 till 10, markerad på golvet.
+Dela in rummet i fyra områden med maskeringstejp och placera en lapp med namnet på ett stadie i varje område. Områdena bör placeras i en logisk ordning så att deltagarna kan röra sig från "Inkluderingstrygghet" till "Lärandetrygghet", vidare till "Medverkanstrygghet" och slutligen till "Utmaningstrygghet" utan att behöva korsa andra områden. Varje stadie ska också ha en tydlig skala, t.ex. från 1 till 10, markerad på golvet.
 
 
 ## Hur
@@ -62,8 +62,8 @@ Bilda det sista paret (förhoppningsvis med en ny person) och hjälp varandra at
 ### Inkluderingstrygghet
 Kan du vara ditt autentiska jag i ditt team? Inkluderingstrygghet tillfredsställer det grundläggande mänskliga behovet av att anknyta och känna tillhörighet. I detta stadium föregår värde värdighet. Allt du behöver göra för att kvalificera dig för inkluderingstrygghet är att vara människa och ofarlig. När du har inkluderingstrygghet kan du ta med hela dig själv till arbetet. Om du saknar det, dominerar överlägsenhet och hierarki företagets kultur. Barriärer upprätthålls och förstärks. Du kanske officiellt är en del av teamet, men utan inkluderingstrygghet kommer du inte att känna dig som en del av det.
 
-### Lärtrygghet
-Har du utrymme att växa? Lärande och utveckling är ett grundläggande behov som måste tillgodoses för att innovation ska frodas i en organisation. I detta stadium är rädsla separerad från misstag, och misstag ses som en naturlig del av inlärningsprocessen. För att kvalificera dig för lärtrygghet måste du aktivt engagera dig i inlärningen, det sker inte av sig självt. När du har lärtrygghet i din organisation uppmuntras och firas lärande. Lärande skyddas. Om du saknar lärtrygghet, döljs och bestraffas misstag, och ditt team tenderar att fokusera på att utföra snarare än att innovera.
+### Lärandetrygghet
+Har du utrymme att växa? Lärande och utveckling är ett grundläggande behov som måste tillgodoses för att innovation ska frodas i en organisation. I detta stadium är rädsla separerad från misstag, och misstag ses som en naturlig del av inlärningsprocessen. För att kvalificera dig för lärandetrygghet måste du aktivt engagera dig i inlärningen, det sker inte av sig självt. När du har lärandetrygghet i din organisation uppmuntras och firas lärande. Lärande skyddas. Om du saknar lärandetrygghet, döljs och bestraffas misstag, och ditt team tenderar att fokusera på att utföra snarare än att innovera.
 
 ### Medverkanstrygghet
 Kan du bidra med värde till ditt team? Medverkanstrygghet tillfredsställer det grundläggande mänskliga behovet av att göra skillnad och erbjuda meningsfulla bidrag. När vi skapar medverkanstrygghet för andra ger vi dem autonomi, vägledning och uppmuntran i utbyte mot deras ansträngningar och resultat. När du har medverkanstrygghet i din organisation blomstrar teamet under ett gemensamt resultatansvar. Roller är tydligt definierade, men individer uppmuntras att tänka utanför sina roller. Små framsteg firas. Om du saknar medverkanstrygghet, ges autonomi utan tillräcklig vägledning, vilket kan få teammedlemmar att känna sig som reservspelare.
@@ -75,7 +75,7 @@ Känner du att du kan vara öppen om förändringar? Utmaningstrygghet tillfreds
 
 ## Exempel
 
-### Exempel på Inkluderingstrygghet
+### Exempel på inkluderingstrygghet
 
 #### Ge utrymme för människor att tala
 Svara, eller avbryt, inte omedelbart med din egen berättelse eller perspektiv. Håll igång samtalet och uppmuntra dina kollegor att dela med sig mer. Ju mer validering de känner när de delar något personligt, desto troligare är det att de kommer att engagera sig igen i framtiden. Detta kan skapa en mer meningsfull relation för er båda.
@@ -88,7 +88,7 @@ Det kan vara svårt att sätta gränser, men våra behov är en del av vårt aut
 \newpage
 
 
-### Exempel på Lärtrygghet
+### Exempel på lärandetrygghet
 
 #### Värdera ärlighet framför rätta svar
 Arbete är i grunden prestationsbaserat. För vissa människor innebär det att medge att de inte vet något, att de inte kan prestera. Ärlighet kommer att föra er framåt mycket snabbare än att låtsas ha svaren. Värdera din kollegas ärlighet högre än deras upplevda oförmåga att bidra.
@@ -103,7 +103,7 @@ Misstag är mest värdefulla när du kan fastställa vad som lärdes av dem. Utt
 \newpage
 
 
-### Exempel på Medverkanstrygghet
+### Exempel på medverkanstrygghet
 
 #### Be om tillstånd innan du ger feedback
 Ibland är det så enkelt som det! Att be om tillstånd kan dämpa en del av de emotionella riskerna som är förknippade med att ge feedback. Försök med "Hej, får jag ge dig lite feedback?" Om du får ett ja, är det mer troligt att du blir bemött med tacksamhet och uppriktighet.
@@ -115,7 +115,7 @@ Låt ditt team veta att du förväntar dig deras input. Om någon inte deltar, f
 I möten där uppgifter tilldelas och diskuteras, börja med de förväntade förväntningarna på både mötet och uppgifterna i fråga. Vid slutet av mötet, upprepa vad som diskuterades och gör nödvändiga ändringar i det inledande
 \newpage
 
-### Exempel på Utmaningstrygghet
+### Exempel på utmaningstrygghet
 
 #### Be om dåliga nyheter
 Du kommer att bli förvånad över vad människor är villiga att peka ut när de specifikt ombeds leverera dåliga nyheter tillsammans med de goda nyheterna. De kommer att belysa problem som, när de är lösta, kommer att gynna ditt team. Det kommer att visa dina kollegor att du omfamnar alla aspekter av innovationsprocessen.
