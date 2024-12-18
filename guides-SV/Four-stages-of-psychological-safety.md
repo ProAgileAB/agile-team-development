@@ -69,7 +69,7 @@ Har du utrymme att växa? Lärande och utveckling är ett grundläggande behov s
 Kan du bidra med värde till ditt team? Medverkanstrygghet tillfredsställer det grundläggande mänskliga behovet av att göra skillnad och erbjuda meningsfulla bidrag. När vi skapar medverkanstrygghet för andra ger vi dem autonomi, vägledning och uppmuntran i utbyte mot deras ansträngningar och resultat. När du har medverkanstrygghet i din organisation blomstrar teamet under ett gemensamt resultatansvar. Roller är tydligt definierade, men individer uppmuntras att tänka utanför sina roller. Små framsteg firas. Om du saknar medverkanstrygghet, ges autonomi utan tillräcklig vägledning, vilket kan få teammedlemmar att känna sig som reservspelare.
 
 ### Utmaningstrygghet
-Känner du att du kan vara öppen om förändringar? Utmaningstrygghet tillfredsställer det grundläggande mänskliga behovet av att förbättra och förnya. När vi skapar utmaningstrygghet ger vi skydd i utbyte mot uppriktighet. Utmaningstrygghet ger teammedlemmar en röst att uttrycka sig när det finns möjligheter till förbättringar. Människor kan vara oeniga på ett produktivt sätt. Om du saknar utmaningstrygghet, tystnar teamet och människor bestraffas för sitt mod och sin ärlighet.
+Känner du att du kan vara öppen om förändringar? Utmaningstrygghet tillfredsställer det grundläggande mänskliga behovet av att förbättra och förnya. När vi skapar utmaningstrygghet ger vi skydd i utbyte mot uppriktighet. Utmaningstrygghet ger teammedlemmar en röst att uttrycka sig när det finns möjligheter till förbättringar. Människor kan vara oeniga på ett produktivt sätt. Om du saknar utmaningstrygghet, tystnar teamet och människor bestraffas för sitt mod och sin ärlighet.  
 \newpage
 
 
@@ -112,7 +112,7 @@ Ibland är det så enkelt som det! Att be om tillstånd kan dämpa en del av de 
 Låt ditt team veta att du förväntar dig deras input. Om någon inte deltar, fråga dem vänligt om de har tankar. Ställ specifika frågor om de behöver riktning.
 
 #### Gör förväntningar till bokstöd i ditt möte
-I möten där uppgifter tilldelas och diskuteras, börja med de förväntade förväntningarna på både mötet och uppgifterna i fråga. Vid slutet av mötet, upprepa vad som diskuterades och gör nödvändiga ändringar i det inledande
+I möten där uppgifter tilldelas och diskuteras, börja med de förväntade förväntningarna på både mötet och uppgifterna i fråga. Vid slutet av mötet, upprepa vad som diskuterades och gör nödvändiga ändringar i inledningen av mötet.
 \newpage
 
 ### Exempel på utmaningstrygghet
@@ -125,3 +125,8 @@ Om du befinner dig i ett eko-kammare, eller står knädjupt i grupptänkande, be
 
 #### Visa tacksamhet för möjligheten att lära sig och förbättra
 Mod är en ädel egenskap, en som inte bör tystas ned. Även om du känner dig generad av misstaget, låt inte det styra din reaktion på deras mod. De vill det bästa för dig och för din organisation, annars hade de inte nämnt misstaget från första början. Var öppen och ärlig, inte skyddad och kall. Förvänta dig samma reaktion från dem.
+
+
+## Källhänvisningar
+
+Dessa beskrivningar och texter är löst baserade på boken "The 4 stages of Psychological Safety" av Timmothy R Clark.
