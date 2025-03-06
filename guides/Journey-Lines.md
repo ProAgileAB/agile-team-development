@@ -35,7 +35,7 @@ This exercise is very well described in Lyssa Adkins' book "Coaching Agile Teams
 
 *One thing that self-management means is that that the team, not a project manager or team leader, decides how to work together, who does what etc.*
 
-*To be able to do this is good for us to know a bit more about each other's experience and what each of us we enjoy working on and not, so that is the purpose of this next exercise.*
+*To be able to do this, it is good for us to know a bit more about each other's experience and what each of us  enjoy working on and not, so that is the purpose of this next exercise.*
 
 *This is how it will work:*
 
