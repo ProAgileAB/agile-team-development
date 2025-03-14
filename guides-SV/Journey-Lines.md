@@ -22,7 +22,8 @@ Denna övning är mycket väl beskriven i Lyssa Adkins' bok "Coaching Agile Team
 ## Förberedelser
 *   Skaffa material
       *   Flipchart-papper
-      *   Whiteboard-pennor för att rita "Journey Lines"
+      *   A4 papper (det kan vara lättare att börja rita sin livslinje på ett mindre papper)
+      *   Whiteboard-pennor för att rita "Journey Lines" (eller liknande pennor, svarta men även andra färger är uppskattat)
       *   Post-its
       *   Pennor för Post-its
       *   En timer för att hålla koll på tidsboxar för presentationer

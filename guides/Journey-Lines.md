@@ -21,8 +21,9 @@ This exercise is very well described in Lyssa Adkins' book "Coaching Agile Teams
 
 ## Preparations
 *   Get materials
-      *   Flip chart paper
-      *   Whiteboard markers to draw "Journey Lines"
+      *   Flip chart papers
+      *   A4 papers (it can sometimes be more convenient to start drawing your journey lines on a smaller paper)
+      *   Whiteboard markers to draw "Journey Lines" (or similar pens, black ones but also other colors are appreciated)
       *   Post-its
       *   Markers for posits
       *   A timer to keep track of time boxes for presentations
